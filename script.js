@@ -2,39 +2,39 @@
 const toolsData = [
     {
         id: 1,
-        title: "File Explorer",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/explorer-4.png",
-        description: "Browse and manage your files and folders with this classic Windows XP file explorer.",
-        downloadUrl: "https://example.com/download/1"
+        title: "7-Zip",
+        creator: "Igor Pavlov",
+        image: "https://7-zip.org/screens/main.png",
+        description: "A free, open-source file archiver with high compression ratio. Supports multiple formats like ZIP, RAR, TAR, and its own 7z.",
+        downloadUrl: "https://7-zip.org/download.html"
     },
     {
         id: 2,
-        title: "Notepad",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/notepad-4.png",
-        description: "Simple text editor for creating and editing plain text files. Supports basic formatting.",
-        downloadUrl: "https://example.com/download/2"
+        title: "VLC Media Player",
+        creator: "VideoLAN organization",
+        image: "https://www.videolan.org/images/vlc-360.png",
+        description: "A versatile, open-source media player that supports almost all video and audio formats without additional codecs.",
+        downloadUrl: "https://www.videolan.org/vlc/"
     },
     {
         id: 3,
-        title: "Calculator",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/calculator-1.png",
-        description: "Standard calculator for basic arithmetic operations. Includes scientific mode.",
-        downloadUrl: "https://example.com/download/3"
+        title: "Notepad++",
+        creator: "Dan Ho",
+        image: "https://notepad-plus-plus.org/images/logo.png",
+        description: "A powerful text and code editor with syntax highlighting, tabbed editing, and plugin support for programmers.",
+        downloadUrl: "https://notepad-plus-plus.org/downloads/"
     },
     {
         id: 4,
-        title: "Paint",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/paint-4.png",
-        description: "Create and edit bitmap images with various drawing tools and colors.",
-        downloadUrl: "https://example.com/download/4"
+        title: "OBS Studio",
+        creator: "Not found",
+        image: "https://obsproject.com/assets/images/new_icon_small.png",
+        description: "Free, open-source software for video recording and live streaming, popular among gamers and content creators.",
+        downloadUrl: "https://obsproject.com/"
     },
     {
         id: 5,
-        title: "Media Player",
+        title: "Media Playe",
         creator: "Microsoft",
         image: "https://win98icons.alexmeub.com/icons/png/media_player-4.png",
         description: "Play audio and video files with this classic media player. Supports multiple formats.",
