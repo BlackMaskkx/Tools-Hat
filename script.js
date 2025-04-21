@@ -4633,6 +4633,806 @@ const toolsData = [
     "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice"
 },
     {
+    "id": 601,
+    "title": "Metasploit Framework",
+    "creator": "Rapid7",
+    "image": "https://www.metasploit.com/img/metasploit-logo.svg",
+    "description": "Penetration testing platform for developing and executing exploit code against remote targets.",
+    "downloadUrl": "https://www.metasploit.com/download"
+},
+{
+    "id": 602,
+    "title": "Nmap",
+    "creator": "Gordon Lyon",
+    "image": "https://nmap.org/images/sitelogo-nmap.png",
+    "description": "Network discovery and security auditing tool with host discovery and service detection capabilities.",
+    "downloadUrl": "https://nmap.org/download.html"
+},
+{
+    "id": 603,
+    "title": "Wireshark",
+    "creator": "Wireshark Foundation",
+    "image": "https://www.wireshark.org/assets/images/wslogo.png",
+    "description": "Network protocol analyzer for troubleshooting, analysis, and protocol development.",
+    "downloadUrl": "https://www.wireshark.org/download.html"
+},
+{
+    "id": 604,
+    "title": "Burp Suite",
+    "creator": "PortSwigger",
+    "image": "https://portswigger.net/burp/frontpage/images/logos/burp_suite.svg",
+    "description": "Web application security testing platform with scanner, intruder, repeater and other tools.",
+    "downloadUrl": "https://portswigger.net/burp/releases"
+},
+{
+    "id": 605,
+    "title": "John the Ripper",
+    "creator": "Openwall",
+    "image": "https://www.openwall.com/john/logo.png",
+    "description": "Password cracking tool that detects weak Unix passwords and supports hundreds of hash types.",
+    "downloadUrl": "https://www.openwall.com/john/"
+},
+{
+    "id": 606,
+    "title": "Aircrack-ng",
+    "creator": "Thomas d'Otreppe",
+    "image": "https://www.aircrack-ng.org/images/logo.png",
+    "description": "Complete suite of tools to assess WiFi network security including monitoring, attacking and cracking.",
+    "downloadUrl": "https://www.aircrack-ng.org/downloads.html"
+},
+{
+    "id": 607,
+    "title": "Hydra",
+    "creator": "van Hauser",
+    "image": "https://github.com/vanhauser-thc/thc-hydra/raw/master/docs/hydra-logo.png",
+    "description": "Parallelized login cracker which supports numerous protocols to attack.",
+    "downloadUrl": "https://github.com/vanhauser-thc/thc-hydra"
+},
+{
+    "id": 608,
+    "title": "SQLmap",
+    "creator": "Bernardo Damele",
+    "image": "https://sqlmap.org/sqlmap.png",
+    "description": "Automatic SQL injection and database takeover tool with powerful detection engine.",
+    "downloadUrl": "https://sqlmap.org/"
+},
+{
+    "id": 609,
+    "title": "Maltego",
+    "creator": "Paterva",
+    "image": "https://www.maltego.com/wp-content/uploads/2020/07/maltego-logo.svg",
+    "description": "Interactive data mining tool that renders directed graphs for link analysis and data visualization.",
+    "downloadUrl": "https://www.maltego.com/downloads/"
+},
+{
+    "id": 610,
+    "title": "OWASP ZAP",
+    "creator": "OWASP",
+    "image": "https://www.zaproxy.org/img/zap-logo.png",
+    "description": "Open source web application security scanner for finding vulnerabilities during development.",
+    "downloadUrl": "https://www.zaproxy.org/download/"
+},
+{
+    "id": 611,
+    "title": "Kali Linux",
+    "creator": "Offensive Security",
+    "image": "https://www.kali.org/images/kali-logo.svg",
+    "description": "Linux distribution packed with security and penetration testing tools for ethical hacking.",
+    "downloadUrl": "https://www.kali.org/get-kali/"
+},
+{
+    "id": 612,
+    "title": "Hashcat",
+    "creator": "Hashcat team",
+    "image": "https://hashcat.net/hashcat/hashcat_logo.png",
+    "description": "Advanced password recovery tool supporting multiple hash types and attack modes.",
+    "downloadUrl": "https://hashcat.net/hashcat/"
+},
+{
+    "id": 613,
+    "title": "Cain & Abel",
+    "creator": "Massimiliano Montoro",
+    "image": "https://www.oxid.it/images/ca_logo.png",
+    "description": "Password recovery tool for Microsoft Operating Systems with network sniffing capabilities.",
+    "downloadUrl": "https://www.oxid.it/cain.html"
+},
+{
+    "id": 614,
+    "title": "Nikto",
+    "creator": "Chris Sullo",
+    "image": "https://cirt.net/images/nikto-logo.png",
+    "description": "Web server scanner that performs comprehensive tests against web servers for vulnerabilities.",
+    "downloadUrl": "https://github.com/sullo/nikto"
+},
+{
+    "id": 615,
+    "title": "Ettercap",
+    "creator": "ALoR & NaGA",
+    "image": "https://www.ettercap-project.org/wp-content/uploads/2019/02/ettercap_logo.png",
+    "description": "Comprehensive suite for man-in-the-middle attacks on LAN with sniffing and content filtering.",
+    "downloadUrl": "https://www.ettercap-project.org/downloads.html"
+},
+{
+    "id": 616,
+    "title": "Ghidra",
+    "creator": "NSA",
+    "image": "https://ghidra-sre.org/images/GHIDRA_1.png",
+    "description": "Software reverse engineering framework developed by NSA with decompiler and disassembler.",
+    "downloadUrl": "https://ghidra-sre.org/"
+},
+{
+    "id": 617,
+    "title": "Social Engineer Toolkit (SET)",
+    "creator": "TrustedSec",
+    "image": "https://www.trustedsec.com/wp-content/uploads/2019/12/set-logo.png",
+    "description": "Penetration testing framework designed for social engineering attacks.",
+    "downloadUrl": "https://github.com/trustedsec/social-engineer-toolkit"
+},
+{
+    "id": 618,
+    "title": "BeEF",
+    "creator": "Wade Alcorn",
+    "image": "https://beefproject.com/images/beef-logo.png",
+    "description": "Browser Exploitation Framework for launching attacks against web browsers.",
+    "downloadUrl": "https://beefproject.com/"
+},
+{
+    "id": 619,
+    "title": "WPScan",
+    "creator": "WPScan Team",
+    "image": "https://wpscan.com/assets/images/logo.png",
+    "description": "Black box WordPress vulnerability scanner for security professionals.",
+    "downloadUrl": "https://wpscan.com/wordpress-security-scanner"
+},
+{
+    "id": 620,
+    "title": "OpenVAS",
+    "creator": "Greenbone Networks",
+    "image": "https://www.openvas.org/images/openvas-logo.png",
+    "description": "Full-featured vulnerability scanner with daily updated feeds of vulnerability tests.",
+    "downloadUrl": "https://www.openvas.org/download.html"
+},
+{
+    "id": 621,
+    "title": "THC-Hydra",
+    "creator": "van Hauser",
+    "image": "https://github.com/vanhauser-thc/thc-hydra/raw/master/docs/hydra-logo.png",
+    "description": "Parallelized login cracker supporting numerous protocols for brute-force attacks.",
+    "downloadUrl": "https://github.com/vanhauser-thc/thc-hydra"
+},
+{
+    "id": 622,
+    "title": "Responder",
+    "creator": "Laurent Gaffié",
+    "image": "https://github.com/lgandx/Responder/raw/master/Responder-Logo.png",
+    "description": "LLMNR/NBT-NS/mDNS poisoner with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue auth server.",
+    "downloadUrl": "https://github.com/lgandx/Responder"
+},
+{
+    "id": 623,
+    "title": "Impacket",
+    "creator": "Core Security",
+    "image": "https://github.com/SecureAuthCorp/impacket/raw/master/impacket.png",
+    "description": "Collection of Python classes for working with network protocols and performing attacks.",
+    "downloadUrl": "https://github.com/SecureAuthCorp/impacket"
+},
+{
+    "id": 624,
+    "title": "Cuckoo Sandbox",
+    "creator": "Cuckoo Foundation",
+    "image": "https://cuckoosandbox.org/static/img/logo.png",
+    "description": "Automated malware analysis system for detonating and analyzing suspicious files.",
+    "downloadUrl": "https://cuckoosandbox.org/download"
+},
+{
+    "id": 625,
+    "title": "Radare2",
+    "creator": "pancake",
+    "image": "https://www.radare.org/img/logo.png",
+    "description": "Complete framework for reverse-engineering and analyzing binaries with CLI tools.",
+    "downloadUrl": "https://www.radare.org/r/"
+},
+{
+    "id": 626,
+    "title": "Frida",
+    "creator": "Frida Developers",
+    "image": "https://frida.re/img/logo.svg",
+    "description": "Dynamic instrumentation toolkit for developers and reverse-engineers with JavaScript API.",
+    "downloadUrl": "https://frida.re/"
+},
+{
+    "id": 627,
+    "title": "Volatility",
+    "creator": "Volatility Foundation",
+    "image": "https://www.volatilityfoundation.org/images/logo.png",
+    "description": "Advanced memory forensics framework for incident response and malware analysis.",
+    "downloadUrl": "https://www.volatilityfoundation.org/releases"
+},
+{
+    "id": 628,
+    "title": "Snort",
+    "creator": "Cisco",
+    "image": "https://www.snort.org/assets/images/snort_logo.png",
+    "description": "Open source intrusion prevention system capable of real-time traffic analysis.",
+    "downloadUrl": "https://www.snort.org/downloads"
+},
+{
+    "id": 629,
+    "title": "Bro/Zeek",
+    "creator": "Zeek Project",
+    "image": "https://zeek.org/wp-content/uploads/2019/10/zeek-logo.svg",
+    "description": "Powerful network analysis framework focusing on network security monitoring.",
+    "downloadUrl": "https://zeek.org/get-zeek/"
+},
+{
+    "id": 630,
+    "title": "The Sleuth Kit",
+    "creator": "Brian Carrier",
+    "image": "https://www.sleuthkit.org/images/tsk_logo.png",
+    "description": "Library and collection of command-line tools for forensic analysis of disk images.",
+    "downloadUrl": "https://www.sleuthkit.org/sleuthkit/download.php"
+},
+{
+    "id": 631,
+    "title": "Autopsy",
+    "creator": "Basis Technology",
+    "image": "https://www.autopsy.com/wp-content/uploads/2020/04/autopsy_logo.png",
+    "description": "Graphical interface to The Sleuth Kit for digital forensics investigations.",
+    "downloadUrl": "https://www.autopsy.com/download/"
+},
+{
+    "id": 632,
+    "title": "YARA",
+    "creator": "VirusTotal",
+    "image": "https://virustotal.github.io/yara/images/yaralogo.png",
+    "description": "Tool aimed at helping malware researchers identify and classify malware samples.",
+    "downloadUrl": "https://github.com/VirusTotal/yara"
+},
+{
+    "id": 633,
+    "title": "PEiD",
+    "creator": "Jibz",
+    "image": "https://www.softpedia.com/base_img/softpedia_free_award_f.gif",
+    "description": "Detects most common packers, cryptors and compilers for PE files (Windows executables).",
+    "downloadUrl": "https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml"
+},
+{
+    "id": 634,
+    "title": "OllyDbg",
+    "creator": "Oleh Yuschuk",
+    "image": "https://www.ollydbg.de/ollydbg.png",
+    "description": "32-bit assembler-level analyzing debugger for Microsoft Windows applications.",
+    "downloadUrl": "https://www.ollydbg.de/"
+},
+{
+    "id": 635,
+    "title": "IDA Pro",
+    "creator": "Hex-Rays",
+    "image": "https://www.hex-rays.com/wp-content/uploads/2021/03/IDA_Pro_Home_logo.svg",
+    "description": "Interactive disassembler and debugger for software reverse engineering.",
+    "downloadUrl": "https://www.hex-rays.com/products/ida/support/download.shtml"
+},
+{
+    "id": 636,
+    "title": "Immunity Debugger",
+    "creator": "Immunity Inc",
+    "image": "https://www.immunityinc.com/images/immunity_logo.png",
+    "description": "Powerful debugger for analyzing malware and vulnerabilities with Python scripting.",
+    "downloadUrl": "https://www.immunityinc.com/products/debugger/"
+},
+{
+    "id": 637,
+    "title": "WinDbg",
+    "creator": "Microsoft",
+    "image": "https://docs.microsoft.com/en-us/windows-hardware/drivers/images/windbg-logo.png",
+    "description": "Multipurpose debugger for Windows with kernel-mode and user-mode debugging.",
+    "downloadUrl": "https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools"
+},
+{
+    "id": 638,
+    "title": "GDB",
+    "creator": "GNU Project",
+    "image": "https://www.gnu.org/graphics/gnu-head-sm.jpg",
+    "description": "The GNU Project debugger for C, C++, and other programming languages.",
+    "downloadUrl": "https://www.gnu.org/software/gdb/"
+},
+{
+    "id": 639,
+    "title": "Binwalk",
+    "creator": "Craig Heffner",
+    "image": "https://github.com/ReFirmLabs/binwalk/raw/master/docs/images/binwalk-logo.png",
+    "description": "Firmware analysis tool for searching embedded files and executable code.",
+    "downloadUrl": "https://github.com/ReFirmLabs/binwalk"
+},
+{
+    "id": 640,
+    "title": "Radare2",
+    "creator": "pancake",
+    "image": "https://www.radare.org/img/logo.png",
+    "description": "Complete framework for reverse-engineering and analyzing binaries with CLI tools.",
+    "downloadUrl": "https://www.radare.org/r/"
+},
+{
+    "id": 641,
+    "title": "Firmwalker",
+    "creator": "Craig Smith",
+    "image": "https://github.com/craigz28/firmwalker/raw/master/firmwalker.png",
+    "description": "Simple bash script for searching extracted firmware file systems for interesting items.",
+    "downloadUrl": "https://github.com/craigz28/firmwalker"
+},
+{
+    "id": 642,
+    "title": "ROPgadget",
+    "creator": "Jonathan Salwan",
+    "image": "https://github.com/JonathanSalwan/ROPgadget/raw/master/logo.png",
+    "description": "Tool for searching gadgets in binaries to facilitate ROP exploitation techniques.",
+    "downloadUrl": "https://github.com/JonathanSalwan/ROPgadget"
+},
+{
+    "id": 643,
+    "title": "pwntools",
+    "creator": "Gallopsled",
+    "image": "https://github.com/Gallopsled/pwntools/raw/dev/docs/source/logo.png",
+    "description": "CTF framework and exploit development library for rapid prototyping.",
+    "downloadUrl": "https://github.com/Gallopsled/pwntools"
+},
+{
+    "id": 644,
+    "title": "angr",
+    "creator": "angr team",
+    "image": "https://angr.io/img/angr.png",
+    "description": "Python framework for analyzing binaries with symbolic execution and more.",
+    "downloadUrl": "https://angr.io/"
+},
+{
+    "id": 645,
+    "title": "QIRA",
+    "creator": "George Hotz",
+    "image": "https://github.com/geohot/qira/raw/master/logo.png",
+    "description": "Timeless debugger for analyzing program execution with reverse engineering capabilities.",
+    "downloadUrl": "https://github.com/geohot/qira"
+},
+{
+    "id": 646,
+    "title": "Ghidra",
+    "creator": "NSA",
+    "image": "https://ghidra-sre.org/images/GHIDRA_1.png",
+    "description": "Software reverse engineering framework developed by NSA with decompiler and disassembler.",
+    "downloadUrl": "https://ghidra-sre.org/"
+},
+{
+    "id": 647,
+    "title": "x64dbg",
+    "creator": "x64dbg team",
+    "image": "https://x64dbg.com/img/logo.png",
+    "description": "Open-source x64/x32 debugger for Windows with reverse engineering capabilities.",
+    "downloadUrl": "https://x64dbg.com/"
+},
+{
+    "id": 648,
+    "title": "PE Explorer",
+    "creator": "Heaventools",
+    "image": "https://www.heaventools.com/images/pe-explorer-logo.png",
+    "description": "Disassembler and resource editor for Windows PE files with dependency scanning.",
+    "downloadUrl": "https://www.heaventools.com/download-pe-explorer.htm"
+},
+{
+    "id": 649,
+    "title": "Detect It Easy",
+    "creator": "horsicq",
+    "image": "https://github.com/horsicq/DIE-engine/raw/master/images/logo.png",
+    "description": "Program for determining types of files with PE/ELF/MACH-O binary analysis.",
+    "downloadUrl": "https://github.com/horsicq/Detect-It-Easy"
+},
+{
+    "id": 650,
+    "title": "Cutter",
+    "creator": "Radare Org",
+    "image": "https://github.com/radareorg/cutter/raw/master/src/img/cutter.svg",
+    "description": "GUI for Radare2 reverse engineering framework with disassembly and decompilation.",
+    "downloadUrl": "https://github.com/radareorg/cutter"
+},
+{
+    "id": 651,
+    "title": "Binary Ninja",
+    "creator": "Vector35",
+    "image": "https://binary.ninja/images/bn-logo.png",
+    "description": "Reverse engineering platform with interactive disassembler and decompiler.",
+    "downloadUrl": "https://binary.ninja/"
+},
+{
+    "id": 652,
+    "title": "Hopper",
+    "creator": "Cryptic Apps",
+    "image": "https://www.hopperapp.com/images/logo.png",
+    "description": "Reverse engineering tool for macOS and Linux with disassembler and decompiler.",
+    "downloadUrl": "https://www.hopperapp.com/"
+},
+{
+    "id": 653,
+    "title": "dnSpy",
+    "creator": "0xd4d",
+    "image": "https://github.com/dnSpy/dnSpy/raw/master/Images/dnSpy.png",
+    "description": ".NET debugger and assembly editor with decompilation capabilities.",
+    "downloadUrl": "https://github.com/dnSpy/dnSpy"
+},
+{
+    "id": 654,
+    "title": "ILSpy",
+    "creator": "icsharpcode",
+    "image": "https://github.com/icsharpcode/ILSpy/raw/master/Images/ILSpy_128.png",
+    "description": ".NET assembly browser and decompiler with support for PDB generation.",
+    "downloadUrl": "https://github.com/icsharpcode/ILSpy"
+},
+{
+    "id": 655,
+    "title": "JD-GUI",
+    "creator": "Java Decompiler",
+    "image": "https://java-decompiler.github.io/img/jd-gui-logo.png",
+    "description": "Standalone Java decompiler with GUI for inspecting .class files.",
+    "downloadUrl": "https://java-decompiler.github.io/"
+},
+{
+    "id": 656,
+    "title": "Apktool",
+    "creator": "Connor Tumbleson",
+    "image": "https://ibotpeaches.github.io/Apktool/favicon.ico",
+    "description": "Tool for reverse engineering Android apk files with resource rebuilding.",
+    "downloadUrl": "https://ibotpeaches.github.io/Apktool/"
+},
+{
+    "id": 657,
+    "title": "Frida",
+    "creator": "Frida Developers",
+    "image": "https://frida.re/img/logo.svg",
+    "description": "Dynamic instrumentation toolkit for developers and reverse-engineers with JavaScript API.",
+    "downloadUrl": "https://frida.re/"
+},
+{
+    "id": 658,
+    "title": "Objection",
+    "creator": "SensePost",
+    "image": "https://github.com/sensepost/objection/raw/master/images/logo.png",
+    "description": "Runtime mobile exploration toolkit powered by Frida with Android/iOS support.",
+    "downloadUrl": "https://github.com/sensepost/objection"
+},
+{
+    "id": 659,
+    "title": "MobSF",
+    "creator": "MobSF",
+    "image": "https://mobsf.github.io/Mobile-Security-Framework-MobSF/images/mobsf_logo.png",
+    "description": "Automated mobile application pentesting framework for Android/iOS/Windows.",
+    "downloadUrl": "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
+},
+{
+    "id": 660,
+    "title": "Burp Suite Mobile Assistant",
+    "creator": "PortSwigger",
+    "image": "https://portswigger.net/burp/frontpage/images/logos/burp_suite.svg",
+    "description": "Tool for testing iOS and Android apps by intercepting traffic through Burp Suite.",
+    "downloadUrl": "https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant"
+},
+{
+    "id": 661,
+    "title": "Androguard",
+    "creator": "Androguard Team",
+    "image": "https://github.com/androguard/androguard/raw/master/androguard.png",
+    "description": "Python tools for reverse engineering and analysis of Android applications.",
+    "downloadUrl": "https://github.com/androguard/androguard"
+},
+{
+    "id": 662,
+    "title": "Jadx",
+    "creator": "skylot",
+    "image": "https://github.com/skylot/jadx/raw/master/jadx-gui/src/main/resources/logos/jadx-logo.png",
+    "description": "Dex to Java decompiler with GUI for Android application analysis.",
+    "downloadUrl": "https://github.com/skylot/jadx"
+},
+{
+    "id": 663,
+    "title": "Bytecode Viewer",
+    "creator": "Konloch",
+    "image": "https://github.com/Konloch/bytecode-viewer/raw/master/images/logo.png",
+    "description": "Java/Android reverse engineering suite with multiple decompilers and bytecode analysis.",
+    "downloadUrl": "https://github.com/Konloch/bytecode-viewer"
+},
+{
+    "id": 664,
+    "title": "Drozer",
+    "creator": "MWR InfoSecurity",
+    "image": "https://labs.f-secure.com/assets/BlogImages/drozer-logo.png",
+    "description": "Comprehensive security testing framework for Android applications.",
+    "downloadUrl": "https://labs.f-secure.com/tools/drozer/"
+},
+{
+    "id": 665,
+    "title": "QARK",
+    "creator": "LinkedIn",
+    "image": "https://github.com/linkedin/qark/raw/master/docs/_static/qark-logo.png",
+    "description": "Tool for identifying security vulnerabilities in Android applications.",
+    "downloadUrl": "https://github.com/linkedin/qark"
+},
+{
+    "id": 666,
+    "title": "FuzzDB",
+    "creator": "FuzzDB Project",
+    "image": "https://github.com/fuzzdb-project/fuzzdb/raw/master/images/fuzzdb-logo.png",
+    "description": "Dictionary of attack patterns and primitives for black-box application testing.",
+    "downloadUrl": "https://github.com/fuzzdb-project/fuzzdb"
+},
+{
+    "id": 667,
+    "title": "SecLists",
+    "creator": "Daniel Miessler",
+    "image": "https://github.com/danielmiessler/SecLists/raw/master/images/seclists-logo.png",
+    "description": "Collection of multiple types of security testing lists for penetration testers.",
+    "downloadUrl": "https://github.com/danielmiessler/SecLists"
+},
+{
+    "id": 668,
+    "title": "PayloadsAllTheThings",
+    "creator": "swisskyrepo",
+    "image": "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/.github/logo.png",
+    "description": "List of useful payloads and bypasses for Web Application Security.",
+    "downloadUrl": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+},
+{
+    "id": 669,
+    "title": "Exploit-DB",
+    "creator": "Offensive Security",
+    "image": "https://www.exploit-db.com/apple-touch-icon.png",
+    "description": "Archive of exploits and vulnerable software maintained by Offensive Security.",
+    "downloadUrl": "https://www.exploit-db.com/"
+},
+{
+    "id": 670,
+    "title": "Vulners",
+    "creator": "Vulners Team",
+    "image": "https://vulners.com/static/img/vulners_logo.png",
+    "description": "Search engine for vulnerabilities in software components and exploits.",
+    "downloadUrl": "https://vulners.com/"
+},
+{
+    "id": 671,
+    "title": "SearchSploit",
+    "creator": "Offensive Security",
+    "image": "https://www.exploit-db.com/apple-touch-icon.png",
+    "description": "Command line search tool for Exploit-DB's archive of exploits.",
+    "downloadUrl": "https://www.exploit-db.com/searchsploit"
+},
+{
+    "id": 672,
+    "title": "CVE Details",
+    "creator": "CVE Details",
+    "image": "https://www.cvedetails.com/img/cvelogo.png",
+    "description": "Database of Common Vulnerabilities and Exposures with search functionality.",
+    "downloadUrl": "https://www.cvedetails.com/"
+},
+{
+    "id": 673,
+    "title": "Shodan",
+    "creator": "John Matherly",
+    "image": "https://www.shodan.io/static/img/favicon.png",
+    "description": "Search engine for Internet-connected devices with vulnerability data.",
+    "downloadUrl": "https://www.shodan.io/"
+},
+{
+    "id": 674,
+    "title": "Censys",
+    "creator": "Censys Team",
+    "image": "https://censys.io/static/images/censys-logo.svg",
+    "description": "Platform for Internet-wide scanning and vulnerability assessment.",
+    "downloadUrl": "https://censys.io/"
+},
+{
+    "id": 675,
+    "title": "ZoomEye",
+    "creator": "Knownsec",
+    "image": "https://www.zoomeye.org/static/img/favicon.ico",
+    "description": "Cybersecurity search engine for network devices and components.",
+    "downloadUrl": "https://www.zoomeye.org/"
+},
+{
+    "id": 676,
+    "title": "SpiderFoot",
+    "creator": "Steve Micallef",
+    "image": "https://www.spiderfoot.net/wp-content/uploads/2018/03/spiderfoot-logo.png",
+    "description": "Open source intelligence automation tool for footprinting and reconnaissance.",
+    "downloadUrl": "https://www.spiderfoot.net/download/"
+},
+{
+    "id": 677,
+    "title": "theHarvester",
+    "creator": "laramies",
+    "image": "https://github.com/laramies/theHarvester/raw/master/theHarvester-logo.png",
+    "description": "Email, subdomain and name reconnaissance tool for penetration testing.",
+    "downloadUrl": "https://github.com/laramies/theHarvester"
+},
+{
+    "id": 678,
+    "title": "Recon-ng",
+    "creator": "LaNMaSteR53",
+    "image": "https://github.com/lanmaster53/recon-ng/raw/master/data/logo.png",
+    "description": "Full-featured web reconnaissance framework written in Python.",
+    "downloadUrl": "https://github.com/lanmaster53/recon-ng"
+},
+{
+    "id": 679,
+    "title": "OSINT Framework",
+    "creator": "Justin Nordine",
+    "image": "https://osintframework.com/favicon.ico",
+    "description": "Collection of OSINT tools and resources organized by categories.",
+    "downloadUrl": "https://osintframework.com/"
+},
+{
+    "id": 680,
+    "title": "Maltego",
+    "creator": "Paterva",
+    "image": "https://www.maltego.com/wp-content/uploads/2020/07/maltego-logo.svg",
+    "description": "Interactive data mining tool that renders directed graphs for link analysis.",
+    "downloadUrl": "https://www.maltego.com/downloads/"
+},
+{
+    "id": 681,
+    "title": "Spyse",
+    "creator": "Spyse Team",
+    "image": "https://spyse.com/static/images/spyse-logo.svg",
+    "description": "Cybersecurity search engine for networks, domains and vulnerabilities.",
+    "downloadUrl": "https://spyse.com/"
+},
+{
+    "id": 682,
+    "title": "Amass",
+    "creator": "OWASP",
+    "image": "https://owasp.org/www-project-amass/assets/images/logo.png",
+    "description": "In-depth attack surface mapping and asset discovery tool.",
+    "downloadUrl": "https://github.com/OWASP/Amass"
+},
+{
+    "id": 683,
+    "title": "Aquatone",
+    "creator": "michenriksen",
+    "image": "https://github.com/michenriksen/aquatone/raw/master/aquatone.png",
+    "description": "Tool for visual inspection of websites across many hosts with screenshots.",
+    "downloadUrl": "https://github.com/michenriksen/aquatone"
+},
+{
+    "id": 684,
+    "title": "DNSDumpster",
+    "creator": "DNSDumpster",
+    "image": "https://dnsdumpster.com/static/favicon.ico",
+    "description": "Online DNS reconnaissance tool for discovering hosts related to a domain.",
+    "downloadUrl": "https://dnsdumpster.com/"
+},
+{
+    "id": 685,
+    "title": "Sn1per",
+    "creator": "1N3",
+    "image": "https://github.com/1N3/Sn1per/raw/master/sniper-logo.png",
+    "description": "Automated pentest reconnaissance scanner for gathering information.",
+    "downloadUrl": "https://github.com/1N3/Sn1per"
+},
+{
+    "id": 686,
+    "title": "Photon",
+    "creator": "s0md3v",
+    "image": "https://github.com/s0md3v/Photon/raw/master/images/photon.png",
+    "description": "Incredibly fast crawler designed for OSINT with extractors for various data types.",
+    "downloadUrl": "https://github.com/s0md3v/Photon"
+},
+{
+    "id": 687,
+    "title": "Sherlock",
+    "creator": "sherlock-project",
+    "image": "https://github.com/sherlock-project/sherlock/raw/master/images/logo.png",
+    "description": "Hunt down social media accounts by username across many sites.",
+    "downloadUrl": "https://github.com/sherlock-project/sherlock"
+},
+{
+    "id": 688,
+    "title": "Social Mapper",
+    "creator": "Greenwolf",
+    "image": "https://github.com/Greenwolf/social_mapper/raw/master/social_mapper_small.png",
+    "description": "Automated tool for correlating social media profiles via facial recognition.",
+    "downloadUrl": "https://github.com/Greenwolf/social_mapper"
+},
+{
+    "id": 689,
+    "title": "Trape",
+    "creator": "jofpin",
+    "image": "https://github.com/jofpin/trape/raw/master/static/img/logo.png",
+    "description": "People tracker on the Internet to learn the art of human tracking.",
+    "downloadUrl": "https://github.com/jofpin/trape"
+},
+{
+    "id": 690,
+    "title": "Creepy",
+    "creator": "ilektrojohn",
+    "image": "https://github.com/ilektrojohn/creepy/raw/master/data/images/creepy.png",
+    "description": "Geolocation OSINT tool for gathering location information from social platforms.",
+    "downloadUrl": "https://github.com/ilektrojohn/creepy"
+},
+{
+    "id": 691,
+    "title": "GHunt",
+    "creator": "mxrch",
+    "image": "https://github.com/mxrch/GHunt/raw/master/doc/logo.png",
+    "description": "OSINT tool for investigating Google accounts with email address.",
+    "downloadUrl": "https://github.com/mxrch/GHunt"
+},
+{
+    "id": 692,
+    "title": "Buster",
+    "creator": "sherlock-project",
+    "image": "https://github.com/sham00n/buster/raw/master/docs/logo.png",
+    "description": "Advanced tool for email reconnaissance and information gathering.",
+    "downloadUrl": "https://github.com/sham00n/buster"
+},
+{
+    "id": 693,
+    "title": "CloudFail",
+    "creator": "m0rtem",
+    "image": "https://github.com/m0rtem/CloudFail/raw/master/img/logo.png",
+    "description": "Unmask server IPs hidden behind Cloudflare by searching old database records.",
+    "downloadUrl": "https://github.com/m0rtem/CloudFail"
+},
+{
+    "id": 694,
+    "title": "CloudFlair",
+    "creator": "christophetd",
+    "image": "https://github.com/christophetd/CloudFlair/raw/master/logo.png",
+    "description": "Find origin servers of websites protected by CloudFlare using Internet scan data.",
+    "downloadUrl": "https://github.com/christophetd/CloudFlair"
+},
+{
+    "id": 695,
+    "title": "Bucket Finder",
+    "creator": "social-engineering",
+    "image": "https://github.com/social-engineering/bucket-finder/raw/master/docs/logo.png",
+    "description": "Tool for finding publicly accessible Amazon S3 buckets and files.",
+    "downloadUrl": "https://github.com/social-engineering/bucket-finder"
+},
+{
+    "id": 696,
+    "title": "S3Scanner",
+    "creator": "sa7mon",
+    "image": "https://github.com/sa7mon/S3Scanner/raw/master/docs/logo.png",
+    "description": "Scan for open S3 buckets and dump their contents for analysis.",
+    "downloadUrl": "https://github.com/sa7mon/S3Scanner"
+},
+{
+    "id": 697,
+    "title": "GitDumper",
+    "creator": "arthaud",
+    "image": "https://github.com/arthaud/git-dumper/raw/master/docs/logo.png",
+    "description": "Tool for dumping Git repositories from misconfigured web servers.",
+    "downloadUrl": "https://github.com/arthaud/git-dumper"
+},
+{
+    "id": 698,
+    "title": "GitTools",
+    "creator": "internetwache",
+    "image": "https://github.com/internetwache/GitTools/raw/master/logo.png",
+    "description": "Collection of tools for finding and downloading Git repositories.",
+    "downloadUrl": "https://github.com/internetwache/GitTools"
+},
+{
+    "id": 699,
+    "title": "GitHacker",
+    "creator": "lijiejie",
+    "image": "https://github.com/lijiejie/GitHack/raw/master/docs/logo.png",
+    "description": "Restore source code from exposed .git folders on web servers.",
+    "downloadUrl": "https://github.com/lijiejie/GitHack"
+},
+{
+    "id": 700,
+    "title": "DVCS Ripper",
+    "creator": "kost",
+    "image": "https://github.com/kost/dvcs-ripper/raw/master/logo.png",
+    "description": "Rip web accessible Git, Mercurial, and other version control repos.",
+    "downloadUrl": "https://github.com/kost/dvcs-ripper"
+        },
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
