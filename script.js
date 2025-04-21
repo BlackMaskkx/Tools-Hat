@@ -5432,6 +5432,1631 @@ const toolsData = [
     "description": "Rip web accessible Git, Mercurial, and other version control repos.",
     "downloadUrl": "https://github.com/kost/dvcs-ripper"
         },
+    [
+    {
+        "id": 701,
+        "title": "TensorFlow",
+        "creator": "Google",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png",
+        "description": "Open-source machine learning framework",
+        "downloadUrl": "https://www.tensorflow.org/install"
+    },
+    {
+        "id": 702,
+        "title": "PyTorch",
+        "creator": "Facebook AI Research",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo_black.svg/1200px-Pytorch_logo_black.svg.png",
+        "description": "Deep learning framework with strong GPU acceleration",
+        "downloadUrl": "https://pytorch.org/get-started/locally/"
+    },
+    {
+        "id": 703,
+        "title": "Keras",
+        "creator": "François Chollet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png",
+        "description": "High-level neural networks API",
+        "downloadUrl": "https://keras.io/#installation"
+    },
+    {
+        "id": 704,
+        "title": "OpenCV",
+        "creator": "Intel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png",
+        "description": "Computer vision and machine learning software library",
+        "downloadUrl": "https://opencv.org/releases/"
+    },
+    {
+        "id": 705,
+        "title": "Rasa",
+        "creator": "Rasa Technologies",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rasa_logo.svg/1200px-Rasa_logo.svg.png",
+        "description": "Open source machine learning framework for automated text and voice-based conversations",
+        "downloadUrl": "https://rasa.com/docs/rasa/installation/"
+    },
+    {
+        "id": 706,
+        "title": "FastAI",
+        "creator": "Jeremy Howard",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fastai_logo.png/640px-Fastai_logo.png",
+        "description": "Deep learning library that simplifies training neural networks",
+        "downloadUrl": "https://github.com/fastai/fastai"
+    },
+    {
+        "id": 707,
+        "title": "Hugging Face Transformers",
+        "creator": "Hugging Face",
+        "image": "https://huggingface.co/front/assets/huggingface_logo.svg",
+        "description": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow",
+        "downloadUrl": "https://huggingface.co/transformers/installation.html"
+    },
+    {
+        "id": 708,
+        "title": "AllenNLP",
+        "creator": "Allen Institute for AI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AllenNLP_logo.png/640px-AllenNLP_logo.png",
+        "description": "Open-source NLP research library built on PyTorch",
+        "downloadUrl": "https://github.com/allenai/allennlp"
+    },
+    {
+        "id": 709,
+        "title": "DeepSpeed",
+        "creator": "Microsoft",
+        "image": "https://www.deepspeed.ai/assets/images/deepspeed-logo.png",
+        "description": "Deep learning optimization library for extreme-scale models",
+        "downloadUrl": "https://www.deepspeed.ai/getting-started/"
+    },
+    {
+        "id": 710,
+        "title": "ONNX Runtime",
+        "creator": "Microsoft",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ONNX_logo_main.svg/1200px-ONNX_logo_main.svg.png",
+        "description": "High-performance scoring engine for ML models",
+        "downloadUrl": "https://onnxruntime.ai/"
+    },
+    {
+        "id": 708,
+        "title": "GIMP",
+        "creator": "The GIMP Development Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png",
+        "description": "Free and open-source image editor for graphic design",
+        "downloadUrl": "https://www.gimp.org/downloads/"
+    },
+    {
+        "id": 709,
+        "title": "Inkscape",
+        "creator": "Inkscape Community",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1200px-Inkscape_Logo.svg.png",
+        "description": "Professional vector graphics editor",
+        "downloadUrl": "https://inkscape.org/release/"
+    },
+    {
+        "id": 710,
+        "title": "Figma",
+        "creator": "Figma, Inc",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Figma-logo.svg/1200px-Figma-logo.svg.png",
+        "description": "Collaborative interface design tool",
+        "downloadUrl": "https://www.figma.com/downloads/"
+    },
+    {
+        "id": 711,
+        "title": "Adobe XD",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png",
+        "description": "UX/UI design and prototyping tool",
+        "downloadUrl": "https://www.adobe.com/products/xd.html"
+    },
+    {
+        "id": 712,
+        "title": "Sketch",
+        "creator": "Bohemian Coding",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png",
+        "description": "Digital design toolkit for Mac",
+        "downloadUrl": "https://www.sketch.com/get/"
+    },
+    {
+        "id": 713,
+        "title": "FileZilla",
+        "creator": "Tim Kosse",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png",
+        "description": "Free FTP solution for file transfers",
+        "downloadUrl": "https://filezilla-project.org/download.php"
+    },
+    {
+        "id": 714,
+        "title": "WinSCP",
+        "creator": "Martin Prikryl",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/WinSCP_logo.svg/1200px-WinSCP_logo.svg.png",
+        "description": "SFTP, FTP, WebDAV and SCP client for Windows",
+        "downloadUrl": "https://winscp.net/eng/download.php"
+    },
+    {
+        "id": 715,
+        "title": "Postman",
+        "creator": "Postman Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Postman_%28software%29.png/240px-Postman_%28software%29.png",
+        "description": "API development and testing environment",
+        "downloadUrl": "https://www.postman.com/downloads/"
+    },
+    {
+        "id": 716,
+        "title": "Insomnia",
+        "creator": "Kong Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Insomnia_Logo.png/240px-Insomnia_Logo.png",
+        "description": "Cross-platform REST client for API testing",
+        "downloadUrl": "https://insomnia.rest/download"
+    },
+    {
+        "id": 717,
+        "title": "Git",
+        "creator": "Linus Torvalds",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png",
+        "description": "Distributed version control system",
+        "downloadUrl": "https://git-scm.com/downloads"
+    },
+    {
+        "id": 718,
+        "title": "GitHub Desktop",
+        "creator": "GitHub",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png",
+        "description": "GUI client for GitHub repositories",
+        "downloadUrl": "https://desktop.github.com/"
+    },
+    {
+        "id": 719,
+        "title": "Sourcetree",
+        "creator": "Atlassian",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg",
+        "description": "Free Git GUI client for Windows and Mac",
+        "downloadUrl": "https://www.sourcetreeapp.com"
+    },
+    {
+        "id": 720,
+        "title": "TortoiseGit",
+        "creator": "TortoiseGit Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TortoiseGit_logo.svg/1200px-TortoiseGit_logo.svg.png",
+        "description": "Windows Shell Interface to Git",
+        "downloadUrl": "https://tortoisegit.org/download/"
+    },
+    {
+        "id": 721,
+        "title": "Node.js",
+        "creator": "OpenJS Foundation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "description": "JavaScript runtime built on Chrome's V8 engine",
+        "downloadUrl": "https://nodejs.org/en/download/"
+    },
+    {
+        "id": 722,
+        "title": "npm",
+        "creator": "npm, Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png",
+        "description": "Package manager for JavaScript",
+        "downloadUrl": "https://www.npmjs.com/get-npm"
+    },
+    {
+        "id": 723,
+        "title": "Yarn",
+        "creator": "Facebook",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yarn_Logo.svg/1200px-Yarn_Logo.svg.png",
+        "description": "Fast, reliable JavaScript dependency management",
+        "downloadUrl": "https://classic.yarnpkg.com/en/docs/install"
+    },
+    {
+        "id": 724,
+        "title": "Docker",
+        "creator": "Docker, Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1200px-Docker_%28container_engine%29_logo.svg.png",
+        "description": "Containerization platform for developing applications",
+        "downloadUrl": "https://www.docker.com/products/docker-desktop"
+    },
+    {
+        "id": 725,
+        "title": "XAMPP",
+        "creator": "Apache Friends",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Xampp_logo.svg/1200px-Xampp_logo.svg.png",
+        "description": "Apache distribution containing MySQL, PHP and Perl",
+        "downloadUrl": "https://www.apachefriends.org/download.html"
+    },
+    {
+        "id": 726,
+        "title": "WampServer",
+        "creator": "Romain Bourdon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/WampServer-logo.svg/1200px-WampServer-logo.svg.png",
+        "description": "Windows web development environment",
+        "downloadUrl": "http://www.wampserver.com/en/"
+    },
+    {
+        "id": 727,
+        "title": "MAMP",
+        "creator": "appsolute GmbH",
+        "image": "https://www.mamp.info/images/icons/mamp/mamp-pro-icon.png",
+        "description": "Macintosh web server solution",
+        "downloadUrl": "https://www.mamp.info/en/downloads/"
+    },
+    {
+        "id": 728,
+        "title": "Laragon",
+        "creator": "Le Ngoc Anh",
+        "image": "https://laragon.org/images/logo.png",
+        "description": "Portable, isolated, fast PHP development environment",
+        "downloadUrl": "https://laragon.org/download/index.html"
+    },
+    {
+        "id": 729,
+        "title": "Composer",
+        "creator": "Nils Adermann, Jordi Boggiano",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Composer-Logo.svg/1200px-Composer-Logo.svg.png",
+        "description": "Dependency Manager for PHP",
+        "downloadUrl": "https://getcomposer.org/download/"
+    },
+    {
+        "id": 730,
+        "title": "Webpack",
+        "creator": "OpenJS Foundation",
+        "image": "https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png",
+        "description": "Static module bundler for JavaScript applications",
+        "downloadUrl": "https://webpack.js.org/guides/installation/"
+    },
+    {
+        "id": 731,
+        "title": "Gulp",
+        "creator": "Fractal",
+        "image": "https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png",
+        "description": "JavaScript task runner and build system",
+        "downloadUrl": "https://gulpjs.com/docs/en/getting-started/quick-start"
+    },
+    {
+        "id": 732,
+        "title": "Grunt",
+        "creator": "Grunt Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grunt-logo.svg/1200px-Grunt-logo.svg.png",
+        "description": "JavaScript task runner for automation",
+        "downloadUrl": "https://gruntjs.com/getting-started"
+    },
+    {
+        "id": 733,
+        "title": "Babel",
+        "creator": "Sebastian McKenzie",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png",
+        "description": "JavaScript compiler for next-gen JS",
+        "downloadUrl": "https://babeljs.io/setup"
+    },
+    {
+        "id": 734,
+        "title": "ESLint",
+        "creator": "Nicholas C. Zakas",
+        "image": "https://eslint.org/assets/img/logo.svg",
+        "description": "Static code analysis tool for JavaScript",
+        "downloadUrl": "https://eslint.org/docs/user-guide/getting-started"
+    },
+    {
+        "id": 735,
+        "title": "Prettier",
+        "creator": "James Long",
+        "image": "https://prettier.io/icon.png",
+        "description": "Opinionated code formatter for consistent style",
+        "downloadUrl": "https://prettier.io/docs/en/install.html"
+    },
+    {
+        "id": 736,
+        "title": "Bootstrap",
+        "creator": "Twitter",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+        "description": "Front-end component library for responsive sites",
+        "downloadUrl": "https://getbootstrap.com/docs/5.0/getting-started/download/"
+    },
+    {
+        "id": 737,
+        "title": "Tailwind CSS",
+        "creator": "Adam Wathan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png",
+        "description": "Utility-first CSS framework",
+        "downloadUrl": "https://tailwindcss.com/docs/installation"
+    },
+    {
+        "id": 738,
+        "title": "Sass",
+        "creator": "Hampton Catlin, Natalie Weizenbaum",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png",
+        "description": "CSS preprocessor with advanced features",
+        "downloadUrl": "https://sass-lang.com/install"
+    },
+    {
+        "id": 739,
+        "title": "Less",
+        "creator": "Alexis Sellier",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Less_Logo.svg/1200px-Less_Logo.svg.png",
+        "description": "Backwards-compatible CSS extension language",
+        "downloadUrl": "http://lesscss.org/usage/"
+    },
+    {
+        "id": 740,
+        "title": "PostCSS",
+        "creator": "Andrey Sitnik",
+        "image": "https://postcss.org/_/web_modules/Hero/postcss.svg",
+        "description": "Tool for transforming CSS with JavaScript",
+        "downloadUrl": "https://postcss.org/docs/"
+    },
+    {
+        "id": 741,
+        "title": "Pug",
+        "creator": "TJ Holowaychuk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pug-logo.svg/1200px-Pug-logo.svg.png",
+        "description": "High-performance template engine",
+        "downloadUrl": "https://pugjs.org/api/getting-started.html"
+    },
+    {
+        "id": 742,
+        "title": "Handlebars",
+        "creator": "Yehuda Katz",
+        "image": "https://handlebarsjs.com/images/handlebars_logo.png",
+        "description": "Semantic templating system",
+        "downloadUrl": "https://handlebarsjs.com/installation/"
+    },
+    {
+        "id": 743,
+        "title": "EJS",
+        "creator": "Matthew Eernisse",
+        "image": "https://cdn.rawgit.com/tj/ejs/master/assets/img/ejs-logo.png",
+        "description": "Embedded JavaScript templating",
+        "downloadUrl": "https://ejs.co/#install"
+    },
+    {
+        "id": 744,
+        "title": "React",
+        "creator": "Facebook",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "description": "JavaScript library for building user interfaces",
+        "downloadUrl": "https://reactjs.org/docs/getting-started.html"
+    },
+    {
+        "id": 745,
+        "title": "Vue.js",
+        "creator": "Evan You",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+        "description": "Progressive JavaScript framework",
+        "downloadUrl": "https://vuejs.org/v2/guide/installation.html"
+    },
+    {
+        "id": 746,
+        "title": "Angular",
+        "creator": "Google",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+        "description": "Platform for building mobile and desktop web applications",
+        "downloadUrl": "https://angular.io/guide/setup-local"
+    },
+    {
+        "id": 747,
+        "title": "Svelte",
+        "creator": "Rich Harris",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png",
+        "description": "Component framework that compiles to efficient JavaScript",
+        "downloadUrl": "https://svelte.dev/blog/the-easiest-way-to-get-started"
+    },
+    {
+        "id": 748,
+        "title": "Ember.js",
+        "creator": "Yehuda Katz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ember.js_Logo_and_Mascot.png/240px-Ember.js_Logo_and_Mascot.png",
+        "description": "Framework for ambitious web applications",
+        "downloadUrl": "https://guides.emberjs.com/release/getting-started/"
+    },
+    {
+        "id": 749,
+        "title": "Next.js",
+        "creator": "Vercel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png",
+        "description": "React framework for server-rendered applications",
+        "downloadUrl": "https://nextjs.org/docs/getting-started"
+    },
+    {
+        "id": 750,
+        "title": "Nuxt.js",
+        "creator": "Nuxt Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png",
+        "description": "Vue.js framework for universal applications",
+        "downloadUrl": "https://nuxtjs.org/docs/2.x/get-started/installation"
+    },
+    {
+        "id": 751,
+        "title": "Gatsby",
+        "creator": "Kyle Mathews",
+        "image": "https://www.gatsbyjs.com/Gatsby-Monogram.svg",
+        "description": "React-based static site generator",
+        "downloadUrl": "https://www.gatsbyjs.com/docs/quick-start/"
+    },
+    {
+        "id": 752,
+        "title": "Eleventy",
+        "creator": "Zach Leatherman",
+        "image": "https://www.11ty.dev/img/logo-github.png",
+        "description": "Simpler static site generator",
+        "downloadUrl": "https://www.11ty.dev/docs/getting-started/"
+    },
+    {
+        "id": 753,
+        "title": "Jekyll",
+        "creator": "Tom Preston-Werner",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jekyll_%28software%29_Logo.png/240px-Jekyll_%28software%29_Logo.png",
+        "description": "Static site generator written in Ruby",
+        "downloadUrl": "https://jekyllrb.com/docs/installation/"
+    },
+    {
+        "id": 754,
+        "title": "Hugo",
+        "creator": "Steve Francia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugo-Release-0.30-Logo.png/240px-Hugo-Release-0.30-Logo.png",
+        "description": "Fast static site generator in Go",
+        "downloadUrl": "https://gohugo.io/getting-started/installing/"
+    },
+    {
+        "id": 755,
+        "title": "Hexo",
+        "creator": "Tommy Chen",
+        "image": "https://hexo.io/logo.svg",
+        "description": "Fast, simple blog framework powered by Node.js",
+        "downloadUrl": "https://hexo.io/docs/"
+    },
+    {
+        "id": 756,
+        "title": "Docusaurus",
+        "creator": "Facebook",
+        "image": "https://docusaurus.io/img/docusaurus.svg",
+        "description": "Easy-to-maintain open source documentation websites",
+        "downloadUrl": "https://docusaurus.io/docs/installation"
+    },
+    {
+        "id": 757,
+        "title": "Storybook",
+        "creator": "Storybook Team",
+        "image": "https://storybook.js.org/images/logos/logo-storybook.svg",
+        "description": "UI component explorer for frontend developers",
+        "downloadUrl": "https://storybook.js.org/docs/react/get-started/install"
+    },
+    {
+        "id": 758,
+        "title": "Chrome DevTools",
+        "creator": "Google",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Chrome_icon_%282011%29.svg/1200px-Google_Chrome_icon_%282011%29.svg.png",
+        "description": "Built-in web developer tools in Chrome browser",
+        "downloadUrl": "https://developer.chrome.com/docs/devtools/"
+    },
+    {
+        "id": 759,
+        "title": "Firefox Developer Tools",
+        "creator": "Mozilla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png",
+        "description": "Built-in web developer tools in Firefox",
+        "downloadUrl": "https://developer.mozilla.org/en-US/docs/Tools"
+    },
+    {
+        "id": 760,
+        "title": "Lighthouse",
+        "creator": "Google",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lighthouse_%28Google%29_Logo.svg/1200px-Lighthouse_%28Google%29_Logo.svg.png",
+        "description": "Automated tool for improving web page quality",
+        "downloadUrl": "https://developer.chrome.com/docs/lighthouse/overview/"
+    },
+    {
+        "id": 761,
+        "title": "WebPageTest",
+        "creator": "Patrick Meenan",
+        "image": "https://www.webpagetest.org/images/logo.svg",
+        "description": "Performance testing for web pages",
+        "downloadUrl": "https://www.webpagetest.org/"
+    },
+    {
+        "id": 762,
+        "title": "BrowserStack",
+        "creator": "Ritesh Arora",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BrowserStack_Logo.svg/1200px-BrowserStack_Logo.svg.png",
+        "description": "Cross-browser testing platform",
+        "downloadUrl": "https://www.browserstack.com/"
+    },
+    {
+        "id": 763,
+        "title": "Sauce Labs",
+        "creator": "Jason Huggins",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sauce_Labs_Logo.svg/1200px-Sauce_Labs_Logo.svg.png",
+        "description": "Cloud-based testing platform",
+        "downloadUrl": "https://saucelabs.com/"
+    },
+    {
+        "id": 764,
+        "title": "LambdaTest",
+        "creator": "LambdaTest",
+        "image": "https://www.lambdatest.com/resources/images/logos/logo.svg",
+        "description": "Cross-browser testing cloud",
+        "downloadUrl": "https://www.lambdatest.com/"
+    },
+    {
+        "id": 765,
+        "title": "CrossBrowserTesting",
+        "creator": "SmartBear",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SmartBear_Software_logo.svg/1200px-SmartBear_Software_logo.svg.png",
+        "description": "Live interactive cross-browser testing",
+        "downloadUrl": "https://crossbrowsertesting.com/"
+    },
+    {
+        "id": 766,
+        "title": "Responsively",
+        "creator": "Responsively Team",
+        "image": "https://responsively.app/assets/img/responsively-logo.png",
+        "description": "Tool for responsive web development",
+        "downloadUrl": "https://responsively.app/download"
+    },
+    {
+        "id": 767,
+        "title": "Polypane",
+        "creator": "Kilian Valkhof",
+        "image": "https://polypane.app/icons/icon-512x512.png",
+        "description": "Browser for developers and designers",
+        "downloadUrl": "https://polypane.app/download/"
+    },
+    {
+        "id": 768,
+        "title": "Local by Flywheel",
+        "creator": "Flywheel",
+        "image": "https://getflywheel.com/wp-content/uploads/2018/11/local-by-flywheel-logo-color.svg",
+        "description": "Local WordPress development tool",
+        "downloadUrl": "https://localwp.com/"
+    },
+    {
+        "id": 769,
+        "title": "DevKinsta",
+        "creator": "Kinsta",
+        "image": "https://kinsta.com/wp-content/uploads/2021/01/devkinsta-logo.png",
+        "description": "Free local WordPress development suite",
+        "downloadUrl": "https://kinsta.com/devkinsta/"
+    },
+    {
+        "id": 770,
+        "title": "Lando",
+        "creator": "Lando Team",
+        "image": "https://docs.lando.dev/images/icon.png",
+        "description": "Local development environment tool",
+        "downloadUrl": "https://lando.dev/"
+    },
+    {
+        "id": 771,
+        "title": "DDEV",
+        "creator": "DDEV Team",
+        "image": "https://ddev.com/favicon.ico",
+        "description": "Local web development environment tool",
+        "downloadUrl": "https://ddev.com/get-started/"
+    },
+    {
+        "id": 772,
+        "title": "Vagrant",
+        "creator": "HashiCorp",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vagrant.png/1200px-Vagrant.png",
+        "description": "Tool for building development environments",
+        "downloadUrl": "https://www.vagrantup.com/downloads"
+    },
+    {
+        "id": 773,
+        "title": "VirtualBox",
+        "creator": "Oracle",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/1200px-Virtualbox_logo.png",
+        "description": "Virtualization product for running multiple OS",
+        "downloadUrl": "https://www.virtualbox.org/wiki/Downloads"
+    },
+    {
+        "id": 774,
+        "title": "WSL",
+        "creator": "Microsoft",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Windows_terminal_logo.svg/1200px-Windows_terminal_logo.svg.png",
+        "description": "Windows Subsystem for Linux",
+        "downloadUrl": "https://docs.microsoft.com/en-us/windows/wsl/install"
+    },
+    {
+        "id": 775,
+        "title": "Hyper",
+        "creator": "Vercel",
+        "image": "https://hyper.is/static/hyper.png",
+        "description": "Terminal built on web technologies",
+        "downloadUrl": "https://hyper.is/"
+    },
+    {
+        "id": 776,
+        "title": "iTerm2",
+        "creator": "George Nachman",
+        "image": "https://iterm2.com/img/logo2x.jpg",
+        "description": "Terminal emulator for macOS",
+        "downloadUrl": "https://iterm2.com/downloads.html"
+    },
+    {
+        "id": 777,
+        "title": "Windows Terminal",
+        "creator": "Microsoft",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Windows_terminal_logo.svg/1200px-Windows_terminal_logo.svg.png",
+        "description": "Modern terminal application for Windows",
+        "downloadUrl": "https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701"
+    },
+    {
+        "id": 778,
+        "title": "Oh My Zsh",
+        "creator": "Robby Russell",
+        "image": "https://ohmyz.sh/img/OMZLogo_BnW.png",
+        "description": "Framework for managing Zsh configuration",
+        "downloadUrl": "https://ohmyz.sh/#install"
+    },
+    {
+        "id": 779,
+        "title": "PowerShell",
+        "creator": "Microsoft",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/1200px-PowerShell_5.0_icon.png",
+        "description": "Task automation and configuration management",
+        "downloadUrl": "https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell"
+    },
+    {
+        "id": 780,
+        "title": "Cmder",
+        "creator": "Cmder Team",
+        "image": "https://cmder.net/img/logo.svg",
+        "description": "Console emulator package for Windows",
+        "downloadUrl": "https://cmder.net/"
+    },
+    {
+        "id": 781,
+        "title": "ConEmu",
+        "creator": "Maximus5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ConEmu_Logo.png/240px-ConEmu_Logo.png",
+        "description": "Customizable Windows terminal",
+        "downloadUrl": "https://conemu.github.io/"
+    },
+    {
+        "id": 782,
+        "title": "Alacritty",
+        "creator": "Joe Wilm",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alacritty_logo.svg/1200px-Alacritty_logo.svg.png",
+        "description": "Cross-platform terminal emulator",
+        "downloadUrl": "https://github.com/alacritty/alacritty/releases"
+    },
+    {
+        "id": 783,
+        "title": "Tabby",
+        "creator": "Eugene Pankov",
+        "image": "https://tabby.sh/images/logo.png",
+        "description": "Modern terminal for Windows, macOS and Linux",
+        "downloadUrl": "https://tabby.sh/"
+    },
+    {
+        "id": 784,
+        "title": "Terminus",
+        "creator": "Eugene Pankov",
+        "image": "https://github.com/Eugeny/tabby/raw/master/docs/readme.png",
+        "description": "Highly configurable terminal emulator",
+        "downloadUrl": "https://github.com/Eugeny/tabby/releases"
+    },
+    {
+        "id": 785,
+        "title": "Notepad++",
+        "creator": "Don Ho",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Notepad%2B%2B_Logo.png/240px-Notepad%2B%2B_Logo.png",
+        "description": "Source code editor with syntax highlighting",
+        "downloadUrl": "https://notepad-plus-plus.org/downloads/"
+    },
+    {
+        "id": 786,
+        "title": "Brackets",
+        "creator": "Adobe",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png",
+        "description": "Modern open-source code editor for web design",
+        "downloadUrl": "http://brackets.io/"
+    },
+    {
+        "id": 787,
+        "title": "Bluefish",
+        "creator": "Bluefish Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bluefish-logo.svg/1200px-Bluefish-logo.svg.png",
+        "description": "Powerful editor for programmers and web developers",
+        "downloadUrl": "http://bluefish.openoffice.nl/download.html"
+    },
+    {
+        "id": 788,
+        "title": "Aptana Studio",
+        "creator": "Aptana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aptana_Logo.png/240px-Aptana_Logo.png",
+        "description": "Web development IDE with HTML, CSS, JavaScript support",
+        "downloadUrl": "http://www.aptana.com/products/studio3/download.html"
+    },
+    {
+        "id": 789,
+        "title": "Komodo Edit",
+        "creator": "ActiveState",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Komodo_Edit_icon.png/240px-Komodo_Edit_icon.png",
+        "description": "Free multi-language code editor",
+        "downloadUrl": "https://www.activestate.com/products/komodo-edit/download-edit/"
+    },
+    {
+        "id": 790,
+        "title": "Light Table",
+        "creator": "Chris Granger",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Light_Table_Logo.png/240px-Light_Table_Logo.png",
+        "description": "Interactive IDE with instant feedback",
+        "downloadUrl": "http://lighttable.com/"
+    },
+    {
+        "id": 791,
+        "title": "TextMate",
+        "creator": "Allan Odgaard",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TextMate_Logo.png/240px-TextMate_Logo.png",
+        "description": "GUI text editor for macOS",
+        "downloadUrl": "https://macromates.com/download"
+    },
+    {
+        "id": 792,
+        "title": "BBEdit",
+        "creator": "Bare Bones Software",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BBEdit_Icon.png/240px-BBEdit_Icon.png",
+        "description": "Professional HTML and text editor for macOS",
+        "downloadUrl": "https://www.barebones.com/products/bbedit/download.html"
+    },
+    {
+        "id": 793,
+        "title": "Coda",
+        "creator": "Panic",
+        "image": "https://panic.com/coda/images/coda-logo@2x.png",
+        "description": "Web development IDE for macOS",
+        "downloadUrl": "https://panic.com/coda/"
+    },
+    {
+        "id": 794,
+        "title": "Espresso",
+        "creator": "MacRabbit",
+        "image": "https://www.macrabbit.com/espresso/images/espresso-icon.png",
+        "description": "Web editor for macOS with CSSEdit tools",
+        "downloadUrl": "https://www.macrabbit.com/espresso/"
+    },
+    {
+        "id": 795,
+        "title": "UltraEdit",
+        "creator": "IDM Computer Solutions",
+        "image": "https://www.ultraedit.com/wp-content/uploads/2020/10/UE-Logo-1.png",
+        "description": "Powerful text editor for Windows, Mac and Linux",
+        "downloadUrl": "https://www.ultraedit.com/downloads/"
+    },
+    {
+        "id": 796,
+        "title": "EditPlus",
+        "creator": "ES-Computing",
+        "image": "https://www.editplus.com/images/logo.gif",
+        "description": "Text editor for Windows with HTML tools",
+        "downloadUrl": "https://www.editplus.com/download.html"
+    },
+    {
+        "id": 797,
+        "title": "EmEditor",
+        "creator": "Emurasoft",
+        "image": "https://www.emeditor.com/wp-content/uploads/2021/01/emeditor-logo.png",
+        "description": "Fast text editor for large files",
+        "downloadUrl": "https://www.emeditor.com/download/"
+    },
+    {
+        "id": 798,
+        "title": "Geany",
+        "creator": "Geany Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Geany_logo.svg/1200px-Geany_logo.svg.png",
+        "description": "Lightweight cross-platform IDE",
+        "downloadUrl": "https://www.geany.org/download/releases"
+    },
+    {
+        "id": 799,
+        "title": "Kate",
+        "creator": "KDE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kate_Logo.svg/1200px-Kate_Logo.svg.png",
+        "description": "Advanced text editor for KDE",
+        "downloadUrl": "https://kate-editor.org/download/"
+    },
+    {
+        "id": 800,
+        "title": "Vim",
+        "creator": "Bram Moolenaar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png",
+        "description": "Highly configurable text editor",
+        "downloadUrl": "https://www.vim.org/download.php"
+    },
+    {
+        "id": 801,
+        "title": "Adobe Premiere Pro",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png",
+        "description": "Industry-standard video editing software",
+        "downloadUrl": "https://www.adobe.com/products/premiere.html"
+    },
+    {
+        "id": 802,
+        "title": "DaVinci Resolve",
+        "creator": "Blackmagic Design",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png",
+        "description": "Professional color correction and video editing",
+        "downloadUrl": "https://www.blackmagicdesign.com/products/davinciresolve/"
+    },
+    {
+        "id": 803,
+        "title": "Final Cut Pro",
+        "creator": "Apple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Final_Cut_Pro_X_Icon.png/240px-Final_Cut_Pro_X_Icon.png",
+        "description": "Professional non-linear video editing software for macOS",
+        "downloadUrl": "https://www.apple.com/final-cut-pro/"
+    },
+    {
+        "id": 804,
+        "title": "Avid Media Composer",
+        "creator": "Avid Technology",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Avid_Media_Composer_logo.png/240px-Avid_Media_Composer_logo.png",
+        "description": "Film and TV industry standard editing software",
+        "downloadUrl": "https://www.avid.com/media-composer"
+    },
+    {
+        "id": 805,
+        "title": "Vegas Pro",
+        "creator": "MAGIX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vegas_Pro_15.0.png/240px-Vegas_Pro_15.0.png",
+        "description": "Professional video editing and audio post-production",
+        "downloadUrl": "https://www.vegascreativesoftware.com/us/vegas-pro/"
+    },
+    {
+        "id": 806,
+        "title": "HitFilm Pro",
+        "creator": "FXhome",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/HitFilm_Logo.png/240px-HitFilm_Logo.png",
+        "description": "Video editing and visual effects compositing",
+        "downloadUrl": "https://fxhome.com/product/hitfilm"
+    },
+    {
+        "id": 807,
+        "title": "Lightworks",
+        "creator": "EditShare",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lightworks_logo.png/240px-Lightworks_logo.png",
+        "description": "Professional non-linear editing system",
+        "downloadUrl": "https://www.lwks.com/"
+    },
+    {
+        "id": 808,
+        "title": "Edius",
+        "creator": "Grass Valley",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EDIUS_logo.png/240px-EDIUS_logo.png",
+        "description": "Professional video editing for broadcast and production",
+        "downloadUrl": "https://www.grassvalley.com/products/edius_pro/"
+    },
+    {
+        "id": 809,
+        "title": "Pinnacle Studio",
+        "creator": "Corel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pinnacle_Studio_logo.png/240px-Pinnacle_Studio_logo.png",
+        "description": "Professional video editing with advanced features",
+        "downloadUrl": "https://www.pinnaclesys.com/en/products/studio/"
+    },
+    {
+        "id": 810,
+        "title": "CyberLink PowerDirector",
+        "creator": "CyberLink",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/PowerDirector_20_icon.png/240px-PowerDirector_20_icon.png",
+        "description": "Professional-grade video editing software",
+        "downloadUrl": "https://www.cyberlink.com/products/powerdirector-ultra/features_en_US.html"
+    },
+    {
+        "id": 811,
+        "title": "Filmora",
+        "creator": "Wondershare",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wondershare_Filmora_logo.png/240px-Wondershare_Filmora_logo.png",
+        "description": "Professional video editing with creative effects",
+        "downloadUrl": "https://filmora.wondershare.com/"
+    },
+    {
+        "id": 812,
+        "title": "Shotcut",
+        "creator": "Meltytech",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Shotcut_logo.png/240px-Shotcut_logo.png",
+        "description": "Free, open-source video editor",
+        "downloadUrl": "https://shotcut.org/download/"
+    },
+    {
+        "id": 813,
+        "title": "Blender",
+        "creator": "Blender Foundation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png",
+        "description": "Free 3D creation suite with video editing capabilities",
+        "downloadUrl": "https://www.blender.org/download/"
+    },
+    {
+        "id": 814,
+        "title": "Kdenlive",
+        "creator": "KDE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kdenlive_logo.svg/1200px-Kdenlive_logo.svg.png",
+        "description": "Open-source non-linear video editor",
+        "downloadUrl": "https://kdenlive.org/en/download/"
+    },
+    {
+        "id": 815,
+        "title": "Olive",
+        "creator": "Olive Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Olive_video_editor_logo.svg/1200px-Olive_video_editor_logo.svg.png",
+        "description": "Open-source non-linear video editor in development",
+        "downloadUrl": "https://www.olivevideoeditor.org/download.php"
+    },
+    {
+        "id": 816,
+        "title": "Cinelerra",
+        "creator": "Heroine Virtual",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cinelerra_logo.png/240px-Cinelerra_logo.png",
+        "description": "Professional non-linear video editing system for Linux",
+        "downloadUrl": "https://www.cinelerra-gg.org/downloads/"
+    },
+    {
+        "id": 817,
+        "title": "Flowblade",
+        "creator": "Janne Liljeblad",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flowblade_logo.svg/1200px-Flowblade_logo.svg.png",
+        "description": "Multitrack non-linear video editor for Linux",
+        "downloadUrl": "https://jliljebl.github.io/flowblade/download.html"
+    },
+    {
+        "id": 818,
+        "title": "OpenShot",
+        "creator": "Jonathan Thomas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/OpenShot_Logo.svg/1200px-OpenShot_Logo.svg.png",
+        "description": "Free, open-source video editor",
+        "downloadUrl": "https://www.openshot.org/download/"
+    },
+    {
+        "id": 819,
+        "title": "Movavi Video Editor",
+        "creator": "Movavi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Movavi_logo.png/240px-Movavi_logo.png",
+        "description": "Professional video editing software",
+        "downloadUrl": "https://www.movavi.com/videoeditor/"
+    },
+    {
+        "id": 820,
+        "title": "VideoPad",
+        "creator": "NCH Software",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/VideoPad_icon.png/240px-VideoPad_icon.png",
+        "description": "Professional video editing application",
+        "downloadUrl": "https://www.nchsoftware.com/videopad/index.html"
+    },
+    {
+        "id": 821,
+        "title": "Magix Movie Edit Pro",
+        "creator": "MAGIX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MAGIX_logo.svg/1200px-MAGIX_logo.svg.png",
+        "description": "Professional video editing software",
+        "downloadUrl": "https://www.magix.com/us/video/movie-edit-pro/"
+    },
+    {
+        "id": 822,
+        "title": "Corel VideoStudio",
+        "creator": "Corel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Corel_VideoStudio_Pro_X10_icon.png/240px-Corel_VideoStudio_Pro_X10_icon.png",
+        "description": "Professional video editing software",
+        "downloadUrl": "https://www.videostudiopro.com/en/products/videostudio/"
+    },
+    {
+        "id": 823,
+        "title": "Adobe After Effects",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png",
+        "description": "Digital visual effects and motion graphics software",
+        "downloadUrl": "https://www.adobe.com/products/aftereffects.html"
+    },
+    {
+        "id": 824,
+        "title": "Nuke",
+        "creator": "Foundry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuke_logo.svg/1200px-Nuke_logo.svg.png",
+        "description": "Node-based digital compositing application",
+        "downloadUrl": "https://www.foundry.com/products/nuke"
+    },
+    {
+        "id": 825,
+        "title": "Fusion",
+        "creator": "Blackmagic Design",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DaVinci_Fusion_Logo.png/240px-DaVinci_Fusion_Logo.png",
+        "description": "Visual effects and motion graphics software",
+        "downloadUrl": "https://www.blackmagicdesign.com/products/fusion/"
+    },
+    {
+        "id": 826,
+        "title": "Autodesk Flame",
+        "creator": "Autodesk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Autodesk_Flame_logo.png/240px-Autodesk_Flame_logo.png",
+        "description": "High-end visual effects and finishing software",
+        "downloadUrl": "https://www.autodesk.com/products/flame/overview"
+    },
+    {
+        "id": 827,
+        "title": "Mocha Pro",
+        "creator": "Boris FX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mocha_Pro_logo.png/240px-Mocha_Pro_logo.png",
+        "description": "Planar tracking and rotoscoping software",
+        "downloadUrl": "https://borisfx.com/products/mocha-pro/"
+    },
+    {
+        "id": 828,
+        "title": "Silhouette FX",
+        "creator": "Boris FX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Silhouette_FX_logo.png/240px-Silhouette_FX_logo.png",
+        "description": "Advanced rotoscoping and paint software",
+        "downloadUrl": "https://borisfx.com/products/silhouette/"
+    },
+    {
+        "id": 829,
+        "title": "Mistika VR",
+        "creator": "SGO",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mistika_VR_logo.png/240px-Mistika_VR_logo.png",
+        "description": "Professional VR and 360° video post-production",
+        "downloadUrl": "https://www.sgo.es/mistika-vr/"
+    },
+    {
+        "id": 830,
+        "title": "Assimilate Scratch",
+        "creator": "Assimilate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Assimilate_Scratch_logo.png/240px-Assimilate_Scratch_logo.png",
+        "description": "DI and finishing software for film and TV",
+        "downloadUrl": "https://www.assimilateinc.com/products/scratch/"
+    },
+    {
+        "id": 831,
+        "title": "Baselight",
+        "creator": "FilmLight",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmlight_logo.png/240px-Filmlight_logo.png",
+        "description": "High-end color grading system",
+        "downloadUrl": "https://www.filmlight.ltd.uk/products/baselight/overview.php"
+    },
+    {
+        "id": 832,
+        "title": "Nucoda",
+        "creator": "Digital Vision",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Digital_Vision_logo.png/240px-Digital_Vision_logo.png",
+        "description": "Color grading and mastering system",
+        "downloadUrl": "https://www.digitalvision.tv/products/nucoda/"
+    },
+    {
+        "id": 833,
+        "title": "Scratch VR",
+        "creator": "Assimilate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Assimilate_Scratch_logo.png/240px-Assimilate_Scratch_logo.png",
+        "description": "VR and 360° video post-production toolset",
+        "downloadUrl": "https://www.assimilateinc.com/products/scratch-vr/"
+    },
+    {
+        "id": 834,
+        "title": "Adobe Character Animator",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_Character_Animator_CC_icon.svg/1200px-Adobe_Character_Animator_CC_icon.svg.png",
+        "description": "Real-time 2D animation software",
+        "downloadUrl": "https://www.adobe.com/products/character-animator.html"
+    },
+    {
+        "id": 835,
+        "title": "Toon Boom Harmony",
+        "creator": "Toon Boom Animation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Toon_Boom_logo.svg/1200px-Toon_Boom_logo.svg.png",
+        "description": "Industry-standard 2D animation software",
+        "downloadUrl": "https://www.toonboom.com/products/harmony"
+    },
+    {
+        "id": 836,
+        "title": "Adobe Animate",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png",
+        "description": "Multimedia authoring and animation software",
+        "downloadUrl": "https://www.adobe.com/products/animate.html"
+    },
+    {
+        "id": 837,
+        "title": "Camtasia",
+        "creator": "TechSmith",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TechSmith_Camtasia_Logo.png/240px-TechSmith_Camtasia_Logo.png",
+        "description": "Screen recording and video editing software",
+        "downloadUrl": "https://www.techsmith.com/video-editor.html"
+    },
+    {
+        "id": 838,
+        "title": "ScreenFlow",
+        "creator": "Telestream",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ScreenFlow_logo.png/240px-ScreenFlow_logo.png",
+        "description": "Screen recording and video editing for Mac",
+        "downloadUrl": "https://www.telestream.net/screenflow/"
+    },
+    {
+        "id": 839,
+        "title": "OBS Studio",
+        "creator": "OBS Project",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/OBS_Studio_Logo.png/240px-OBS_Studio_Logo.png",
+        "description": "Free and open-source streaming and recording software",
+        "downloadUrl": "https://obsproject.com/"
+    },
+    {
+        "id": 840,
+        "title": "VMix",
+        "creator": "StudioCoast",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/VMix_logo.png/240px-VMix_logo.png",
+        "description": "Live video production software",
+        "downloadUrl": "https://www.vmix.com/"
+    },
+    {
+        "id": 841,
+        "title": "Wirecast",
+        "creator": "Telestream",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Wirecast_logo.png/240px-Wirecast_logo.png",
+        "description": "Live video streaming production software",
+        "downloadUrl": "https://www.telestream.net/wirecast/"
+    },
+    {
+        "id": 842,
+        "title": "vMix",
+        "creator": "StudioCoast",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/VMix_logo.png/240px-VMix_logo.png",
+        "description": "Live video production software with switching, recording and streaming",
+        "downloadUrl": "https://www.vmix.com/"
+    },
+    {
+        "id": 843,
+        "title": "Adobe Media Encoder",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Adobe_Media_Encoder_CC_icon.svg/1200px-Adobe_Media_Encoder_CC_icon.svg.png",
+        "description": "Media processing and encoding application",
+        "downloadUrl": "https://www.adobe.com/products/media-encoder.html"
+    },
+    {
+        "id": 844,
+        "title": "HandBrake",
+        "creator": "HandBrake Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HandBrake_Logo.svg/1200px-HandBrake_Logo.svg.png",
+        "description": "Open-source video transcoder",
+        "downloadUrl": "https://handbrake.fr/"
+    },
+    {
+        "id": 845,
+        "title": "FFmpeg",
+        "creator": "FFmpeg Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/FFmpeg_Logo_new.svg/1200px-FFmpeg_Logo_new.svg.png",
+        "description": "Complete, cross-platform solution to record, convert and stream audio and video",
+        "downloadUrl": "https://ffmpeg.org/download.html"
+    },
+    {
+        "id": 846,
+        "title": "Compressor",
+        "creator": "Apple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Compressor_icon.png/240px-Compressor_icon.png",
+        "description": "Video compression and encoding software for macOS",
+        "downloadUrl": "https://www.apple.com/final-cut-pro/compressor/"
+    },
+    {
+        "id": 847,
+        "title": "Adobe Audition",
+        "creator": "Adobe Inc.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Adobe_Audition_CC_icon.svg/1200px-Adobe_Audition_CC_icon.svg.png",
+        "description": "Digital audio workstation for audio post-production",
+        "downloadUrl": "https://www.adobe.com/products/audition.html"
+    },
+    {
+        "id": 848,
+        "title": "Pro Tools",
+        "creator": "Avid Technology",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pro_Tools_logo.png/240px-Pro_Tools_logo.png",
+        "description": "Digital audio workstation for audio production",
+        "downloadUrl": "https://www.avid.com/pro-tools"
+    },
+    {
+        "id": 849,
+        "title": "Audacity",
+        "creator": "Audacity Team",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Audacity_Logo.svg/1200px-Audacity_Logo.svg.png",
+        "description": "Free, open-source digital audio editor",
+        "downloadUrl": "https://www.audacityteam.org/download/"
+    },
+    {
+        "id": 850,
+        "title": "DaVinci Resolve Studio",
+        "creator": "Blackmagic Design",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png",
+        "description": "Professional version with advanced features",
+        "downloadUrl": "https://www.blackmagicdesign.com/products/davinciresolve/"
+    },
+    {
+        "id": 851,
+        "title": "Boris FX Continuum",
+        "creator": "Boris FX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Boris_FX_logo.png/240px-Boris_FX_logo.png",
+        "description": "Visual effects plugin suite for video editors",
+        "downloadUrl": "https://borisfx.com/products/continuum/"
+    },
+    {
+        "id": 852,
+        "title": "Red Giant Complete",
+        "creator": "Maxon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Red_Giant_logo.png/240px-Red_Giant_logo.png",
+        "description": "Suite of plugins for video effects and transitions",
+        "downloadUrl": "https://www.maxon.net/en/red-giant-complete"
+    },
+    {
+        "id": 853,
+        "title": "NewBlueFX",
+        "creator": "NewBlue",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NewBlueFX_logo.png/240px-NewBlueFX_logo.png",
+        "description": "Video effects and transitions plugins",
+        "downloadUrl": "https://newbluefx.com/"
+    },
+    {
+        "id": 854,
+        "title": "Magic Bullet Suite",
+        "creator": "Red Giant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Red_Giant_logo.png/240px-Red_Giant_logo.png",
+        "description": "Color correction and film looks plugins",
+        "downloadUrl": "https://www.maxon.net/en/red-giant-complete"
+    },
+    {
+        "id": 855,
+        "title": "Trapcode Suite",
+        "creator": "Red Giant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Red_Giant_logo.png/240px-Red_Giant_logo.png",
+        "description": "Particle and motion graphics plugins",
+        "downloadUrl": "https://www.maxon.net/en/red-giant-complete"
+    },
+    {
+        "id": 856,
+        "title": "Sapphire",
+        "creator": "Boris FX",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Boris_FX_logo.png/240px-Boris_FX_logo.png",
+        "description": "High-end visual effects plugin suite",
+        "downloadUrl": "https://borisfx.com/products/sapphire/"
+    },
+    {
+        "id": 857,
+        "title": "Neat Video",
+        "creator": "Neat Image",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Neat_Video_logo.png/240px-Neat_Video_logo.png",
+        "description": "Noise reduction plugin for video editors",
+        "downloadUrl": "https://www.neatvideo.com/"
+    },
+    {
+        "id": 858,
+        "title": "ReelSmart Motion Blur",
+        "creator": "ReVision Effects",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ReVisionFX_logo.png/240px-ReVisionFX_logo.png",
+        "description": "Motion blur plugin for video editors",
+        "downloadUrl": "https://www.revisionfx.com/products/rsmb/"
+    },
+    {
+        "id": 859,
+        "title": "Twixtor",
+        "creator": "ReVision Effects",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ReVisionFX_logo.png/240px-ReVisionFX_logo.png",
+        "description": "Time remapping and slow motion plugin",
+        "downloadUrl": "https://www.revisionfx.com/products/twixtor/"
+    },
+    {
+        "id": 860,
+        "title": "PluralEyes",
+        "creator": "Red Giant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Red_Giant_logo.png/240px-Red_Giant_logo.png",
+        "description": "Automatic audio/video sync tool",
+        "downloadUrl": "https://www.maxon.net/en/red-giant-complete"
+    },
+    {
+        "id": 861,
+        "title": "FilmConvert",
+        "creator": "FilmConvert",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FilmConvert_logo.png/240px-FilmConvert_logo.png",
+        "description": "Film grain and color grading plugin",
+        "downloadUrl": "https://www.filmconvert.com/"
+    },
+    {
+        "id": 862,
+        "title": "ColorFinale",
+        "creator": "ColorFinale",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ColorFinale_logo.png/240px-ColorFinale_logo.png",
+        "description": "Color grading plugin for Final Cut Pro",
+        "downloadUrl": "https://colorfinale.com/"
+    },
+    {
+        "id": 863,
+        "title": "LUT Utility",
+        "creator": "Assimilate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Assimilate_Scratch_logo.png/240px-Assimilate_Scratch_logo.png",
+        "description": "LUT application and management tool",
+        "downloadUrl": "https://www.assimilateinc.com/products/lut-utility/"
+    },
+    {
+        "id": 864,
+        "title": "Baselight Editions",
+        "creator": "FilmLight",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmlight_logo.png/240px-Filmlight_logo.png",
+        "description": "Color grading plugin for popular editing software",
+        "downloadUrl": "https://www.filmlight.ltd.uk/products/baselight/baselight_editions.php"
+    },
+    {
+        "id": 865,
+        "title": "RedCine-X Pro",
+        "creator": "RED Digital Cinema",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RED_Digital_Cinema_logo.png/240px-RED_Digital_Cinema_logo.png",
+        "description": "Professional RED RAW file processing software",
+        "downloadUrl": "https://www.red.com/downloads"
+    },
+    {
+        "id": 866,
+        "title": "ARRI Resolve",
+        "creator": "ARRI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ARRI_Logo.svg/1200px-ARRI_Logo.svg.png",
+        "description": "ARRI RAW processing plugin for DaVinci Resolve",
+        "downloadUrl": "https://www.arri.com/en/learn-help/software/arri-raw-converter"
+    },
+    {
+        "id": 867,
+        "title": "Canon RAW Development",
+        "creator": "Canon",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canon_logo.svg/1200px-Canon_logo.svg.png",
+        "description": "Canon RAW processing software",
+        "downloadUrl": "https://www.usa.canon.com/internet/portal/us/home/support/software-downloads"
+    },
+    {
+        "id": 868,
+        "title": "Sony Catalyst",
+        "creator": "Sony",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sony_logo.svg/1200px-Sony_logo.svg.png",
+        "description": "Professional video preparation and editing tools",
+        "downloadUrl": "https://www.sonycreativesoftware.com/catalystprepare"
+    },
+    {
+        "id": 869,
+        "title": "Panasonic VariCam Look",
+        "creator": "Panasonic",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Panasonic_logo_%28blue%29.svg/1200px-Panasonic_logo_%28blue%29.svg.png",
+        "description": "Color grading LUTs for Panasonic cameras",
+        "downloadUrl": "https://pro-av.panasonic.net/en/varicam/lut/"
+    },
+    {
+        "id": 870,
+        "title": "Blackmagic RAW",
+        "creator": "Blackmagic Design",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png",
+        "description": "RAW processing for Blackmagic cameras",
+        "downloadUrl": "https://www.blackmagicdesign.com/products/davinciresolve/"
+    },
+    {
+        "id": 871,
+        "title": "EditReady",
+        "creator": "Divergent Media",
+        "image": "https://www.divergentmedia.com/img/editready/EditReady_Icon_512.png",
+        "description": "Professional video transcoding software",
+        "downloadUrl": "https://www.divergentmedia.com/editready"
+    },
+    {
+        "id": 872,
+        "title": "Hedge",
+        "creator": "Hedge",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hedge_logo.png/240px-Hedge_logo.png",
+        "description": "Media transfer and transcoding software",
+        "downloadUrl": "https://hedge.video/"
+    },
+    {
+        "id": 873,
+        "title": "Silverstack",
+        "creator": "Pomfort",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pomfort_logo.png/240px-Pomfort_logo.png",
+        "description": "Professional media asset management",
+        "downloadUrl": "https://www.pomfort.com/silverstack/"
+    },
+    {
+        "id": 874,
+        "title": "YoYotta",
+        "creator": "YoYotta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/YoYotta_logo.png/240px-YoYotta_logo.png",
+        "description": "LTO archiving and verification software",
+        "downloadUrl": "https://yoyotta.com/"
+    },
+    {
+        "id": 875,
+        "title": "ShotPut Pro",
+        "creator": "Imagine Products",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Imagine_Products_logo.png/240px-Imagine_Products_logo.png",
+        "description": "Automated media copying and verification",
+        "downloadUrl": "https://www.imagineproducts.com/shotputpro.html"
+    },
+    {
+        "id": 876,
+        "title": "Pix",
+        "creator": "Pix System",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pix_logo.png/240px-Pix_logo.png",
+        "description": "Professional media review and approval platform",
+        "downloadUrl": "https://www.pixsystem.com/"
+    },
+    {
+        "id": 877,
+        "title": "Frame.io",
+        "creator": "Frame.io",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Frame.io_logo.png/240px-Frame.io_logo.png",
+        "description": "Cloud-based video review and collaboration",
+        "downloadUrl": "https://frame.io/"
+    },
+    {
+        "id": 878,
+        "title": "Wipster",
+        "creator": "Wipster",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wipster_logo.png/240px-Wipster_logo.png",
+        "description": "Video review and approval platform",
+        "downloadUrl": "https://wipster.io/"
+    },
+    {
+        "id": 879,
+        "title": "Kollaborate",
+        "creator": "Kollaborate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kollaborate_logo.png/240px-Kollaborate_logo.png",
+        "description": "Cloud-based media collaboration",
+        "downloadUrl": "https://www.kollaborate.tv/"
+    },
+    {
+        "id": 880,
+        "title": "Iconik",
+        "creator": "Iconik",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Iconik_logo.png/240px-Iconik_logo.png",
+        "description": "Cloud-based media management",
+        "downloadUrl": "https://www.iconik.io/"
+    },
+    {
+        "id": 881,
+        "title": "Axle AI",
+        "creator": "Axle AI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Axle_AI_logo.png/240px-Axle_AI_logo.png",
+        "description": "AI-powered media search and management",
+        "downloadUrl": "https://www.axle.ai/"
+    },
+    {
+        "id": 882,
+        "title": "CatDV",
+        "creator": "Square Box",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Square_Box_logo.png/240px-Square_Box_logo.png",
+        "description": "Media asset management system",
+        "downloadUrl": "https://www.squarebox.com/"
+    },
+    {
+        "id": 883,
+        "title": "Kyno",
+        "creator": "Lesspain Software",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kyno_logo.png/240px-Kyno_logo.png",
+        "description": "Media management and metadata tool",
+        "downloadUrl": "https://www.lesspain.software/kyno/"
+    },
+    {
+        "id": 884,
+        "title": "NeoFinder",
+        "creator": "Norbert Doerner",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeoFinder_logo.png/240px-NeoFinder_logo.png",
+        "description": "Media cataloging and asset management",
+        "downloadUrl": "https://www.cdfinder.de/"
+    },
+    {
+        "id": 885,
+        "title": "PostLab",
+        "creator": "Arctic Whiteness",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/PostLab_logo.png/240px-PostLab_logo.png",
+        "description": "Collaborative post-production workflow",
+        "downloadUrl": "https://www.arcticwhiteness.com/postlab/"
+    },
+    {
+        "id": 886,
+        "title": "ftrack",
+        "creator": "ftrack",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ftrack_logo.png/240px-Ftrack_logo.png",
+        "description": "Production tracking and review platform",
+        "downloadUrl": "https://www.ftrack.com/"
+    },
+    {
+        "id": 887,
+        "title": "Shotgun",
+        "creator": "Autodesk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shotgun_logo.png/240px-Shotgun_logo.png",
+        "description": "Production management and review",
+        "downloadUrl": "https://www.shotgunsoftware.com/"
+    },
+    {
+        "id": 888,
+        "title": "Celtx",
+        "creator": "Celtx",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Celtx_logo.png/240px-Celtx_logo.png",
+        "description": "Pre-production and scriptwriting software",
+        "downloadUrl": "https://www.celtx.com/"
+    },
+    {
+        "id": 889,
+        "title": "Storyboard That",
+        "creator": "Storyboard That",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Storyboard_That_logo.png/240px-Storyboard_That_logo.png",
+        "description": "Online storyboard creator",
+        "downloadUrl": "https://www.storyboardthat.com/"
+    },
+    {
+        "id": 890,
+        "title": "Boords",
+        "creator": "Boords",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Boords_logo.png/240px-Boords_logo.png",
+        "description": "Online storyboard creator for teams",
+        "downloadUrl": "https://boords.com/"
+    },
+    {
+        "id": 891,
+        "title": "FrameForge",
+        "creator": "FrameForge",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FrameForge_logo.png/240px-FrameForge_logo.png",
+        "description": "3D previsualization software",
+        "downloadUrl": "https://www.frameforge.com/"
+    },
+    {
+        "id": 892,
+        "title": "Shot Designer",
+        "creator": "Shot Designer",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Shot_Designer_logo.png/240px-Shot_Designer_logo.png",
+        "description": "Camera blocking and shot planning",
+        "downloadUrl": "https://www.shotdesigner.com/"
+    },
+    {
+        "id": 893,
+        "title": "Previs Pro",
+        "creator": "Previs Pro",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Previs_Pro_logo.png/240px-Previs_Pro_logo.png",
+        "description": "Virtual scouting and previsualization",
+        "downloadUrl": "https://www.previspro.com/"
+    },
+    {
+        "id": 894,
+        "title": "Cine Tracer",
+        "creator": "Cine Tracer",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cine_Tracer_logo.png/240px-Cine_Tracer_logo.png",
+        "description": "Cinematic previsualization tool",
+        "downloadUrl": "https://www.cinetracer.com/"
+    },
+    {
+        "id": 895,
+        "title": "Live Home 3D",
+        "creator": "BeLight Software",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Live_Home_3D_logo.png/240px-Live_Home_3D_logo.png",
+        "description": "3D visualization and planning",
+        "downloadUrl": "https://www.livehome3d.com/"
+    },
+    {
+        "id": 896,
+        "title": "Blender",
+        "creator": "Blender Foundation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png",
+        "description": "Free 3D creation suite with previs capabilities",
+        "downloadUrl": "https://www.blender.org/download/"
+    },
+    {
+        "id": 897,
+        "title": "Unreal Engine",
+        "creator": "Epic Games",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Unreal_Engine_logo.svg/1200px-Unreal_Engine_logo.svg.png",
+        "description": "Real-time 3D creation tool for previsualization",
+        "downloadUrl": "https://www.unrealengine.com/en-US/download"
+    },
+    {
+        "id": 898,
+        "title": "Unity",
+        "creator": "Unity Technologies",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png",
+        "description": "Real-time 3D development platform",
+        "downloadUrl": "https://unity.com/download"
+    },
+    {
+        "id": 899,
+        "title": "Maya",
+        "creator": "Autodesk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Autodesk_Maya_logo.png/240px-Autodesk_Maya_logo.png",
+        "description": "3D computer animation software",
+        "downloadUrl": "https://www.autodesk.com/products/maya/overview"
+    },
+    {
+        "id": 900,
+        "title": "3ds Max",
+        "creator": "Autodesk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Autodesk_3ds_Max_2017_icon.png/240px-Autodesk_3ds_Max_2017_icon.png",
+        "description": "3D modeling and rendering software",
+        "downloadUrl": "https://www.autodesk.com/products/3ds-max/overview"
+    },
     {
         id: 16,
         title: "Blender",
