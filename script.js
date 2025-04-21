@@ -281,6 +281,1046 @@ const toolsData = [
     "downloadUrl": "https://inkscape.org/release/"
 },
     {
+    "id": 37,
+    "title": "Joplin",
+    "creator": "Laurent Cozic",
+    "image": "https://joplinapp.org/images/logo-text-blue.svg",
+    "description": "An open-source note-taking app with markdown support and end-to-end encryption.",
+    "downloadUrl": "https://joplinapp.org/#download"
+},
+{
+    "id": 38,
+    "title": "FreeCAD",
+    "creator": "FreeCAD Community",
+    "image": "https://www.freecad.org/images/logo.png",
+    "description": "A parametric 3D CAD modeler for designing real-life objects.",
+    "downloadUrl": "https://www.freecad.org/downloads.php"
+},
+{
+    "id": 39,
+    "title": "Darktable",
+    "creator": "darktable team",
+    "image": "https://www.darktable.org/wp-content/uploads/2020/09/darktable-logo-black.png",
+    "description": "An open-source photography workflow application for RAW image processing.",
+    "downloadUrl": "https://www.darktable.org/install/"
+},
+{
+    "id": 40,
+    "title": "Signal",
+    "creator": "Signal Foundation",
+    "image": "https://signal.org/assets/header/logo-f7ef605fe417d5520d38d546b3b774b4261a06e572db69b9320d60dfef8d1781.png",
+    "description": "A private messaging app with end-to-end encryption for calls and texts.",
+    "downloadUrl": "https://signal.org/download/"
+},
+{
+    "id": 41,
+    "title": "TeraCopy",
+    "creator": "Code Sector",
+    "image": "https://www.codesector.com/images/teracopy-logo.png",
+    "description": "A file transfer utility with pause/resume and error recovery features.",
+    "downloadUrl": "https://www.codesector.com/teracopy"
+},
+{
+    "id": 42,
+    "title": "Process Hacker",
+    "creator": "Wen Jia Liu",
+    "image": "https://processhacker.sourceforge.io/images/process_hacker_logo.png",
+    "description": "A powerful task manager and system monitor with advanced features.",
+    "downloadUrl": "https://processhacker.sourceforge.io/downloads.php"
+},
+{
+    "id": 43,
+    "title": "Duplicati",
+    "creator": "Duplicati Team",
+    "image": "https://www.duplicati.com/resources/icon.png",
+    "description": "A backup tool that stores encrypted backups on cloud services.",
+    "downloadUrl": "https://www.duplicati.com/download"
+},
+{
+    "id": 44,
+    "title": "Zotero",
+    "creator": "Corporation for Digital Scholarship",
+    "image": "https://www.zotero.org/static/images/zotero-logo-512x512.png",
+    "description": "A reference manager to collect, organize, and cite research sources.",
+    "downloadUrl": "https://www.zotero.org/download/"
+},
+{
+    "id": 45,
+    "title": "Figma",
+    "creator": "Figma, Inc.",
+    "image": "https://static.figma.com/app/icon/1/favicon.png",
+    "description": "A collaborative UI/UX design tool with cloud-based prototyping.",
+    "downloadUrl": "https://www.figma.com/downloads/"
+},
+{
+    "id": 46,
+    "title": "Wireshark",
+    "creator": "Wireshark Foundation",
+    "image": "https://www.wireshark.org/assets/images/wslogo.png",
+    "description": "A network protocol analyzer for troubleshooting and education.",
+    "downloadUrl": "https://www.wireshark.org/download.html"
+},
+{
+    "id": 47,
+    "title": "AutoHotkey",
+    "creator": "Chris Mallett",
+    "image": "https://www.autohotkey.com/assets/ahk-logo-no-text.svg",
+    "description": "A scripting language for automating Windows tasks and shortcuts.",
+    "downloadUrl": "https://www.autohotkey.com/download/"
+},
+{
+    "id": 48,
+    "title": "Musescore",
+    "creator": "Musescore LTD",
+    "image": "https://musescore.org/sites/musescore.org/files/musescore-logo-colour.png",
+    "description": "Free, open-source music notation software for composers.",
+    "downloadUrl": "https://musescore.org/en/download"
+},
+{
+    "id": 49,
+    "title": "TuxGuitar",
+    "creator": "Julian Casadesus",
+    "image": "https://sourceforge.net/projects/tuxguitar/files/tuxguitar.png",
+    "description": "A multitrack guitar tablature editor and player.",
+    "downloadUrl": "https://sourceforge.net/projects/tuxguitar/"
+},
+{
+    "id": 50,
+    "title": "Ghidra",
+    "creator": "National Security Agency (NSA)",
+    "image": "https://ghidra-sre.org/GhidraCover.png",
+    "description": "A software reverse engineering toolkit developed by the NSA.",
+    "downloadUrl": "https://ghidra-sre.org/"
+},
+{
+    "id": 51,
+    "title": "Godot Engine",
+    "creator": "Godot Community",
+    "image": "https://godotengine.org/themes/godotengine/assets/press/logo_large_color_dark.png",
+    "description": "A free, open-source game engine for 2D/3D game development.",
+    "downloadUrl": "https://godotengine.org/download"
+},
+{
+    "id": 52,
+    "title": "LMMS",
+    "creator": "LMMS Team",
+    "image": "https://lmms.io/img/lmms-logo.png",
+    "description": "A digital audio workstation for music production.",
+    "downloadUrl": "https://lmms.io/download/"
+},
+{
+    "id": 53,
+    "title": "Stellarium",
+    "creator": "Stellarium Team",
+    "image": "https://stellarium.org/img/stellarium-logo.png",
+    "description": "A free planetarium software for realistic sky simulation.",
+    "downloadUrl": "https://stellarium.org/"
+},
+{
+    "id": 54,
+    "title": "KiCad",
+    "creator": "KiCad Developers",
+    "image": "https://www.kicad.org/img/kicad_logo_small.png",
+    "description": "An open-source PCB design tool for electronics engineers.",
+    "downloadUrl": "https://www.kicad.org/download/"
+},
+{
+    "id": 55,
+    "title": "VirtualBox",
+    "creator": "Oracle",
+    "image": "https://www.virtualbox.org/graphics/vbox_logo2_gradient.png",
+    "description": "A free virtualization tool for running multiple OSes on a single machine.",
+    "downloadUrl": "https://www.virtualbox.org/wiki/Downloads"
+},
+{
+    "id": 56,
+    "title": "FastStone Capture",
+    "creator": "FastStone Soft",
+    "image": "https://www.faststonesoft.net/images/fslogo.png",
+    "description": "A screen capture tool with editing and annotation features.",
+    "downloadUrl": "https://www.faststonesoft.net/download.htm"
+},
+{
+    "id": 57,
+    "title": "PDF-XChange Editor",
+    "creator": "Tracker Software",
+    "image": "https://www.pdf-xchange.com/images/logo.png",
+    "description": "A feature-rich PDF editor with OCR and annotation tools.",
+    "downloadUrl": "https://www.pdf-xchange.com/product/downloads"
+},
+{
+    "id": 58,
+    "title": "SumatraPDF",
+    "creator": "Krzysztof Kowalczyk",
+    "image": "https://www.sumatrapdfreader.org/img/sumatrapdf-logo.png",
+    "description": "A lightweight PDF, EPUB, and MOBI reader for Windows.",
+    "downloadUrl": "https://www.sumatrapdfreader.org/download-free-pdf-viewer.html"
+},
+{
+    "id": 59,
+    "title": "CrystalDiskInfo",
+    "creator": "Noriyuki Miyazaki",
+    "image": "https://crystalmark.info/images/logo-cdi.png",
+    "description": "A disk health monitoring tool for HDDs and SSDs.",
+    "downloadUrl": "https://crystalmark.info/en/software/crystaldiskinfo/"
+},
+{
+    "id": 60,
+    "title": "Evernote",
+    "creator": "Bending Spoons",
+    "image": "https://evernote.com/img/logo/evernote/primary.svg",
+    "description": "A note-taking app with cloud sync and organization features.",
+    "downloadUrl": "https://evernote.com/download"
+},
+{
+    "id": 61,
+    "title": "DuckDuckGo Privacy Browser",
+    "creator": "DuckDuckGo",
+    "image": "https://duckduckgo.com/assets/logo_social-media.png",
+    "description": "A privacy-focused browser with tracker blocking.",
+    "downloadUrl": "https://duckduckgo.com/app"
+},
+{
+    "id": 62,
+    "title": "Vivaldi",
+    "creator": "Vivaldi Technologies",
+    "image": "https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/vivaldi-symbol.svg",
+    "description": "A customizable browser with built-in productivity tools.",
+    "downloadUrl": "https://vivaldi.com/download/"
+},
+{
+    "id": 63,
+    "title": "ProtonVPN",
+    "creator": "Proton AG",
+    "image": "https://protonvpn.com/img/protonvpn-logo.svg",
+    "description": "A secure VPN service with strong encryption and no logs.",
+    "downloadUrl": "https://protonvpn.com/download/"
+},
+{
+    "id": 64,
+    "title": "Standard Notes",
+    "creator": "Standard Notes",
+    "image": "https://standardnotes.com/images/logo.png",
+    "description": "A private notes app with end-to-end encryption.",
+    "downloadUrl": "https://standardnotes.com/download"
+},
+{
+    "id": 65,
+    "title": "Bulk Rename Utility",
+    "creator": "TGRMN Software",
+    "image": "https://www.bulkrenameutility.co.uk/favicon.ico",
+    "description": "A tool for batch renaming files and folders with advanced options.",
+    "downloadUrl": "https://www.bulkrenameutility.co.uk/Download.php"
+},
+{
+    "id": 66,
+    "title": "OpenShot",
+    "creator": "Jonathan Thomas",
+    "image": "https://www.openshot.org/static/img/logo.png",
+    "description": "A free, open-source video editor for simple and advanced projects.",
+    "downloadUrl": "https://www.openshot.org/download/"
+},
+{
+    "id": 67,
+    "title": "Kodi",
+    "creator": "XBMC Foundation",
+    "image": "https://kodi.tv/images/logo.png",
+    "description": "A media center software for organizing and streaming content.",
+    "downloadUrl": "https://kodi.tv/download"
+},
+{
+    "id": 68,
+    "title": "TightVNC",
+    "creator": "GlavSoft LLC",
+    "image": "https://www.tightvnc.com/images/tightvnc-logo.png",
+    "description": "A remote desktop tool for controlling computers over a network.",
+    "downloadUrl": "https://www.tightvnc.com/download.php"
+},
+{
+    "id": 69,
+    "title": "Brackets",
+    "creator": "Adobe",
+    "image": "https://brackets.io/img/brackets.svg",
+    "description": "A lightweight code editor for web designers and developers.",
+    "downloadUrl": "https://brackets.io/"
+},
+{
+    "id": 70,
+    "title": "Flameshot",
+    "creator": "Flameshot Team",
+    "image": "https://flameshot.org/images/logo.svg",
+    "description": "A powerful screenshot tool with annotation features.",
+    "downloadUrl": "https://flameshot.org/#download"
+},
+{
+    "id": 71,
+    "title": "ClamWin",
+    "creator": "ClamWin Pty Ltd",
+    "image": "https://www.clamwin.com/images/clamwin-logo.png",
+    "description": "A free, open-source antivirus for Windows.",
+    "downloadUrl": "https://www.clamwin.com/content/view/18/46/"
+},
+{
+    "id": 72,
+    "title": "Pencil2D",
+    "creator": "Pencil2D Team",
+    "image": "https://www.pencil2d.org/images/logo.png",
+    "description": "A simple 2D animation software for hand-drawn cartoons.",
+    "downloadUrl": "https://www.pencil2d.org/download/"
+},
+{
+    "id": 73,
+    "title": "Syncthing",
+    "creator": "Syncthing Foundation",
+    "image": "https://syncthing.net/images/logo-horizontal.svg",
+    "description": "A continuous file synchronization tool for decentralized backups.",
+    "downloadUrl": "https://syncthing.net/downloads/"
+},
+{
+    "id": 74,
+    "title": "Unreal Engine",
+    "creator": "Epic Games",
+    "image": "https://www.unrealengine.com/themes/ue5/images/ue-logo.svg",
+    "description": "A professional game engine for AAA-quality 3D development.",
+    "downloadUrl": "https://www.unrealengine.com/en-US/download"
+},
+{
+    "id": 75,
+    "title": "AIMP",
+    "creator": "Artem Izmaylov",
+    "image": "https://www.aimp.ru/wp-content/themes/aimp-ru/assets/images/logo.svg",
+    "description": "A lightweight audio player with customizable skins and plugins.",
+    "downloadUrl": "https://www.aimp.ru/?do=download"
+},
+{
+    "id": 76,
+    "title": "Tox",
+    "creator": "Tox Foundation",
+    "image": "https://tox.chat/imgs/logo.svg",
+    "description": "A decentralized, encrypted messaging and VoIP platform.",
+    "downloadUrl": "https://tox.chat/download.html"
+},
+{
+    "id": 77,
+    "title": "Gephi",
+    "creator": "Gephi Consortium",
+    "image": "https://gephi.org/images/gephi-logo.png",
+    "description": "An open-source network analysis and visualization tool.",
+    "downloadUrl": "https://gephi.org/users/download/"
+},
+{
+    "id": 78,
+    "title": "Nomacs",
+    "creator": "Markus Diem",
+    "image": "https://nomacs.org/wp-content/uploads/2016/07/nomacs-logo.png",
+    "description": "A fast, lightweight image viewer with editing capabilities.",
+    "downloadUrl": "https://nomacs.org/download/"
+},
+{
+    "id": 79,
+    "title": "Rocket.Chat",
+    "creator": "Rocket.Chat Team",
+    "image": "https://rocket.chat/images/logo/logo.svg",
+    "description": "A self-hosted team communication platform alternative to Slack.",
+    "downloadUrl": "https://rocket.chat/install"
+},
+{
+    "id": 80,
+    "title": "PepperFlash",
+    "creator": "Adobe",
+    "image": "https://www.adobe.com/content/dam/cc/icons/flash-player.svg",
+    "description": "A legacy Flash Player plugin for browsers (archived).",
+    "downloadUrl": "https://archive.org/details/flashplayerarchive"
+},
+{
+    "id": 81,
+    "title": "Dia",
+    "creator": "GNOME",
+    "image": "https://wiki.gnome.org/Projects/Dia?action=AttachFile&do=get&target=dia-logo.png",
+    "description": "A diagramming tool similar to Microsoft Visio.",
+    "downloadUrl": "http://dia-installer.de/download.html"
+},
+{
+    "id": 82,
+    "title": "LyX",
+    "creator": "LyX Team",
+    "image": "https://www.lyx.org/images/lyx-logo.png",
+    "description": "A document processor based on LaTeX for academic writing.",
+    "downloadUrl": "https://www.lyx.org/Download"
+},
+{
+    "id": 83,
+    "title": "Tiled",
+    "creator": "Thorbjørn Lindeijer",
+    "image": "https://www.mapeditor.org/img/tiled-logo.svg",
+    "description": "A flexible level editor for 2D games and tile-based maps.",
+    "downloadUrl": "https://www.mapeditor.org/"
+},
+{
+    "id": 84,
+    "title": "QGIS",
+    "creator": "QGIS Development Team",
+    "image": "https://qgis.org/en/_static/images/logo.png",
+    "description": "A free, open-source geographic information system (GIS).",
+    "downloadUrl": "https://qgis.org/en/site/forusers/download.html"
+},
+{
+    "id": 85,
+    "title": "Gramps",
+    "creator": "Gramps Project",
+    "image": "https://gramps-project.org/wp-content/uploads/2022/01/gramps-logo.svg",
+    "description": "A genealogy software for tracking family history.",
+    "downloadUrl": "https://gramps-project.org/blog/"
+},
+{
+    "id": 86,
+    "title": "Celestia",
+    "creator": "Celestia Development Team",
+    "image": "https://celestia.space/images/celestia-logo.png",
+    "description": "A real-time 3D space simulation for exploring the universe.",
+    "downloadUrl": "https://celestia.space/download.html"
+        },
+    {
+    "id": 87,
+    "title": "Arduino IDE",
+    "creator": "Arduino",
+    "image": "https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png",
+    "description": "Integrated development environment for Arduino hardware programming.",
+    "downloadUrl": "https://www.arduino.cc/en/software"
+},
+{
+    "id": 88,
+    "title": "Raspberry Pi Imager",
+    "creator": "Raspberry Pi Foundation",
+    "image": "https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png",
+    "description": "Official tool to write OS images to SD cards for Raspberry Pi.",
+    "downloadUrl": "https://www.raspberrypi.com/software/"
+},
+{
+    "id": 89,
+    "title": "Fritzing",
+    "creator": "Fritzing Foundation",
+    "image": "https://fritzing.org/media/fritzing-website/logo.png",
+    "description": "Electronic design automation software for documenting circuits.",
+    "downloadUrl": "https://fritzing.org/download/"
+},
+{
+    "id": 90,
+    "title": "WSL (Windows Subsystem for Linux)",
+    "creator": "Microsoft",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Windows_terminal_logo.svg/1200px-Windows_terminal_logo.svg.png",
+    "description": "Run Linux environments directly on Windows.",
+    "downloadUrl": "https://docs.microsoft.com/en-us/windows/wsl/install"
+},
+{
+    "id": 91,
+    "title": "Postman",
+    "creator": "Postman Inc.",
+    "image": "https://www.postman.com/_ar-assets/images/favicon-1-48.png",
+    "description": "API development and testing environment.",
+    "downloadUrl": "https://www.postman.com/downloads/"
+},
+{
+    "id": 92,
+    "title": "Insomnia",
+    "creator": "Kong Inc.",
+    "image": "https://insomnia.rest/images/insomnia-logo.svg",
+    "description": "API client for GraphQL, REST, and gRPC.",
+    "downloadUrl": "https://insomnia.rest/download"
+},
+{
+    "id": 93,
+    "title": "Docker",
+    "creator": "Docker Inc.",
+    "image": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+    "description": "Platform to build, share, and run containerized applications.",
+    "downloadUrl": "https://www.docker.com/products/docker-desktop/"
+},
+{
+    "id": 94,
+    "title": "PuTTY",
+    "creator": "Simon Tatham",
+    "image": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest/puttydoc.html/_static/putty.ico",
+    "description": "SSH and telnet client for Windows.",
+    "downloadUrl": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
+},
+{
+    "id": 95,
+    "title": "WinSCP",
+    "creator": "Martin Prikryl",
+    "image": "https://winscp.net/eng/images/logo.png",
+    "description": "SFTP, FTP, and SCP client for Windows.",
+    "downloadUrl": "https://winscp.net/eng/download.php"
+},
+{
+    "id": 96,
+    "title": "MobaXterm",
+    "creator": "Mobatek",
+    "image": "https://mobaxterm.mobatek.net/img/MobaXterm.png",
+    "description": "Enhanced terminal for Windows with X11 server and tabbed SSH.",
+    "downloadUrl": "https://mobaxterm.mobatek.net/download.html"
+},
+{
+    "id": 97,
+    "title": "Cyberduck",
+    "creator": "iterate GmbH",
+    "image": "https://cdn.cyberduck.io/img/cyberduck-icon-256.png",
+    "description": "FTP, SFTP, and cloud storage browser.",
+    "downloadUrl": "https://cyberduck.io/download/"
+},
+{
+    "id": 98,
+    "title": "FileZilla Pro",
+    "creator": "Tim Kosse",
+    "image": "https://filezilla-project.org/images/logo.png",
+    "description": "Professional version of FileZilla with cloud support.",
+    "downloadUrl": "https://filezilla-project.org/pro.php"
+},
+{
+    "id": 99,
+    "title": "Beyond Compare",
+    "creator": "Scooter Software",
+    "image": "https://www.scootersoftware.com/images/BC4Logo256.png",
+    "description": "File and folder comparison utility.",
+    "downloadUrl": "https://www.scootersoftware.com/download.php"
+},
+{
+    "id": 100,
+    "title": "WinMerge",
+    "creator": "WinMerge Team",
+    "image": "https://winmerge.org/images/logo.png",
+    "description": "Open-source differencing and merging tool.",
+    "downloadUrl": "https://winmerge.org/downloads/"
+},
+{
+    "id": 101,
+    "title": "DiffMerge",
+    "creator": "SourceGear",
+    "image": "https://www.sourcegear.com/diffmerge/images/diffmerge-icon.png",
+    "description": "Tool for comparing and merging files.",
+    "downloadUrl": "https://www.sourcegear.com/diffmerge/downloads.php"
+},
+{
+    "id": 102,
+    "title": "Araxis Merge",
+    "creator": "Araxis Ltd",
+    "image": "https://www.araxis.com/images/merge-icon-256.png",
+    "description": "Professional file comparison and merging tool.",
+    "downloadUrl": "https://www.araxis.com/merge/download.en"
+},
+{
+    "id": 103,
+    "title": "KDiff3",
+    "creator": "Joachim Eibl",
+    "image": "https://kdiff3.sourceforge.net/kdiff3.png",
+    "description": "Diff and merge program for 2 or 3 input files.",
+    "downloadUrl": "https://kdiff3.sourceforge.net/"
+},
+{
+    "id": 104,
+    "title": "Meld",
+    "creator": "GNOME",
+    "image": "https://meldmerge.org/images/meld-icon.png",
+    "description": "Visual diff and merge tool.",
+    "downloadUrl": "https://meldmerge.org/"
+},
+{
+    "id": 105,
+    "title": "Perforce Helix Core",
+    "creator": "Perforce",
+    "image": "https://www.perforce.com/sites/default/files/image/2021-03/perforce-logo.svg",
+    "description": "Version control system for enterprises.",
+    "downloadUrl": "https://www.perforce.com/downloads/helix-core"
+},
+{
+    "id": 106,
+    "title": "Mercurial",
+    "creator": "Matt Mackall",
+    "image": "https://www.mercurial-scm.org/images/mercurial-logo.png",
+    "description": "Lightweight distributed version control system.",
+    "downloadUrl": "https://www.mercurial-scm.org/downloads"
+},
+{
+    "id": 107,
+    "title": "Fossil",
+    "creator": "D. Richard Hipp",
+    "image": "https://fossil-scm.org/home/logo/fossil-logo-200.png",
+    "description": "Simple, high-reliability distributed version control.",
+    "downloadUrl": "https://fossil-scm.org/home/uv/download.html"
+},
+{
+    "id": 108,
+    "title": "Plastic SCM",
+    "creator": "Codice Software",
+    "image": "https://www.plasticscm.com/images/logo.png",
+    "description": "Enterprise-grade version control system.",
+    "downloadUrl": "https://www.plasticscm.com/download"
+},
+{
+    "id": 109,
+    "title": "SVN (Subversion)",
+    "creator": "Apache Software Foundation",
+    "image": "https://subversion.apache.org/images/svn-logo.png",
+    "description": "Centralized version control system.",
+    "downloadUrl": "https://subversion.apache.org/packages.html"
+},
+{
+    "id": 110,
+    "title": "TortoiseSVN",
+    "creator": "TortoiseSVN Team",
+    "image": "https://tortoisesvn.net/assets/img/tortoisesvn-logo.png",
+    "description": "Subversion client implemented as a Windows shell extension.",
+    "downloadUrl": "https://tortoisesvn.net/downloads.html"
+},
+{
+    "id": 111,
+    "title": "SmartGit",
+    "creator": "Syntevo",
+    "image": "https://www.syntevo.com/doc/display/SG170/Home",
+    "description": "Git client with SVN support and GitHub integration.",
+    "downloadUrl": "https://www.syntevo.com/smartgit/download/"
+},
+{
+    "id": 112,
+    "title": "GitKraken",
+    "creator": "Axosoft",
+    "image": "https://www.gitkraken.com/img/GitKraken-logo.svg",
+    "description": "Graphical Git client with powerful features.",
+    "downloadUrl": "https://www.gitkraken.com/download"
+},
+{
+    "id": 113,
+    "title": "SourceTree",
+    "creator": "Atlassian",
+    "image": "https://www.sourcetreeapp.com/dam/jcr:2e40c7d5-00e0-4f61-8f0d-854e33a9a2e8/sourcetree-icon.svg",
+    "description": "Free Git GUI client for Windows and Mac.",
+    "downloadUrl": "https://www.sourcetreeapp.com/"
+},
+{
+    "id": 114,
+    "title": "Tower",
+    "creator": "fournova",
+    "image": "https://www.git-tower.com/img/pages/home/tower-logo.svg",
+    "description": "Powerful Git client for Mac and Windows.",
+    "downloadUrl": "https://www.git-tower.com/download"
+},
+{
+    "id": 115,
+    "title": "Fork",
+    "creator": "Fork Dev",
+    "image": "https://fork.dev/images/fork-logo.svg",
+    "description": "Fast and friendly Git client for Mac and Windows.",
+    "downloadUrl": "https://fork.dev/download"
+},
+{
+    "id": 116,
+    "title": "GitAhead",
+    "creator": "GitAhead",
+    "image": "https://gitahead.com/img/logo.png",
+    "description": "Graphical Git client designed to help understand Git history.",
+    "downloadUrl": "https://gitahead.com/"
+},
+{
+    "id": 117,
+    "title": "GitCola",
+    "creator": "David Aguilar",
+    "image": "https://git-cola.github.io/images/git-cola.svg",
+    "description": "Sleek and powerful Git GUI.",
+    "downloadUrl": "https://git-cola.github.io/downloads.html"
+},
+{
+    "id": 118,
+    "title": "Ungit",
+    "creator": "Fredrik Norén",
+    "image": "https://github.com/FredrikNoren/ungit/raw/master/source/ungit.svg",
+    "description": "Git interface that makes understanding Git easy.",
+    "downloadUrl": "https://github.com/FredrikNoren/ungit"
+},
+{
+    "id": 119,
+    "title": "GitUp",
+    "creator": "GitUp",
+    "image": "https://gitup.co/images/logo.png",
+    "description": "Simple and powerful Git client for Mac.",
+    "downloadUrl": "https://gitup.co/"
+},
+{
+    "id": 120,
+    "title": "GitExtensions",
+    "creator": "GitExtensions Team",
+    "image": "https://gitextensions.github.io/images/logo.png",
+    "description": "Graphical user interface for Git.",
+    "downloadUrl": "https://gitextensions.github.io/"
+},
+{
+    "id": 121,
+    "title": "GitForce",
+    "creator": "GitForce",
+    "image": "https://gitforce.sourceforge.io/img/gitforce.png",
+    "description": "Graphical front-end for Git written in C#.",
+    "downloadUrl": "https://gitforce.sourceforge.io/"
+},
+{
+    "id": 122,
+    "title": "RabbitVCS",
+    "creator": "RabbitVCS Team",
+    "image": "https://rabbitvcs.org/static/img/rabbitvcs.png",
+    "description": "Graphical tools for working with version control systems.",
+    "downloadUrl": "https://rabbitvcs.org/"
+},
+{
+    "id": 123,
+    "title": "QGit",
+    "creator": "Marco Costalba",
+    "image": "https://qgit.sourceforge.io/qgit-logo.png",
+    "description": "Qt-based graphical interface for Git.",
+    "downloadUrl": "https://qgit.sourceforge.io/"
+},
+{
+    "id": 124,
+    "title": "GitX",
+    "creator": "Pieter de Bie",
+    "image": "https://gitx.frim.nl/images/GitX.png",
+    "description": "Git GUI for Mac OS X.",
+    "downloadUrl": "https://gitx.frim.nl/"
+},
+{
+    "id": 125,
+    "title": "GitFiend",
+    "creator": "GitFiend",
+    "image": "https://gitfiend.com/resources/icon.png",
+    "description": "Modern Git client for Windows, Mac and Linux.",
+    "downloadUrl": "https://gitfiend.com/"
+},
+{
+    "id": 126,
+    "title": "Gittyup",
+    "creator": "Gittyup",
+    "image": "https://github.com/Murmele/Gittyup/raw/master/resources/icons/gittyup.png",
+    "description": "Graphical Git client based on Qt.",
+    "downloadUrl": "https://github.com/Murmele/Gittyup"
+},
+{
+    "id": 127,
+    "title": "GitUI",
+    "creator": "Extrawurst",
+    "image": "https://github.com/extrawurst/gitui/raw/master/assets/logo.png",
+    "description": "Blazing fast terminal-ui for Git written in Rust.",
+    "downloadUrl": "https://github.com/extrawurst/gitui"
+},
+{
+    "id": 128,
+    "title": "Lazygit",
+    "creator": "Jesseduffield",
+    "image": "https://github.com/jesseduffield/lazygit/raw/master/docs/static/lazygit_logo.png",
+    "description": "Simple terminal UI for Git commands.",
+    "downloadUrl": "https://github.com/jesseduffield/lazygit"
+},
+{
+    "id": 129,
+    "title": "Tig",
+    "creator": "Jonas Fonseca",
+    "image": "https://github.com/jonas/tig/raw/master/doc/tig-logo.png",
+    "description": "Text-mode interface for Git.",
+    "downloadUrl": "https://github.com/jonas/tig"
+},
+{
+    "id": 130,
+    "title": "Magit",
+    "creator": "Magit Team",
+    "image": "https://magit.vc/img/magit-logo.png",
+    "description": "Interface to Git implemented as an Emacs package.",
+    "downloadUrl": "https://magit.vc/"
+},
+{
+    "id": 131,
+    "title": "Gitg",
+    "creator": "GNOME",
+    "image": "https://wiki.gnome.org/Projects/Gitg?action=AttachFile&do=get&target=gitg-logo.png",
+    "description": "GNOME GUI client to view Git repositories.",
+    "downloadUrl": "https://wiki.gnome.org/Apps/Gitg"
+},
+{
+    "id": 132,
+    "title": "Giggle",
+    "creator": "Giggle Team",
+    "image": "https://wiki.gnome.org/Projects/giggle?action=AttachFile&do=get&target=giggle-logo.png",
+    "description": "GTK+ frontend for the Git version control system.",
+    "downloadUrl": "https://wiki.gnome.org/Apps/Giggle"
+},
+{
+    "id": 133,
+    "title": "QGit",
+    "creator": "Marco Costalba",
+    "image": "https://qgit.sourceforge.io/qgit-logo.png",
+    "description": "Qt-based graphical interface for Git.",
+    "downloadUrl": "https://qgit.sourceforge.io/"
+},
+{
+    "id": 134,
+    "title": "GitAhead",
+    "creator": "GitAhead",
+    "image": "https://gitahead.com/img/logo.png",
+    "description": "Graphical Git client designed to help understand Git history.",
+    "downloadUrl": "https://gitahead.com/"
+},
+{
+    "id": 135,
+    "title": "GitKraken",
+    "creator": "Axosoft",
+    "image": "https://www.gitkraken.com/img/GitKraken-logo.svg",
+    "description": "Graphical Git client with powerful features.",
+    "downloadUrl": "https://www.gitkraken.com/download"
+},
+{
+    "id": 136,
+    "title": "SmartGit",
+    "creator": "Syntevo",
+    "image": "https://www.syntevo.com/doc/display/SG170/Home",
+    "description": "Git client with SVN support and GitHub integration.",
+    "downloadUrl": "https://www.syntevo.com/smartgit/download/"
+},
+{
+    "id": 137,
+    "title": "TortoiseGit",
+    "creator": "TortoiseGit Team",
+    "image": "https://tortoisegit.org/docs/tortoisegit/images/TortoiseGit_logo_icon.svg",
+    "description": "Windows Shell Interface to Git.",
+    "downloadUrl": "https://tortoisegit.org/download/"
+},
+{
+    "id": 138,
+    "title": "GitHub Desktop",
+    "creator": "GitHub",
+    "image": "https://desktop.github.com/images/desktop-icon.svg",
+    "description": "Simple Git client from GitHub.",
+    "downloadUrl": "https://desktop.github.com/"
+},
+{
+    "id": 139,
+    "title": "GitLab",
+    "creator": "GitLab Inc.",
+    "image": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png",
+    "description": "Web-based Git repository manager with wiki and issue tracking.",
+    "downloadUrl": "https://about.gitlab.com/install/"
+},
+{
+    "id": 140,
+    "title": "Bitbucket",
+    "creator": "Atlassian",
+    "image": "https://wac-cdn.atlassian.com/dam/jcr:e2a6f06a-bde3-4a6a-8c3d-6736b1a7d7d3/Bitbucket-blue.svg",
+    "description": "Git repository management solution for professional teams.",
+    "downloadUrl": "https://bitbucket.org/product/"
+},
+{
+    "id": 141,
+    "title": "Gitea",
+    "creator": "Gitea Team",
+    "image": "https://gitea.io/images/gitea.png",
+    "description": "Lightweight code hosting solution written in Go.",
+    "downloadUrl": "https://gitea.io/en-us/"
+},
+{
+    "id": 142,
+    "title": "Gogs",
+    "creator": "Gogs Team",
+    "image": "https://gogs.io/img/favicon.png",
+    "description": "Painless self-hosted Git service.",
+    "downloadUrl": "https://gogs.io/docs/installation"
+},
+{
+    "id": 143,
+    "title": "GitBucket",
+    "creator": "GitBucket Team",
+    "image": "https://gitbucket.github.io/images/gitbucket-logo.png",
+    "description": "Git platform powered by Scala with easy installation.",
+    "downloadUrl": "https://gitbucket.github.io/"
+},
+{
+    "id": 144,
+    "title": "RhodeCode",
+    "creator": "RhodeCode GmbH",
+    "image": "https://rhodecode.com/static/img/rhodecode_logo.svg",
+    "description": "Enterprise source code management platform.",
+    "downloadUrl": "https://rhodecode.com/download"
+},
+{
+    "id": 145,
+    "title": "Phabricator",
+    "creator": "Phacility",
+    "image": "https://phacility.com/static/res/phabricator/images/logo/phantomas-white.png",
+    "description": "Suite of web-based software development collaboration tools.",
+    "downloadUrl": "https://www.phacility.com/phabricator/"
+},
+{
+    "id": 146,
+    "title": "Gerrit",
+    "creator": "Google",
+    "image": "https://www.gerritcodereview.com/images/gerrit_logo.png",
+    "description": "Web-based team code collaboration tool.",
+    "downloadUrl": "https://www.gerritcodereview.com/"
+},
+{
+    "id": 147,
+    "title": "Kallithea",
+    "creator": "Kallithea Team",
+    "image": "https://kallithea-scm.org/_static/kallithea-logo.png",
+    "description": "Free software source code management system.",
+    "downloadUrl": "https://kallithea-scm.org/repos/kallithea"
+},
+{
+    "id": 148,
+    "title": "GitPrep",
+    "creator": "Yuki Kato",
+    "image": "https://github.com/yuki-kimoto/gitprep/raw/master/public/img/gitprep.png",
+    "description": "Portable GitHub clone.",
+    "downloadUrl": "https://github.com/yuki-kimoto/gitprep"
+},
+{
+    "id": 149,
+    "title": "GitList",
+    "creator": "GitList Team",
+    "image": "https://gitlist.org/img/logo.png",
+    "description": "Elegant and modern web interface for Git repositories.",
+    "downloadUrl": "https://gitlist.org/"
+},
+{
+    "id": 150,
+    "title": "CGit",
+    "creator": "CGit Team",
+    "image": "https://git.zx2c4.com/cgit/plain/cgit.png",
+    "description": "Fast web interface for Git repositories.",
+    "downloadUrl": "https://git.zx2c4.com/cgit/about/"
+},
+{
+    "id": 151,
+    "title": "GitWeb",
+    "creator": "Git Community",
+    "image": "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png",
+    "description": "Simple web interface for Git repositories.",
+    "downloadUrl": "https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb"
+},
+{
+    "id": 152,
+    "title": "GitLab CE",
+    "creator": "GitLab Inc.",
+    "image": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png",
+    "description": "Community Edition of GitLab for self-hosting.",
+    "downloadUrl": "https://about.gitlab.com/install/"
+},
+{
+    "id": 153,
+    "title": "GitLab EE",
+    "creator": "GitLab Inc.",
+    "image": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png",
+    "description": "Enterprise Edition of GitLab with additional features.",
+    "downloadUrl": "https://about.gitlab.com/install/"
+},
+{
+    "id": 154,
+    "title": "GitHub Enterprise",
+    "creator": "GitHub",
+    "image": "https://github.githubassets.com/images/modules/site/icons/footer/github-logo.svg",
+    "description": "Self-hosted version of GitHub for enterprises.",
+    "downloadUrl": "https://github.com/enterprise"
+},
+{
+    "id": 155,
+    "title": "Bitbucket Server",
+    "creator": "Atlassian",
+    "image": "https://wac-cdn.atlassian.com/dam/jcr:e2a6f06a-bde3-4a6a-8c3d-6736b1a7d7d3/Bitbucket-blue.svg",
+    "description": "Self-hosted Git repository management for enterprises.",
+    "downloadUrl": "https://www.atlassian.com/software/bitbucket/download"
+},
+{
+    "id": 156,
+    "title": "Azure DevOps Server",
+    "creator": "Microsoft",
+    "image": "https://azurecomcdn.azureedge.net/cvt-8632d9bb8d979834a99b4b413c6b5d3e63cd54c1a5c3eff2716a5d60a5294b0d/images/shared/services/devops.svg",
+    "description": "On-premises version of Azure DevOps for Git repositories.",
+    "downloadUrl": "https://azure.microsoft.com/en-us/services/devops/server/"
+},
+{
+    "id": 157,
+    "title": "Helix TeamHub",
+    "creator": "Perforce",
+    "image": "https://www.perforce.com/sites/default/files/image/2021-03/perforce-logo.svg",
+    "description": "Git, Mercurial, and SVN hosting with CI/CD pipelines.",
+    "downloadUrl": "https://www.perforce.com/products/helix-teamhub"
+},
+{
+    "id": 158,
+    "title": "AWS CodeCommit",
+    "creator": "Amazon Web Services",
+    "image": "https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png",
+    "description": "Secure, highly scalable managed source control service.",
+    "downloadUrl": "https://aws.amazon.com/codecommit/"
+},
+{
+    "id": 159,
+    "title": "Google Cloud Source Repositories",
+    "creator": "Google",
+    "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+    "description": "Private Git repositories hosted on Google Cloud.",
+    "downloadUrl": "https://cloud.google.com/source-repositories"
+},
+{
+    "id": 160,
+    "title": "IBM Rational Team Concert",
+    "creator": "IBM",
+    "image": "https://www.ibm.com/software/rational/images/logo.png",
+    "description": "Team collaboration tool with Git repository support.",
+    "downloadUrl": "https://www.ibm.com/software/products/en/rtc"
+},
+{
+    "id": 161,
+    "title": "Plastic SCM Cloud Edition",
+    "creator": "Codice Software",
+    "image": "https://www.plasticscm.com/images/logo.png",
+    "description": "Cloud-hosted version of Plastic SCM.",
+    "downloadUrl": "https://www.plasticscm.com/cloud-edition"
+},
+{
+    "id": 162,
+    "title": "RhodeCode Enterprise",
+    "creator": "RhodeCode GmbH",
+    "image": "https://rhodecode.com/static/img/rhodecode_logo.svg",
+    "description": "Enterprise-grade source code management platform.",
+    "downloadUrl": "https://rhodecode.com/enterprise"
+},
+{
+    "id": 163,
+    "title": "GitPrime",
+    "creator": "Pluralsight",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/gitprime/gitprime-logo.png",
+    "description": "Engineering analytics platform for Git repositories.",
+    "downloadUrl": "https://www.pluralsight.com/product/gitprime"
+},
+{
+    "id": 164,
+    "title": "GitClear",
+    "creator": "GitClear",
+    "image": "https://www.gitclear.com/static/images/gitclear-logo.png",
+    "description": "Code review and analytics for Git repositories.",
+    "downloadUrl": "https://www.gitclear.com/"
+},
+{
+    "id": 165,
+    "title": "GitPrime",
+    "creator": "Pluralsight",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/gitprime/gitprime-logo.png",
+    "description": "Engineering analytics platform for Git repositories.",
+    "downloadUrl": "https://www.pluralsight.com/product/gitprime"
+},
+{
+    "id": 166,
+    "title": "GitPrime",
+    "creator": "Pluralsight",
+    "image": "https://www.pluralsight.com/content/dam/pluralsight2/teach/author-tools/gitprime/gitprime-logo.png",
+    "description": "Engineering analytics platform for Git repositories.",
+    "downloadUrl": "https://www.pluralsight.com/product/gitprime"
+},
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
