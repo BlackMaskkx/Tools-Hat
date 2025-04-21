@@ -121,6 +121,166 @@ const toolsData = [
         downloadUrl: "https://www.libreoffice.org/download/"
     },
     {
+    "id": 17,
+    "title": "HandBrake",
+    "creator": "HandBrake Team",
+    "image": "https://handbrake.fr/img/logo.png",
+    "description": "A free, open-source video transcoder for converting video files into various formats.",
+    "downloadUrl": "https://handbrake.fr/downloads.php"
+},
+{
+    "id": 18,
+    "title": "qBittorrent",
+    "creator": "The qBittorrent Project",
+    "image": "https://www.qbittorrent.org/images/qbittorrent-logo.svg",
+    "description": "A free, lightweight, and ad-free BitTorrent client with a built-in search engine.",
+    "downloadUrl": "https://www.qbittorrent.org/download.php"
+},
+{
+    "id": 19,
+    "title": "Greenshot",
+    "creator": "Greenshot",
+    "image": "https://greenshot.org/wp-content/uploads/2017/03/Greenshot_Logo_248x248.png",
+    "description": "A free screenshot tool with annotation features and quick sharing options.",
+    "downloadUrl": "https://getgreenshot.org/downloads/"
+},
+{
+    "id": 20,
+    "title": "FileZilla",
+    "creator": "Tim Kosse",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png",
+    "description": "A free, open-source FTP client for file transfers between local and remote servers.",
+    "downloadUrl": "https://filezilla-project.org/download.php"
+},
+{
+    "id": 21,
+    "title": "WinRAR",
+    "creator": "Eugene Roshal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/WinRAR_logo_icon.svg/1200px-WinRAR_logo_icon.svg.png",
+    "description": "A file archiver utility for Windows with support for RAR, ZIP, and other formats.",
+    "downloadUrl": "https://www.win-rar.com/download.html"
+},
+{
+    "id": 22,
+    "title": "Paint.NET",
+    "creator": "dotPDN LLC",
+    "image": "https://www.getpaint.net/images/logo.png",
+    "description": "A free image and photo editing software with layers, effects, and plugins.",
+    "downloadUrl": "https://www.getpaint.net/download.html"
+},
+{
+    "id": 23,
+    "title": "foobar2000",
+    "creator": "Peter Pawlowski",
+    "image": "https://www.foobar2000.org/images/foobar2000-logo.png",
+    "description": "A customizable audio player for Windows with support for multiple formats.",
+    "downloadUrl": "https://www.foobar2000.org/download"
+},
+{
+    "id": 24,
+    "title": "Calibre",
+    "creator": "Kovid Goyal",
+    "image": "https://calibre-ebook.com/images/calibre-logo.svg",
+    "description": "A free e-book management tool for organizing, converting, and syncing e-books.",
+    "downloadUrl": "https://calibre-ebook.com/download"
+},
+{
+    "id": 25,
+    "title": "BalenaEtcher",
+    "creator": "Balena",
+    "image": "https://www.balena.io/etcher/assets/images/etcher.svg",
+    "description": "A tool for flashing OS images to SD cards and USB drives safely.",
+    "downloadUrl": "https://www.balena.io/etcher/"
+},
+{
+    "id": 26,
+    "title": "Rufus",
+    "creator": "Pete Batard",
+    "image": "https://rufus.ie/images/rufus-logo.png",
+    "description": "A lightweight utility to create bootable USB drives from ISO images.",
+    "downloadUrl": "https://rufus.ie/en/"
+},
+{
+    "id": 27,
+    "title": "Revo Uninstaller",
+    "creator": "VS Revo Group",
+    "image": "https://www.revouninstaller.com/images/logo.png",
+    "description": "A powerful uninstaller tool to remove leftover files and registry entries.",
+    "downloadUrl": "https://www.revouninstaller.com/download-professional-version/"
+},
+{
+    "id": 28,
+    "title": "XnView MP",
+    "creator": "Pierre-Emmanuel Gougelet",
+    "image": "https://www.xnview.com/img/app-xnviewmp.png",
+    "description": "A versatile image viewer, converter, and organizer with batch processing.",
+    "downloadUrl": "https://www.xnview.com/en/xnviewmp/"
+},
+{
+    "id": 29,
+    "title": "HWiNFO",
+    "creator": "Martin Malik",
+    "image": "https://www.hwinfo.com/wp-content/uploads/2020/03/hwinfo-logo.png",
+    "description": "A system information and diagnostics tool for hardware monitoring.",
+    "downloadUrl": "https://www.hwinfo.com/download/"
+},
+{
+    "id": 30,
+    "title": "ShareX",
+    "creator": "ShareX Team",
+    "image": "https://getsharex.com/img/ShareX_Logo.png",
+    "description": "A free, open-source screen capture and file sharing tool with automation.",
+    "downloadUrl": "https://getsharex.com/downloads/"
+},
+{
+    "id": 31,
+    "title": "Everything",
+    "creator": "David Carpenter",
+    "image": "https://www.voidtools.com/favicon.ico",
+    "description": "A lightning-fast file search utility for Windows based on file names.",
+    "downloadUrl": "https://www.voidtools.com/downloads/"
+},
+{
+    "id": 32,
+    "title": "MPC-HC",
+    "creator": "MPC-HC Team",
+    "image": "https://mpc-hc.org/images/mpc-hc_logo.png",
+    "description": "A lightweight, open-source media player for Windows with minimal resource usage.",
+    "downloadUrl": "https://mpc-hc.org/downloads/"
+},
+{
+    "id": 33,
+    "title": "PeaZip",
+    "creator": "Giorgio Tani",
+    "image": "https://peazip.github.io/images/peazip-logo.png",
+    "description": "A free file archiver with strong encryption and support for 200+ formats.",
+    "downloadUrl": "https://peazip.github.io/"
+},
+{
+    "id": 34,
+    "title": "KeePass",
+    "creator": "Dominik Reichl",
+    "image": "https://keepass.info/images/keepass_logo.png",
+    "description": "A free, open-source password manager with secure encryption.",
+    "downloadUrl": "https://keepass.info/download.html"
+},
+{
+    "id": 35,
+    "title": "Gephi",
+    "creator": "The Gephi Consortium",
+    "image": "https://gephi.org/images/gephi-logo.png",
+    "description": "An open-source network analysis and visualization tool.",
+    "downloadUrl": "https://gephi.org/users/download/"
+},
+{
+    "id": 36,
+    "title": "Inkscape",
+    "creator": "Inkscape Team",
+    "image": "https://inkscape.org/images/inkscape-logo.svg",
+    "description": "A free vector graphics editor for creating and editing SVG files.",
+    "downloadUrl": "https://inkscape.org/release/"
+},
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
