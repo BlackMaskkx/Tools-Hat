@@ -3393,6 +3393,446 @@ const toolsData = [
     "downloadUrl": "https://store.steampowered.com/app/739630/Phasmophobia/"
 },
     {
+        "id": 446,
+        "title": "Bitdefender Antivirus Plus",
+        "creator": "Bitdefender",
+        "image": "https://www.bitdefender.com/content/dam/bitdefender-com/en/logos/product-logos/bitdefender-antivirus-plus-logo.png",
+        "description": "Advanced antivirus protection with multi-layer ransomware defense",
+        "downloadUrl": "https://www.bitdefender.com/downloads/"
+    },
+    {
+        "id": 447,
+        "title": "Norton AntiVirus Plus",
+        "creator": "NortonLifeLock",
+        "image": "https://www.nortonlifelock.com/content/dam/global/images/product/antivirus/nav-plus/nav-plus-3-device.png",
+        "description": "Real-time threat protection against existing and emerging malware",
+        "downloadUrl": "https://us.norton.com/downloads"
+    },
+    {
+        "id": 448,
+        "title": "Kaspersky Anti-Virus",
+        "creator": "Kaspersky Lab",
+        "image": "https://media.kasperskydaily.com/wp-content/uploads/sites/85/2021/03/01090141/antivirus-plus-2021-featured.jpg",
+        "description": "Essential protection against viruses, ransomware & other threats",
+        "downloadUrl": "https://www.kaspersky.com/downloads"
+    },
+    {
+        "id": 449,
+        "title": "McAfee Total Protection",
+        "creator": "McAfee",
+        "image": "https://www.mcafee.com/content/dam/global/images/product-images/total-protection/total-protection-hero.png",
+        "description": "Comprehensive antivirus and internet security suite",
+        "downloadUrl": "https://www.mcafee.com/downloads"
+    },
+    {
+        "id": 450,
+        "title": "Avast Free Antivirus",
+        "creator": "Avast",
+        "image": "https://www.avast.com/images/products/avast-free-antivirus.png",
+        "description": "Free antivirus with basic protection against malware and viruses",
+        "downloadUrl": "https://www.avast.com/download-thank-you.php"
+    },
+    {
+        "id": 451,
+        "title": "AVG AntiVirus Free",
+        "creator": "AVG Technologies",
+        "image": "https://www.avg.com/content/dam/avg/images/product-tiles/antivirus-free/antivirus-free-tile.png",
+        "description": "Free essential protection against viruses, malware and more",
+        "downloadUrl": "https://www.avg.com/download"
+    },
+    {
+        "id": 452,
+        "title": "ESET NOD32 Antivirus",
+        "creator": "ESET",
+        "image": "https://www.eset.com/fileadmin/images-www/products/nod32/nod32-box-shot.png",
+        "description": "Lightweight antivirus with advanced detection capabilities",
+        "downloadUrl": "https://www.eset.com/us/download/home/"
+    },
+    {
+        "id": 453,
+        "title": "Malwarebytes Premium",
+        "creator": "Malwarebytes",
+        "image": "https://www.malwarebytes.com/images/products/premium/hero.png",
+        "description": "Advanced malware protection with anti-exploit technology",
+        "downloadUrl": "https://www.malwarebytes.com/premium"
+    },
+    {
+        "id": 454,
+        "title": "Trend Micro Antivirus+ Security",
+        "creator": "Trend Micro",
+        "image": "https://www.trendmicro.com/content/dam/trendmicro/global/en/product/antivirus-plus/antivirus-plus-product-image.png",
+        "description": "Protection against ransomware, online threats and fraud",
+        "downloadUrl": "https://www.trendmicro.com/downloadme"
+    },
+    {
+        "id": 455,
+        "title": "Webroot SecureAnywhere AntiVirus",
+        "creator": "Webroot",
+        "image": "https://www.webroot.com/content/dam/webroot/shared/images/products/antivirus/antivirus-box-shot.png",
+        "description": "Cloud-based lightweight antivirus with real-time protection",
+        "downloadUrl": "https://www.webroot.com/us/en/home/products/antivirus"
+    },
+    {
+        "id": 456,
+        "title": "Sophos Home",
+        "creator": "Sophos",
+        "image": "https://www.sophos.com/content/dam/sophos/en-us/products/home/sophos-home-premium/product-shot.png",
+        "description": "AI-powered antivirus with remote management capabilities",
+        "downloadUrl": "https://www.sophos.com/products/free-tools/sophos-home"
+    },
+    {
+        "id": 457,
+        "title": "F-Secure Anti-Virus",
+        "creator": "F-Secure",
+        "image": "https://www.f-secure.com/content/dam/f-secure/en/products/antivirus/antivirus-product-shot.png",
+        "description": "Powerful protection against viruses and online threats",
+        "downloadUrl": "https://www.f-secure.com/downloads"
+    },
+    {
+        "id": 458,
+        "title": "Panda Dome Essential",
+        "creator": "Panda Security",
+        "image": "https://www.pandasecurity.com/content/dam/panda/images/products/dome/essential/dome-essential-product-shot.png",
+        "description": "Cloud-based antivirus with USB protection",
+        "downloadUrl": "https://www.pandasecurity.com/download/"
+    },
+    {
+        "id": 459,
+        "title": "Avira Antivirus Pro",
+        "creator": "Avira",
+        "image": "https://www.avira.com/content/dam/avira/images/products/antivirus-pro/antivirus-pro-product-shot.png",
+        "description": "Fast scanning antivirus with VPN included",
+        "downloadUrl": "https://www.avira.com/download"
+    },
+    {
+        "id": 460,
+        "title": "BullGuard Antivirus",
+        "creator": "BullGuard",
+        "image": "https://www.bullguard.com/content/dam/bullguard/products/antivirus/antivirus-product-shot.png",
+        "description": "Multi-layer protection against all types of malware",
+        "downloadUrl": "https://www.bullguard.com/downloads"
+    },
+    {
+        "id": 461,
+        "title": "Comodo Antivirus",
+        "creator": "Comodo",
+        "image": "https://www.comodo.com/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Default-deny protection with auto-sandboxing technology",
+        "downloadUrl": "https://www.comodo.com/download-antivirus.php"
+    },
+    {
+        "id": 462,
+        "title": "VIPRE Advanced Security",
+        "creator": "VIPRE",
+        "image": "https://www.vipre.com/content/dam/vipre/products/advanced-security/advanced-security-product-shot.png",
+        "description": "Antivirus with email protection and firewall",
+        "downloadUrl": "https://www.vipre.com/downloads"
+    },
+    {
+        "id": 463,
+        "title": "ZoneAlarm AntiVirus",
+        "creator": "ZoneAlarm",
+        "image": "https://www.zonealarm.com/content/dam/zonealarm/products/antivirus/antivirus-product-shot.png",
+        "description": "Antivirus with firewall and identity protection",
+        "downloadUrl": "https://www.zonealarm.com/download"
+    },
+    {
+        "id": 464,
+        "title": "G Data Antivirus",
+        "creator": "G Data",
+        "image": "https://www.gdatasoftware.com/content/dam/gdata/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Double-protection with two scan engines",
+        "downloadUrl": "https://www.gdatasoftware.com/downloads"
+    },
+    {
+        "id": 465,
+        "title": "Emsisoft Anti-Malware",
+        "creator": "Emsisoft",
+        "image": "https://www.emsisoft.com/images/products/anti-malware/anti-malware-product-shot.png",
+        "description": "Lightweight malware protection with behavior blocker",
+        "downloadUrl": "https://www.emsisoft.com/download/"
+    },
+    {
+        "id": 466,
+        "title": "Adaware Antivirus",
+        "creator": "Adaware",
+        "image": "https://www.adaware.com/content/dam/adaware/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Real-time protection against viruses and spyware",
+        "downloadUrl": "https://www.adaware.com/download"
+    },
+    {
+        "id": 467,
+        "title": "TotalAV Antivirus",
+        "creator": "TotalAV",
+        "image": "https://www.totalav.com/content/dam/totalav/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Cloud-based antivirus with system optimization tools",
+        "downloadUrl": "https://www.totalav.com/download"
+    },
+    {
+        "id": 468,
+        "title": "Avast Premium Security",
+        "creator": "Avast",
+        "image": "https://www.avast.com/images/products/premium-security/premium-security-product-shot.png",
+        "description": "Premium protection with firewall and ransomware shield",
+        "downloadUrl": "https://www.avast.com/premium-security"
+    },
+    {
+        "id": 469,
+        "title": "AVG Ultimate",
+        "creator": "AVG Technologies",
+        "image": "https://www.avg.com/content/dam/avg/images/product-tiles/ultimate/ultimate-tile.png",
+        "description": "Complete security suite with VPN and tune-up tools",
+        "downloadUrl": "https://www.avg.com/ultimate"
+    },
+    {
+        "id": 470,
+        "title": "K7 Total Security",
+        "creator": "K7 Computing",
+        "image": "https://www.k7computing.com/content/dam/k7/images/products/total-security/total-security-product-shot.png",
+        "description": "Multi-device protection with privacy controls",
+        "downloadUrl": "https://www.k7computing.com/download"
+    },
+    {
+        "id": 471,
+        "title": "Quick Heal Antivirus Pro",
+        "creator": "Quick Heal",
+        "image": "https://www.quickheal.com/content/dam/quickheal/images/products/antivirus-pro/antivirus-pro-product-shot.png",
+        "description": "Protection against viruses, ransomware, and spyware",
+        "downloadUrl": "https://www.quickheal.com/download"
+    },
+    {
+        "id": 472,
+        "title": "eScan Anti-Virus",
+        "creator": "eScan",
+        "image": "https://www.escanav.com/content/dam/escan/images/products/anti-virus/anti-virus-product-shot.png",
+        "description": "Signature-based antivirus with cloud scanning",
+        "downloadUrl": "https://www.escanav.com/download"
+    },
+    {
+        "id": 473,
+        "title": "FortiClient",
+        "creator": "Fortinet",
+        "image": "https://www.fortinet.com/content/dam/fortinet/images/products/forticlient/forticlient-product-shot.png",
+        "description": "Endpoint protection with VPN and web filtering",
+        "downloadUrl": "https://www.fortinet.com/downloads"
+    },
+    {
+        "id": 474,
+        "title": "Cybereason RansomFree",
+        "creator": "Cybereason",
+        "image": "https://www.cybereason.com/content/dam/cybereason/images/products/ransomfree/ransomfree-product-shot.png",
+        "description": "Specialized ransomware protection",
+        "downloadUrl": "https://www.cybereason.com/ransomfree"
+    },
+    {
+        "id": 475,
+        "title": "GridinSoft Anti-Malware",
+        "creator": "GridinSoft",
+        "image": "https://www.gridinsoft.com/content/dam/gridinsoft/images/products/anti-malware/anti-malware-product-shot.png",
+        "description": "Specialized anti-malware with real-time protection",
+        "downloadUrl": "https://www.gridinsoft.com/download"
+    },
+    {
+        "id": 476,
+        "title": "Zillya! Antivirus",
+        "creator": "Zillya",
+        "image": "https://www.zillya.com/content/dam/zillya/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Ukrainian antivirus with low system impact",
+        "downloadUrl": "https://www.zillya.com/download"
+    },
+    {
+        "id": 477,
+        "title": "ClamWin Free Antivirus",
+        "creator": "ClamWin",
+        "image": "https://www.clamwin.com/content/dam/clamwin/images/clamwin-logo.png",
+        "description": "Open-source antivirus for Windows",
+        "downloadUrl": "https://www.clamwin.com/download"
+    },
+    {
+        "id": 478,
+        "title": "Immunet Antivirus",
+        "creator": "Immunet",
+        "image": "https://www.immunet.com/content/dam/immunet/images/immunet-logo.png",
+        "description": "Cloud-based community-driven antivirus",
+        "downloadUrl": "https://www.immunet.com/download"
+    },
+    {
+        "id": 479,
+        "title": "Rising Antivirus",
+        "creator": "Rising",
+        "image": "https://www.rising.com.cn/content/dam/rising/images/products/antivirus/antivirus-product-shot.png",
+        "description": "Chinese antivirus with behavior analysis",
+        "downloadUrl": "https://www.rising.com.cn/download"
+    },
+    {
+        "id": 480,
+        "title": "Qihoo 360 Total Security",
+        "creator": "Qihoo 360",
+        "image": "https://www.360totalsecurity.com/content/dam/360/images/products/total-security/total-security-product-shot.png",
+        "description": "Free antivirus with multiple scan engines",
+        "downloadUrl": "https://www.360totalsecurity.com/download"
+    },
+    {
+        "id": 481,
+        "title": "Tencent PC Manager",
+        "creator": "Tencent",
+        "image": "https://www.pcmanager.qq.com/content/dam/tencent/images/pc-manager-logo.png",
+        "description": "Chinese antivirus with system optimization",
+        "downloadUrl": "https://www.pcmanager.qq.com/download"
+    },
+    {
+        "id": 482,
+        "title": "Baidu Antivirus",
+        "creator": "Baidu",
+        "image": "https://www.antivirus.baidu.com/content/dam/baidu/images/antivirus-logo.png",
+        "description": "Chinese free antivirus with cloud protection",
+        "downloadUrl": "https://www.antivirus.baidu.com/download"
+    },
+    {
+        "id": 483,
+        "title": "Dr.Web Anti-virus",
+        "creator": "Doctor Web",
+        "image": "https://www.drweb.com/content/dam/drweb/images/products/anti-virus/anti-virus-product-shot.png",
+        "description": "Russian antivirus with heuristic analysis",
+        "downloadUrl": "https://www.drweb.com/download"
+    },
+    {
+        "id": 484,
+        "title": "VBA32 AntiVirus",
+        "creator": "VBA32",
+        "image": "https://www.vba32.com/content/dam/vba32/images/vba32-logo.png",
+        "description": "Belarusian antivirus with deep scanning",
+        "downloadUrl": "https://www.vba32.com/download"
+    },
+    {
+        "id": 485,
+        "title": "Panda Free Antivirus",
+        "creator": "Panda Security",
+        "image": "https://www.pandasecurity.com/content/dam/panda/images/products/free-antivirus/free-antivirus-product-shot.png",
+        "description": "Cloud-based free antivirus",
+        "downloadUrl": "https://www.pandasecurity.com/free-antivirus"
+    },
+    {
+        "id": 486,
+        "title": "Avast Business Antivirus",
+        "creator": "Avast",
+        "image": "https://www.avast.com/images/products/business-antivirus/business-antivirus-product-shot.png",
+        "description": "Antivirus for small businesses",
+        "downloadUrl": "https://www.avast.com/business-antivirus"
+    },
+    {
+        "id": 487,
+        "title": "AVG Internet Security",
+        "creator": "AVG Technologies",
+        "image": "https://www.avg.com/content/dam/avg/images/product-tiles/internet-security/internet-security-tile.png",
+        "description": "Complete protection with firewall and anti-spam",
+        "downloadUrl": "https://www.avg.com/internet-security"
+    },
+    {
+        "id": 488,
+        "title": "ESET Internet Security",
+        "creator": "ESET",
+        "image": "https://www.eset.com/fileadmin/images-www/products/internet-security/internet-security-box-shot.png",
+        "description": "Security suite with banking protection",
+        "downloadUrl": "https://www.eset.com/internet-security"
+    },
+    {
+        "id": 489,
+        "title": "Avira Prime",
+        "creator": "Avira",
+        "image": "https://www.avira.com/content/dam/avira/images/products/prime/prime-product-shot.png",
+        "description": "All-in-one security with VPN and system optimization",
+        "downloadUrl": "https://www.avira.com/prime"
+    },
+    {
+        "id": 490,
+        "title": "F-Secure SAFE",
+        "creator": "F-Secure",
+        "image": "https://www.f-secure.com/content/dam/f-secure/en/products/safe/safe-product-shot.png",
+        "description": "Family protection across all devices",
+        "downloadUrl": "https://www.f-secure.com/safe"
+    },
+    {
+        "id": 491,
+        "title": "Kaspersky Internet Security",
+        "creator": "Kaspersky Lab",
+        "image": "https://media.kasperskydaily.com/wp-content/uploads/sites/85/2021/03/01090141/internet-security-2021-featured.jpg",
+        "description": "Complete protection for online activities",
+        "downloadUrl": "https://www.kaspersky.com/internet-security"
+    },
+    {
+        "id": 492,
+        "title": "Norton 360 Deluxe",
+        "creator": "NortonLifeLock",
+        "image": "https://www.nortonlifelock.com/content/dam/global/images/product/360/deluxe/360-deluxe-5-device.png",
+        "description": "Comprehensive protection with cloud backup",
+        "downloadUrl": "https://us.norton.com/360-deluxe"
+    },
+    {
+        "id": 493,
+        "title": "Bitdefender Internet Security",
+        "creator": "Bitdefender",
+        "image": "https://www.bitdefender.com/content/dam/bitdefender-com/en/logos/product-logos/internet-security-logo.png",
+        "description": "Multi-layer protection for online threats",
+        "downloadUrl": "https://www.bitdefender.com/internet-security"
+    },
+    {
+        "id": 494,
+        "title": "McAfee Internet Security",
+        "creator": "McAfee",
+        "image": "https://www.mcafee.com/content/dam/global/images/product-images/internet-security/internet-security-hero.png",
+        "description": "Protection against viruses and online threats",
+        "downloadUrl": "https://www.mcafee.com/internet-security"
+    },
+    {
+        "id": 495,
+        "title": "Trend Micro Internet Security",
+        "creator": "Trend Micro",
+        "image": "https://www.trendmicro.com/content/dam/trendmicro/global/en/product/internet-security/internet-security-product-image.png",
+        "description": "Protection for banking and shopping online",
+        "downloadUrl": "https://www.trendmicro.com/internet-security"
+    },
+    {
+        "id": 496,
+        "title": "BullGuard Internet Security",
+        "creator": "BullGuard",
+        "image": "https://www.bullguard.com/content/dam/bullguard/products/internet-security/internet-security-product-shot.png",
+        "description": "Gamer-friendly security suite",
+        "downloadUrl": "https://www.bullguard.com/internet-security"
+    },
+    {
+        "id": 497,
+        "title": "Comodo Internet Security",
+        "creator": "Comodo",
+        "image": "https://www.comodo.com/images/products/internet-security/internet-security-product-shot.png",
+        "description": "Free firewall and antivirus combo",
+        "downloadUrl": "https://www.comodo.com/internet-security"
+    },
+    {
+        "id": 498,
+        "title": "ZoneAlarm Internet Security Suite",
+        "creator": "ZoneAlarm",
+        "image": "https://www.zonealarm.com/content/dam/zonealarm/products/internet-security-suite/internet-security-suite-product-shot.png",
+        "description": "Firewall-focused internet security",
+        "downloadUrl": "https://www.zonealarm.com/internet-security"
+    },
+    {
+        "id": 499,
+        "title": "G Data Internet Security",
+        "creator": "G Data",
+        "image": "https://www.gdatasoftware.com/content/dam/gdata/images/products/internet-security/internet-security-product-shot.png",
+        "description": "Two-engine protection for online activities",
+        "downloadUrl": "https://www.gdatasoftware.com/internet-security"
+    },
+    {
+        "id": 500,
+        "title": "K7 Ultimate Security",
+        "creator": "K7 Computing",
+        "image": "https://www.k7computing.com/content/dam/k7/images/products/ultimate-security/ultimate-security-product-shot.png",
+        "description": "Complete protection with parental controls",
+        "downloadUrl": "https://www.k7computing.com/ultimate-security"
+    },
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
