@@ -2121,6 +2121,814 @@ const toolsData = [
     "downloadUrl": "pkg install termux-limewire"
 },
     {
+    "id": 267,
+    "title": "Aircrack-ng",
+    "creator": "Thomas d'Otreppe",
+    "image": "https://www.aircrack-ng.org/images/logo.png",
+    "description": "Wireless network security suite",
+    "downloadUrl": "apt install aircrack-ng"
+},
+{
+    "id": 268,
+    "title": "Burp Suite",
+    "creator": "PortSwigger",
+    "image": "https://portswigger.net/burp/favicon.ico",
+    "description": "Web application security testing",
+    "downloadUrl": "apt install burpsuite"
+},
+{
+    "id": 269,
+    "title": "Nmap",
+    "creator": "Gordon Lyon",
+    "image": "https://nmap.org/images/sitelogo.png",
+    "description": "Network discovery and security auditing",
+    "downloadUrl": "apt install nmap"
+},
+{
+    "id": 270,
+    "title": "Metasploit Framework",
+    "creator": "Rapid7",
+    "image": "https://avatars.githubusercontent.com/u/3814896",
+    "description": "Penetration testing platform",
+    "downloadUrl": "apt install metasploit-framework"
+},
+{
+    "id": 271,
+    "title": "Wireshark",
+    "creator": "Gerald Combs",
+    "image": "https://www.wireshark.org/assets/images/wsicon.svg",
+    "description": "Network protocol analyzer",
+    "downloadUrl": "apt install wireshark"
+},
+{
+    "id": 272,
+    "title": "John the Ripper",
+    "creator": "Openwall",
+    "image": "https://www.openwall.com/john/logo.png",
+    "description": "Password cracking tool",
+    "downloadUrl": "apt install john"
+},
+{
+    "id": 273,
+    "title": "Hydra",
+    "creator": "van Hauser",
+    "image": "https://github.com/vanhauser-thc.png",
+    "description": "Network login cracker",
+    "downloadUrl": "apt install hydra"
+},
+{
+    "id": 274,
+    "title": "SQLmap",
+    "creator": "Bernardo Damele",
+    "image": "https://sqlmap.org/images/sqlmap_logo.png",
+    "description": "SQL injection tool",
+    "downloadUrl": "apt install sqlmap"
+},
+{
+    "id": 275,
+    "title": "Maltego",
+    "creator": "Paterva",
+    "image": "https://www.maltego.com/img/favicon/apple-touch-icon.png",
+    "description": "Open-source intelligence tool",
+    "downloadUrl": "apt install maltego"
+},
+{
+    "id": 276,
+    "title": "OWASP ZAP",
+    "creator": "OWASP",
+    "image": "https://www.zaproxy.org/img/zap-logo.png",
+    "description": "Web application scanner",
+    "downloadUrl": "apt install zaproxy"
+},
+{
+    "id": 277,
+    "title": "Nikto",
+    "creator": "Chris Sullo",
+    "image": "https://cirt.net/images/nikto-logo.png",
+    "description": "Web server scanner",
+    "downloadUrl": "apt install nikto"
+},
+{
+    "id": 278,
+    "title": "Gobuster",
+    "creator": "OJ Reeves",
+    "image": "https://github.com/OJ/gobuster/raw/master/logo.png",
+    "description": "Directory/file brute-forcing tool",
+    "downloadUrl": "apt install gobuster"
+},
+{
+    "id": 279,
+    "title": "Hashcat",
+    "creator": "Jens Steube",
+    "image": "https://hashcat.net/hashcat/hashcat_logo.png",
+    "description": "Advanced password recovery",
+    "downloadUrl": "apt install hashcat"
+},
+{
+    "id": 280,
+    "title": "CrackMapExec",
+    "creator": "byt3bl33d3r",
+    "image": "https://github.com/byt3bl33d3r.png",
+    "description": "Post-exploitation tool",
+    "downloadUrl": "apt install crackmapexec"
+},
+{
+    "id": 281,
+    "title": "Responder",
+    "creator": "Laurent Gaffié",
+    "image": "https://github.com/lgandx.png",
+    "description": "LLMNR/NBT-NS poisoner",
+    "downloadUrl": "apt install responder"
+},
+{
+    "id": 282,
+    "title": "Impacket",
+    "creator": "Core Security",
+    "image": "https://github.com/SecureAuthCorp.png",
+    "description": "Network protocol library",
+    "downloadUrl": "apt install impacket-scripts"
+},
+{
+    "id": 283,
+    "title": "BloodHound",
+    "creator": "SpecterOps",
+    "image": "https://bloodhound.readthedocs.io/en/latest/_images/BloodHound-Logo.png",
+    "description": "Active Directory analysis",
+    "downloadUrl": "apt install bloodhound"
+},
+{
+    "id": 284,
+    "title": "Empire",
+    "creator": "BC Security",
+    "image": "https://github.com/BC-SECURITY.png",
+    "description": "Post-exploitation framework",
+    "downloadUrl": "apt install powershell-empire"
+},
+{
+    "id": 285,
+    "title": "Cobalt Strike",
+    "creator": "Help Systems",
+    "image": "https://www.cobaltstrike.com/images/cs-logo.svg",
+    "description": "Commercial penetration testing tool",
+    "downloadUrl": "Commercial license required"
+},
+{
+    "id": 286,
+    "title": "BeEF",
+    "creator": "Wade Alcorn",
+    "image": "https://beefproject.com/images/beef-logo.png",
+    "description": "Browser exploitation framework",
+    "downloadUrl": "apt install beef-xss"
+},
+{
+    "id": 287,
+    "title": "Social Engineering Toolkit",
+    "creator": "TrustedSec",
+    "image": "https://github.com/trustedsec.png",
+    "description": "Social engineering attacks",
+    "downloadUrl": "apt install set"
+},
+{
+    "id": 288,
+    "title": "WPScan",
+    "creator": "WPScan Team",
+    "image": "https://wpscan.com/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico",
+    "description": "WordPress vulnerability scanner",
+    "downloadUrl": "apt install wpscan"
+},
+{
+    "id": 289,
+    "title": "Recon-ng",
+    "creator": "Tim Tomes",
+    "image": "https://github.com/lanmaster53.png",
+    "description": "Web reconnaissance framework",
+    "downloadUrl": "apt install recon-ng"
+},
+{
+    "id": 290,
+    "title": "TheHarvester",
+    "creator": "Christian Martorella",
+    "image": "https://github.com/laramies.png",
+    "description": "Email/domain reconnaissance",
+    "downloadUrl": "apt install theharvester"
+},
+{
+    "id": 291,
+    "title": "SpiderFoot",
+    "creator": "Steve Micallef",
+    "image": "https://www.spiderfoot.net/wp-content/uploads/2018/08/spiderfoot-logo.png",
+    "description": "Open-source intelligence automation",
+    "downloadUrl": "apt install spiderfoot"
+},
+{
+    "id": 292,
+    "title": "Sn1per",
+    "creator": "1N3",
+    "image": "https://github.com/1N3.png",
+    "description": "Automated pentest framework",
+    "downloadUrl": "apt install sniper"
+},
+{
+    "id": 293,
+    "title": "Faraday IDE",
+    "creator": "FaradaySec",
+    "image": "https://faradaysec.com/wp-content/uploads/2020/04/faraday_logo_white.png",
+    "description": "Collaborative pentesting platform",
+    "downloadUrl": "apt install faraday"
+},
+{
+    "id": 294,
+    "title": "Ettercap",
+    "creator": "Ettercap Team",
+    "image": "https://www.ettercap-project.org/wp-content/uploads/2013/01/ettercap_icon.png",
+    "description": "Network interceptor",
+    "downloadUrl": "apt install ettercap-graphical"
+},
+{
+    "id": 295,
+    "title": "Bettercap",
+    "creator": "Simone Margaritelli",
+    "image": "https://www.bettercap.org/img/logo.png",
+    "description": "Network attack framework",
+    "downloadUrl": "apt install bettercap"
+},
+{
+    "id": 296,
+    "title": "MITMf",
+    "creator": "byt3bl33d3r",
+    "image": "https://github.com/byt3bl33d3r.png",
+    "description": "Man-in-the-middle framework",
+    "downloadUrl": "git clone https://github.com/byt3bl33d3r/MITMf"
+},
+{
+    "id": 297,
+    "title": "Wifite",
+    "creator": "Kimocoder",
+    "image": "https://github.com/kimocoder.png",
+    "description": "Wireless auditing tool",
+    "downloadUrl": "apt install wifite"
+},
+{
+    "id": 298,
+    "title": "Kismet",
+    "creator": "Mike Kershaw",
+    "image": "https://www.kismetwireless.net/wp-content/uploads/2014/08/kismet-logo.png",
+    "description": "Wireless network detector",
+    "downloadUrl": "apt install kismet"
+},
+{
+    "id": 299,
+    "title": "Fern Wifi Cracker",
+    "creator": "Savan Visalpara",
+    "image": "https://github.com/savio-code.png",
+    "description": "Wireless security tool",
+    "downloadUrl": "apt install fern-wifi-cracker"
+},
+{
+    "id": 300,
+    "title": "Ghost-Phisher",
+    "creator": "Savannah Code",
+    "image": "https://github.com/savio-code.png",
+    "description": "Network attack suite",
+    "downloadUrl": "apt install ghost-phisher"
+},
+{
+    "id": 301,
+    "title": "Dsniff",
+    "creator": "Dug Song",
+    "image": "https://www.monkey.org/~dugsong/dsniff/dsniff-logo.png",
+    "description": "Network audit and penetration tool",
+    "downloadUrl": "apt install dsniff"
+},
+{
+    "id": 302,
+    "title": "Netcat",
+    "creator": "Hobbit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Netcat_Logo.svg/1200px-Netcat_Logo.svg.png",
+    "description": "Network utility tool",
+    "downloadUrl": "apt install netcat"
+},
+{
+    "id": 303,
+    "title": "Socat",
+    "creator": "Gerhard Rieger",
+    "image": "https://linux.die.net/man/1/socat",
+    "description": "Multipurpose relay tool",
+    "downloadUrl": "apt install socat"
+},
+{
+    "id": 304,
+    "title": "Tcpdump",
+    "creator": "Van Jacobson",
+    "image": "https://www.tcpdump.org/images/tcpdump.gif",
+    "description": "Packet analyzer",
+    "downloadUrl": "apt install tcpdump"
+},
+{
+    "id": 305,
+    "title": "Hping3",
+    "creator": "Salvatore Sanfilippo",
+    "image": "https://github.com/antirez.png",
+    "description": "Network probing tool",
+    "downloadUrl": "apt install hping3"
+},
+{
+    "id": 306,
+    "title": "Nessus",
+    "creator": "Tenable",
+    "image": "https://www.tenable.com/sites/all/themes/tenable/favicon.ico",
+    "description": "Vulnerability scanner",
+    "downloadUrl": "Commercial license required"
+},
+{
+    "id": 307,
+    "title": "OpenVAS",
+    "creator": "Greenbone Networks",
+    "image": "https://www.greenbone.net/wp-content/uploads/gb_logo_resize_1.png",
+    "description": "Vulnerability management",
+    "downloadUrl": "apt install openvas"
+},
+{
+    "id": 308,
+    "title": "Nexpose",
+    "creator": "Rapid7",
+    "image": "https://www.rapid7.com/favicon.ico",
+    "description": "Vulnerability scanner",
+    "downloadUrl": "Commercial license required"
+},
+{
+    "id": 309,
+    "title": "Lynis",
+    "creator": "CISOfy",
+    "image": "https://cisofy.com/wp-content/uploads/2018/06/lynis-logo.png",
+    "description": "Security auditing tool",
+    "downloadUrl": "apt install lynis"
+},
+{
+    "id": 310,
+    "title": "Chkrootkit",
+    "creator": "Nelson Murilo",
+    "image": "https://www.chkrootkit.org/favicon.ico",
+    "description": "Rootkit detector",
+    "downloadUrl": "apt install chkrootkit"
+},
+{
+    "id": 311,
+    "title": "Rkhunter",
+    "creator": "Michael Boelen",
+    "image": "https://rkhunter.sourceforge.net/favicon.ico",
+    "description": "Rootkit scanner",
+    "downloadUrl": "apt install rkhunter"
+},
+{
+    "id": 312,
+    "title": "Volatility",
+    "creator": "Volatility Foundation",
+    "image": "https://www.volatilityfoundation.org/wp-content/uploads/2019/01/volatility-logo-1.png",
+    "description": "Memory forensics framework",
+    "downloadUrl": "apt install volatility"
+},
+{
+    "id": 313,
+    "title": "Autopsy",
+    "creator": "Basis Technology",
+    "image": "https://www.autopsy.com/wp-content/uploads/2019/09/autopsy_logo.png",
+    "description": "Digital forensics platform",
+    "downloadUrl": "apt install autopsy"
+},
+{
+    "id": 314,
+    "title": "Binwalk",
+    "creator": "Craig Heffner",
+    "image": "https://github.com/ReFirmLabs.png",
+    "description": "Firmware analysis tool",
+    "downloadUrl": "apt install binwalk"
+},
+{
+    "id": 315,
+    "title": "Foremost",
+    "creator": "US Air Force Office",
+    "image": "https://github.com/korczis.png",
+    "description": "File recovery tool",
+    "downloadUrl": "apt install foremost"
+},
+{
+    "id": 316,
+    "title": "Scapy",
+    "creator": "Philippe Biondi",
+    "image": "https://scapy.net/_static/scapy_logo.png",
+    "description": "Packet manipulation tool",
+    "downloadUrl": "apt install scapy"
+},
+{
+    "id": 317,
+    "title": "Yersinia",
+    "creator": "Alfredo Andrés Omella",
+    "image": "https://github.com/tomac.png",
+    "description": "Network layer attacks",
+    "downloadUrl": "apt install yersinia"
+},
+{
+    "id": 318,
+    "title": "THC-IPV6",
+    "creator": "The Hacker's Choice",
+    "image": "https://github.com/vanhauser-thc.png",
+    "description": "IPv6 attack toolkit",
+    "downloadUrl": "apt install thc-ipv6"
+},
+{
+    "id": 319,
+    "title": "SipVicious",
+    "creator": "Sandstorm Enterprises",
+    "image": "https://github.com/EnableSecurity.png",
+    "description": "SIP security testing",
+    "downloadUrl": "apt install sipvicious"
+},
+{
+    "id": 320,
+    "title": "Sslstrip",
+    "creator": "Moxie Marlinspike",
+    "image": "https://github.com/moxie0.png",
+    "description": "SSL stripping attacks",
+    "downloadUrl": "apt install sslstrip"
+},
+{
+    "id": 321,
+    "title": "W3af",
+    "creator": "Andres Riancho",
+    "image": "https://w3af.org/theme/img/logo.png",
+    "description": "Web application scanner",
+    "downloadUrl": "apt install w3af"
+},
+{
+    "id": 322,
+    "title": "Skipfish",
+    "creator": "Michal Zalewski",
+    "image": "https://code.google.com/archive/p/skipfish/logo",
+    "description": "Web application scanner",
+    "downloadUrl": "apt install skipfish"
+},
+{
+    "id": 323,
+    "title": "Dirb",
+    "creator": "The Dark Raver",
+    "image": "https://github.com/v0re.png",
+    "description": "Web content scanner",
+    "downloadUrl": "apt install dirb"
+},
+{
+    "id": 324,
+    "title": "Wafw00f",
+    "creator": "Sandro Gauci",
+    "image": "https://github.com/sandrogauci.png",
+    "description": "Web Application Firewall detector",
+    "downloadUrl": "apt install wafw00f"
+},
+{
+    "id": 325,
+    "title": "Commix",
+    "creator": "Anastasios Stasinopoulos",
+    "image": "https://github.com/commixproject.png",
+    "description": "Automated command injection",
+    "downloadUrl": "apt install commix"
+},
+{
+    "id": 326,
+    "title": "XSStrike",
+    "creator": "s0md3v",
+    "image": "https://github.com/s0md3v.png",
+    "description": "Advanced XSS detection",
+    "downloadUrl": "git clone https://github.com/s0md3v/XSStrike"
+},
+{
+    "id": 327,
+    "title": "XSSer",
+    "creator": "Gonzalo Alvarez",
+    "image": "https://github.com/epsylon.png",
+    "description": "XSS vulnerability scanner",
+    "downloadUrl": "apt install xsser"
+},
+{
+    "id": 328,
+    "title": "BeEF",
+    "creator": "Wade Alcorn",
+    "image": "https://beefproject.com/images/beef-logo.png",
+    "description": "Browser exploitation framework",
+    "downloadUrl": "apt install beef-xss"
+},
+{
+    "id": 329,
+    "title": "Fimap",
+    "creator": "Iman Karim",
+    "image": "https://github.com/kurobeats.png",
+    "description": "Local/remote file inclusion",
+    "downloadUrl": "apt install fimap"
+},
+{
+    "id": 330,
+    "title": "Joomscan",
+    "creator": "Aung Khant",
+    "image": "https://github.com/rezasp.png",
+    "description": "Joomla vulnerability scanner",
+    "downloadUrl": "apt install joomscan"
+},
+{
+    "id": 331,
+    "title": "Droopescan",
+    "creator": "Droope",
+    "image": "https://github.com/droope.png",
+    "description": "Drupal scanner",
+    "downloadUrl": "apt install droopescan"
+},
+{
+    "id": 332,
+    "title": "CMSmap",
+    "creator": "Dionach",
+    "image": "https://github.com/Dionach.png",
+    "description": "CMS vulnerability scanner",
+    "downloadUrl": "apt install cmsmap"
+},
+{
+    "id": 333,
+    "title": "WhatWeb",
+    "creator": "Andrew Horton",
+    "image": "https://www.morningstarsecurity.com/research/whatweb",
+    "description": "Web technology identifier",
+    "downloadUrl": "apt install whatweb"
+},
+{
+    "id": 334,
+    "title": "EyeWitness",
+    "creator": "Chris Truncer",
+    "image": "https://github.com/ChrisTruncer.png",
+    "description": "Website screenshot tool",
+    "downloadUrl": "apt install eyewitness"
+},
+{
+    "id": 335,
+    "title": "Golismero",
+    "creator": "Daniel Garcia",
+    "image": "https://github.com/golismero.png",
+    "description": "Web security framework",
+    "downloadUrl": "apt install golismero"
+},
+{
+    "id": 336,
+    "title": "FuzzDB",
+    "creator": "Adam Muntner",
+    "image": "https://github.com/fuzzdb-project.png",
+    "description": "Attack pattern database",
+    "downloadUrl": "apt install fuzzdb"
+},
+{
+    "id": 337,
+    "title": "SecLists",
+    "creator": "Daniel Miessler",
+    "image": "https://github.com/danielmiessler.png",
+    "description": "Security testing wordlists",
+    "downloadUrl": "apt install seclists"
+},
+{
+    "id": 338,
+    "title": "CeWL",
+    "creator": "Robin Wood",
+    "image": "https://digi.ninja/images/cewl_logo.png",
+    "description": "Custom wordlist generator",
+    "downloadUrl": "apt install cewl"
+},
+{
+    "id": 339,
+    "title": "Crunch",
+    "creator": "Mimayin",
+    "image": "https://github.com/crunchsec.png",
+    "description": "Wordlist generator",
+    "downloadUrl": "apt install crunch"
+},
+{
+    "id": 340,
+    "title": "Hash-Identifier",
+    "creator": "BlackPloit",
+    "image": "https://github.com/blackploit.png",
+    "description": "Hash type identifier",
+    "downloadUrl": "apt install hash-identifier"
+},
+{
+    "id": 341,
+    "title": "PDFcrack",
+    "creator": "Anders Nilsson",
+    "image": "https://github.com/andersn.png",
+    "description": "PDF password recovery",
+    "downloadUrl": "apt install pdfcrack"
+},
+{
+    "id": 342,
+    "title": "Fcrackzip",
+    "creator": "Marc Lehmann",
+    "image": "https://github.com/psychon.png",
+    "description": "Zip password cracker",
+    "downloadUrl": "apt install fcrackzip"
+},
+{
+    "id": 343,
+    "title": "Johnny",
+    "creator": "Shinnok",
+    "image": "https://github.com/shinnok.png",
+    "description": "GUI for John the Ripper",
+    "downloadUrl": "apt install johnny"
+},
+{
+    "id": 344,
+    "title": "Ophcrack",
+    "creator": "Objectif Securité",
+    "image": "https://ophcrack.sourceforge.io/favicon.ico",
+    "description": "Windows password cracker",
+    "downloadUrl": "apt install ophcrack"
+},
+{
+    "id": 345,
+    "title": "Sucrack",
+    "creator": "Andreas Bogk",
+    "image": "https://github.com/andreasbogk.png",
+    "description": "su brute force tool",
+    "downloadUrl": "apt install sucrack"
+},
+{
+    "id": 346,
+    "title": "Patator",
+    "creator": "Lanjelot",
+    "image": "https://github.com/lanjelot.png",
+    "description": "Multi-purpose brute-forcer",
+    "downloadUrl": "apt install patator"
+},
+{
+    "id": 347,
+    "title": "THC-Hydra",
+    "creator": "van Hauser",
+    "image": "https://github.com/vanhauser-thc.png",
+    "description": "Network login cracker",
+    "downloadUrl": "apt install hydra"
+},
+{
+    "id": 348,
+    "title": "Crowbar",
+    "creator": "galkan",
+    "image": "https://github.com/galkan.png",
+    "description": "Brute force tool",
+    "downloadUrl": "apt install crowbar"
+},
+{
+    "id": 349,
+    "title": "Ncrack",
+    "creator": "Nmap Project",
+    "image": "https://nmap.org/images/sitelogo.png",
+    "description": "Network authentication tool",
+    "downloadUrl": "apt install ncrack"
+},
+{
+    "id": 350,
+    "title": "Medusa",
+    "creator": "JoMo-Kun",
+    "image": "https://github.com/jmk.png",
+    "description": "Parallel login brute-forcer",
+    "downloadUrl": "apt install medusa"
+},
+{
+    "id": 351,
+    "title": "Sqlninja",
+    "creator": "Alessandro Tanasi",
+    "image": "https://github.com/antanapi.png",
+    "description": "SQL Server injection tool",
+    "downloadUrl": "apt install sqlninja"
+},
+{
+    "id": 352,
+    "title": "HexorBase",
+    "creator": "Kostas Milonas",
+    "image": "https://github.com/0x4D31.png",
+    "description": "Database exploitation tool",
+    "downloadUrl": "apt install hexorbase"
+},
+{
+    "id": 353,
+    "title": "BBQSQL",
+    "creator": "Ben Toews",
+    "image": "https://github.com/mastahyeti.png",
+    "description": "Blind SQL injection tool",
+    "downloadUrl": "apt install bbqsql"
+},
+{
+    "id": 354,
+    "title": "JSql Injection",
+    "creator": "Jean-François Maury",
+    "image": "https://github.com/ron190.png",
+    "description": "Java SQL injection tool",
+    "downloadUrl": "apt install jsql-injection"
+},
+{
+    "id": 355,
+    "title": "Mimikatz",
+    "creator": "Benjamin Delpy",
+    "image": "https://github.com/gentilkiwi.png",
+    "description": "Windows credential extraction",
+    "downloadUrl": "apt install mimikatz"
+},
+{
+    "id": 355,
+    "title": "Mimikatz",
+    "creator": "Benjamin Delpy",
+    "image": "https://github.com/gentilkiwi.png",
+    "description": "Windows credential extraction",
+    "downloadUrl": "apt install mimikatz"
+},
+{
+    "id": 356,
+    "title": "PowerSploit",
+    "creator": "Matt Graeber",
+    "image": "https://github.com/PowerShellMafia.png",
+    "description": "PowerShell post-exploitation",
+    "downloadUrl": "apt install powersploit"
+},
+{
+    "id": 357,
+    "title": "Empire",
+    "creator": "BC Security",
+    "image": "https://github.com/BC-SECURITY.png",
+    "description": "Post-exploitation framework",
+    "downloadUrl": "apt install powershell-empire"
+},
+{
+    "id": 358,
+    "title": "DeathStar",
+    "creator": "byt3bl33d3r",
+    "image": "https://github.com/byt3bl33d3r.png",
+    "description": "Automate getting Domain Admin",
+    "downloadUrl": "git clone https://github.com/byt3bl33d3r/DeathStar"
+},
+{
+    "id": 359,
+    "title": "Impacket",
+    "creator": "Core Security",
+    "image": "https://github.com/SecureAuthCorp.png",
+    "description": "Network protocol library",
+    "downloadUrl": "apt install impacket-scripts"
+},
+{
+    "id": 360,
+    "title": "Responder",
+    "creator": "Laurent Gaffié",
+    "image": "https://github.com/lgandx.png",
+    "description": "LLMNR/NBT-NS poisoner",
+    "downloadUrl": "apt install responder"
+},
+{
+    "id": 361,
+    "title": "Mitm6",
+    "creator": "Fox-IT",
+    "image": "https://github.com/fox-it.png",
+    "description": "IPv6 attack tool",
+    "downloadUrl": "apt install mitm6"
+},
+{
+    "id": 362,
+    "title": "Kerberoast",
+    "creator": "Tim Medin",
+    "image": "https://github.com/TimMedin.png",
+    "description": "Kerberos attack toolkit",
+    "downloadUrl": "apt install kerberoast"
+},
+{
+    "id": 363,
+    "title": "Rubeus",
+    "creator": "HarmJ0y",
+    "image": "https://github.com/GhostPack.png",
+    "description": "Kerberos exploitation tool",
+    "downloadUrl": "apt install rubeus"
+},
+{
+    "id": 364,
+    "title": "CrackMapExec",
+    "creator": "byt3bl33d3r",
+    "image": "https://github.com/byt3bl33d3r.png",
+    "description": "Post-exploitation tool",
+    "downloadUrl": "apt install crackmapexec"
+},
+{
+    "id": 365,
+    "title": "BloodHound",
+    "creator": "SpecterOps",
+    "image": "https://bloodhound.readthedocs.io/en/latest/_images/BloodHound-Logo.png",
+    "description": "Active Directory analysis",
+    "downloadUrl": "apt install bloodhound"
+},
+{
+    "id": 366,
+    "title": "SniffAir",
+    "creator": "Tylous",
+    "image": "https://github.com/Tylous.png",
+    "description": "Wireless security framework",
+    "downloadUrl": "apt install sniffair"
+},
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
