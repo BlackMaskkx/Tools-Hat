@@ -4,7 +4,7 @@ const toolsData = [
         id: 1,
         title: "7-Zip",
         creator: "Igor Pavlov",
-        image: "https://7-zip.org/screens/main.png",
+        image: "https://www.7-zip.org/7ziplogo.png",
         description: "A free, open-source file archiver with high compression ratio. Supports multiple formats like ZIP, RAR, TAR, and its own 7z.",
         downloadUrl: "https://7-zip.org/download.html"
     },
@@ -12,7 +12,7 @@ const toolsData = [
         id: 2,
         title: "VLC Media Player",
         creator: "VideoLAN organization",
-        image: "https://www.videolan.org/images/vlc-360.png",
+        image: "https://images.videolan.org/images/icons-VLC/vlc.mini.svg",
         description: "A versatile, open-source media player that supports almost all video and audio formats without additional codecs.",
         downloadUrl: "https://www.videolan.org/vlc/"
     },
@@ -20,7 +20,7 @@ const toolsData = [
         id: 3,
         title: "Notepad++",
         creator: "Dan Ho",
-        image: "https://notepad-plus-plus.org/images/logo.png",
+        image: "https://notepad-plus-plus.org/images/logo.svg",
         description: "A powerful text and code editor with syntax highlighting, tabbed editing, and plugin support for programmers.",
         downloadUrl: "https://notepad-plus-plus.org/downloads/"
     },
@@ -34,19 +34,19 @@ const toolsData = [
     },
     {
         id: 5,
-        title: "Media Playe",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/media_player-4.png",
-        description: "Play audio and video files with this classic media player. Supports multiple formats.",
-        downloadUrl: "https://example.com/download/5"
+        title: "LibreOffice",
+        creator: "The Document Foundation",
+        image: "https://es.libreoffice.org/themes/libreofficenew/img/logo.png",
+        description: "A free, open-source office suite alternative to Microsoft Office, including Writer, Calc, Impress, and more.",
+        downloadUrl: "https://www.libreoffice.org/download/"
     },
     {
         id: 6,
-        title: "Internet Explorer",
-        creator: "Microsoft",
-        image: "https://win98icons.alexmeub.com/icons/png/explorer_web-4.png",
-        description: "Browse the internet with this classic web browser from the XP era.",
-        downloadUrl: "https://example.com/download/6"
+        title: "Blender",
+        creator: "Blender Foundation",
+        image: "jdk",
+        description: "A professional 3D modeling, animation, and rendering tool, free and open-source.",
+        downloadUrl: "https://www.blender.org/download/"
     }
 ];
 
