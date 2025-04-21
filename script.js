@@ -3833,6 +3833,806 @@ const toolsData = [
         "downloadUrl": "https://www.k7computing.com/ultimate-security"
     },
     {
+    "id": 501,
+    "title": "Prettier - Code formatter",
+    "creator": "Prettier",
+    "image": "https://prettier.io/icon.png",
+    "description": "An opinionated code formatter that supports many languages and integrates with most editors.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+},
+{
+    "id": 502,
+    "title": "ESLint",
+    "creator": "Microsoft",
+    "image": "https://eslint.org/assets/img/logo.svg",
+    "description": "Integrates ESLint JavaScript into VS Code for identifying problematic patterns in code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+},
+{
+    "id": 503,
+    "title": "Live Server",
+    "creator": "Ritwick Dey",
+    "image": "https://ritwickdey.github.io/vscode-live-server/images/vscode-live-server-logo.png",
+    "description": "Launch a development local Server with live reload feature for static & dynamic pages.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
+},
+{
+    "id": 504,
+    "title": "Python",
+    "creator": "Microsoft",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+    "description": "Linting, debugging, IntelliSense, code navigation, code formatting, refactoring, unit tests, snippets, and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
+},
+{
+    "id": 505,
+    "title": "GitLens",
+    "creator": "Eric Amodio",
+    "image": "https://cdn.gitlens.githistory.com/gitlens-icon.png",
+    "description": "Supercharge Git within VS Code and unlock untapped knowledge within each repository.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+},
+{
+    "id": 506,
+    "title": "Bracket Pair Colorizer",
+    "creator": "CoenraadS",
+    "image": "https://github.com/CoenraadS/BracketPair/raw/master/images/logo.png",
+    "description": "This extension allows matching brackets to be identified with colors for better readability.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer"
+},
+{
+    "id": 507,
+    "title": "Path IntelliSense",
+    "creator": "Christian Kohler",
+    "image": "https://github.com/ChristianKohler/PathIntellisense/raw/master/images/logo.png",
+    "description": "Visual Studio Code plugin that autocompletes filenames as you type.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense"
+},
+{
+    "id": 508,
+    "title": "Material Icon Theme",
+    "creator": "Philipp Kief",
+    "image": "https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/logo.png",
+    "description": "Material Design Icons for Visual Studio Code with lots of customization options.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
+},
+{
+    "id": 509,
+    "title": "Auto Rename Tag",
+    "creator": "Jun Han",
+    "image": "https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/logo.png",
+    "description": "Automatically rename paired HTML/XML tags when editing.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"
+},
+{
+    "id": 510,
+    "title": "Code Runner",
+    "creator": "Jun Han",
+    "image": "https://github.com/formulahendry/vscode-code-runner/raw/master/images/logo.png",
+    "description": "Run code snippet or code file for multiple languages with a single click.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"
+},
+{
+    "id": 511,
+    "title": "REST Client",
+    "creator": "Huachao Mao",
+    "image": "https://github.com/Huachao/vscode-restclient/raw/master/images/logo.png",
+    "description": "Allows you to send HTTP request and view the response directly in Visual Studio Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client"
+},
+{
+    "id": 512,
+    "title": "Markdown All in One",
+    "creator": "Yu Zhang",
+    "image": "https://github.com/yzhang-gh/vscode-markdown/raw/master/images/logo.png",
+    "description": "All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one"
+},
+{
+    "id": 513,
+    "title": "Debugger for Chrome",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-chrome-debug/raw/main/images/logo.png",
+    "description": "Debug your JavaScript code running in Google Chrome from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome"
+},
+{
+    "id": 514,
+    "title": "Docker",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-docker/raw/main/images/logo.png",
+    "description": "Makes it easy to create, manage, and debug containerized applications.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
+},
+{
+    "id": 515,
+    "title": "Vetur",
+    "creator": "Pine Wu",
+    "image": "https://github.com/vuejs/vetur/raw/master/docs/public/logo.png",
+    "description": "Vue tooling for VS Code with syntax highlighting, snippets, IntelliSense and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=octref.vetur"
+},
+{
+    "id": 516,
+    "title": "Quokka.js",
+    "creator": "Wallaby.js",
+    "image": "https://quokkajs.com/assets/img/logo.svg",
+    "description": "Rapid JavaScript/TypeScript prototyping playground with inline results and time-travel debugging.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode"
+},
+{
+    "id": 517,
+    "title": "Settings Sync",
+    "creator": "Shan Khan",
+    "image": "https://github.com/shanalikhan/code-settings-sync/raw/master/images/logo.png",
+    "description": "Synchronize settings, snippets, themes, keybindings across multiple machines using GitHub Gist.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync"
+},
+{
+    "id": 518,
+    "title": "Bookmarks",
+    "creator": "Alessandro Fragnani",
+    "image": "https://github.com/alefragnani/vscode-bookmarks/raw/master/images/logo.png",
+    "description": "Mark lines and jump to them easily to improve your navigation experience.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
+},
+{
+    "id": 519,
+    "title": "Todo Tree",
+    "creator": "Gruntfuggly",
+    "image": "https://github.com/Gruntfuggly/todo-tree/raw/master/resources/icon.png",
+    "description": "Show all TODO/FIXME comments in a tree view and quickly navigate to them.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
+},
+{
+    "id": 520,
+    "title": "Polacode",
+    "creator": "P-hao",
+    "image": "https://github.com/octref/polacode/raw/master/resources/icon.png",
+    "description": "Polaroid for your code - take a beautiful screenshot of your code snippets.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode"
+},
+{
+    "id": 521,
+    "title": "Remote - SSH",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-remote-release/raw/main/resources/ssh.png",
+    "description": "Open any folder on a remote machine using SSH and work with it as if it were local.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
+},
+{
+    "id": 522,
+    "title": "Remote - Containers",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-remote-release/raw/main/resources/containers.png",
+    "description": "Work with a separate toolchain or container-based application inside VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
+},
+{
+    "id": 523,
+    "title": "Remote - WSL",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-remote-release/raw/main/resources/wsl.png",
+    "description": "Get a Linux-powered development experience from the comfort of Windows with WSL.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
+},
+{
+    "id": 524,
+    "title": "C/C++",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-cpptools/raw/main/images/logo.png",
+    "description": "C/C++ IntelliSense, debugging, and code browsing for Visual Studio Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
+},
+{
+    "id": 525,
+    "title": "Java Extension Pack",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-java-pack/raw/main/resources/extension.png",
+    "description": "Popular extensions for Java development that provide IntelliSense, debugging, testing, Maven/Gradle support and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
+},
+{
+    "id": 526,
+    "title": "Go",
+    "creator": "Go Team at Google",
+    "image": "https://github.com/golang/vscode-go/raw/master/docs/images/go-logo-blue.png",
+    "description": "Rich Go language support with features like IntelliSense, code navigation, debugging, and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
+},
+{
+    "id": 527,
+    "title": "Rust (rls)",
+    "creator": "Rust Team",
+    "image": "https://github.com/rust-lang/vscode-rust/raw/master/images/logo.png",
+    "description": "Rust language support with RLS (Rust Language Server) providing features like autocompletion and goto definition.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust"
+},
+{
+    "id": 528,
+    "title": "PHP IntelliSense",
+    "creator": "Felix Becker",
+    "image": "https://github.com/felixfbecker/vscode-php-intellisense/raw/master/images/logo.png",
+    "description": "Advanced PHP IntelliSense with code navigation, refactoring, and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense"
+},
+{
+    "id": 529,
+    "title": "DotENV",
+    "creator": "mikestead",
+    "image": "https://github.com/mikestead/vscode-dotenv/raw/master/images/logo.png",
+    "description": "Support for .env file syntax highlighting and snippets.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"
+},
+{
+    "id": 530,
+    "title": "XML Tools",
+    "creator": "Josh Johnson",
+    "image": "https://github.com/DotJoshJohnson/vscode-xml/raw/master/images/logo.png",
+    "description": "XML formatting, XPath evaluation, and XQuery execution for Visual Studio Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml"
+},
+{
+    "id": 531,
+    "title": "YAML",
+    "creator": "Red Hat",
+    "image": "https://github.com/redhat-developer/vscode-yaml/raw/master/images/logo.png",
+    "description": "YAML Language Support with validation, auto-completion, and formatting.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
+},
+{
+    "id": 532,
+    "title": "SQL Server (mssql)",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-mssql/raw/main/images/logo.png",
+    "description": "Develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere with rich editor support.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
+},
+{
+    "id": 533,
+    "title": "PostgreSQL",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-postgresql/raw/master/images/logo.png",
+    "description": "PostgreSQL management with connection explorer, query runner, and schema visualizer.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql"
+},
+{
+    "id": 534,
+    "title": "MongoDB for VS Code",
+    "creator": "MongoDB",
+    "image": "https://github.com/mongodb-js/vscode/raw/main/images/logo.png",
+    "description": "Connect to MongoDB and Atlas, run queries, and work with your data directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
+},
+{
+    "id": 535,
+    "title": "GraphQL",
+    "creator": "GraphQL Foundation",
+    "image": "https://github.com/graphql/vscode-graphql/raw/master/images/logo.png",
+    "description": "GraphQL syntax highlighting, linting, auto-completion, and more for VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql"
+},
+{
+    "id": 536,
+    "title": "REST Client",
+    "creator": "Huachao Mao",
+    "image": "https://github.com/Huachao/vscode-restclient/raw/master/images/logo.png",
+    "description": "Send HTTP request and view response in Visual Studio Code directly.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client"
+},
+{
+    "id": 537,
+    "title": "Thunder Client",
+    "creator": "Ranga Vadhineni",
+    "image": "https://github.com/rangav/thunder-client-support/raw/master/images/logo.png",
+    "description": "Lightweight REST API Client for VS Code with simple UI and collection management.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client"
+},
+{
+    "id": 538,
+    "title": "Jupyter",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-jupyter/raw/main/resources/logo.png",
+    "description": "Jupyter notebook support with interactive programming and data science features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
+},
+{
+    "id": 539,
+    "title": "Excel Viewer",
+    "creator": "GrapeCity",
+    "image": "https://github.com/GrapeCity/vscode-excelviewer/raw/master/images/logo.png",
+    "description": "View Excel spreadsheets and CSV files directly in VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer"
+},
+{
+    "id": 540,
+    "title": "SVG Viewer",
+    "creator": "cssho",
+    "image": "https://github.com/cssho/vscode-svgviewer/raw/master/images/logo.png",
+    "description": "View SVG files and export them to PNG or other formats directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer"
+},
+{
+    "id": 541,
+    "title": "Draw.io Integration",
+    "creator": "hediet",
+    "image": "https://github.com/hediet/vscode-drawio/raw/master/icon.png",
+    "description": "Edit and save diagrams as draw.io files directly in VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio"
+},
+{
+    "id": 542,
+    "title": "PlantUML",
+    "creator": "jebbs",
+    "image": "https://github.com/qjebbs/vscode-plantuml/raw/master/images/logo.png",
+    "description": "Rich PlantUML support with preview, export and diagram generation.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml"
+},
+{
+    "id": 543,
+    "title": "Rainbow CSV",
+    "creator": "mechatroner",
+    "image": "https://github.com/mechatroner/vscode_rainbow_csv/raw/master/images/logo.png",
+    "description": "Highlight CSV and TSV files in different colors and provide querying with SQL-like syntax.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
+},
+{
+    "id": 544,
+    "title": "Better Comments",
+    "creator": "Aaron Bond",
+    "image": "https://github.com/aaron-bond/better-comments/raw/master/images/logo.png",
+    "description": "Improve your code commenting with colored annotations like alerts, queries, TODOs, and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"
+},
+{
+    "id": 545,
+    "title": "Error Lens",
+    "creator": "Alexander",
+    "image": "https://github.com/usernamehw/vscode-error-lens/raw/master/images/logo.png",
+    "description": "Show error messages inline with your code to improve visibility of problems.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+},
+{
+    "id": 546,
+    "title": "Import Cost",
+    "creator": "wix",
+    "image": "https://github.com/wix/import-cost/raw/master/images/logo.png",
+    "description": "Display the size of imported packages inline in your JavaScript/TypeScript code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost"
+},
+{
+    "id": 547,
+    "title": "TabNine",
+    "creator": "TabNine",
+    "image": "https://github.com/codota/tabnine-vscode/raw/master/images/logo.png",
+    "description": "AI-powered autocompletion that learns from your code to provide smart suggestions.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode"
+},
+{
+    "id": 548,
+    "title": "Git Graph",
+    "creator": "mhutchie",
+    "image": "https://github.com/mhutchie/vscode-git-graph/raw/master/resources/logo.png",
+    "description": "View a visual graph of your Git repository and perform Git actions directly from the graph.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"
+},
+{
+    "id": 549,
+    "title": "Git History",
+    "creator": "Don Jayamanne",
+    "image": "https://github.com/DonJayamanne/gitHistoryVSCode/raw/master/images/logo.png",
+    "description": "View Git log, file history, compare branches or commits with a powerful UI.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory"
+},
+{
+    "id": 550,
+    "title": "Project Manager",
+    "creator": "Alessandro Fragnani",
+    "image": "https://github.com/alefragnani/vscode-project-manager/raw/master/images/logo.png",
+    "description": "Easily switch between projects with a dedicated sidebar and saved projects list.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
+},
+{
+    "id": 551,
+    "title": "Remote Development",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-remote-release/raw/main/resources/remote-extension-pack.png",
+    "description": "Extension pack that enables remote development via containers, WSL, or SSH.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
+},
+{
+    "id": 552,
+    "title": "Live Share",
+    "creator": "Microsoft",
+    "image": "https://github.com/MicrosoftDocs/live-share/raw/main/images/vscode-logo.png",
+    "description": "Real-time collaborative development with shared debugging, terminals, and more.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
+},
+{
+    "id": 553,
+    "title": "Code Spell Checker",
+    "creator": "Street Side Software",
+    "image": "https://github.com/streetsidesoftware/vscode-spell-checker/raw/master/images/logo.png",
+    "description": "Spell checking for source code that helps catch common spelling errors.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
+},
+{
+    "id": 554,
+    "title": "indent-rainbow",
+    "creator": "oderwat",
+    "image": "https://github.com/oderwat/vscode-indent-rainbow/raw/master/images/logo.png",
+    "description": "Makes indentation more readable by coloring each level with a different color.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow"
+},
+{
+    "id": 555,
+    "title": "Babel JavaScript",
+    "creator": "Michael McDermott",
+    "image": "https://github.com/michaelgmcd/vscode-babel-repl/raw/master/images/logo.png",
+    "description": "Syntax highlighting for modern JavaScript with Babel support.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel"
+},
+{
+    "id": 556,
+    "title": "JavaScript (ES6) code snippets",
+    "creator": "charalampos karypidis",
+    "image": "https://github.com/xabikos/vscode-javascript/raw/master/images/logo.png",
+    "description": "Code snippets for JavaScript in ES6 syntax to speed up development.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets"
+},
+{
+    "id": 557,
+    "title": "TypeScript Importer",
+    "creator": "pmneo",
+    "image": "https://github.com/pmneo/vscode-ts-importer/raw/master/images/logo.png",
+    "description": "Automatically searches for TypeScript definitions in your workspace when importing.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter"
+},
+{
+    "id": 558,
+    "title": "npm Intellisense",
+    "creator": "Christian Kohler",
+    "image": "https://github.com/ChristianKohler/NpmIntellisense/raw/master/images/logo.png",
+    "description": "Autocompletes npm modules in import statements for JavaScript/TypeScript.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense"
+},
+{
+    "id": 559,
+    "title": "Version Lens",
+    "creator": "pflannery",
+    "image": "https://github.com/pflannery/vscode-versionlens/raw/master/images/logo.png",
+    "description": "Shows the latest version for each package in package.json when available.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens"
+},
+{
+    "id": 560,
+    "title": "Regex Previewer",
+    "creator": "chrmarti",
+    "image": "https://github.com/chrmarti/vscode-regex/raw/master/images/logo.png",
+    "description": "Real-time regex testing side-by-side with your JavaScript or TypeScript code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=chrmarti.regex"
+},
+{
+    "id": 561,
+    "title": "Peacock",
+    "creator": "John Papa",
+    "image": "https://github.com/johnpapa/vscode-peacock/raw/main/resources/peacock-icon.png",
+    "description": "Subtly change the color of your workspace to differentiate between projects.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock"
+},
+{
+    "id": 562,
+    "title": "Color Highlight",
+    "creator": "Sergii Naumov",
+    "image": "https://github.com/sergiirocks/vscode-color-highlight/raw/master/images/logo.png",
+    "description": "Highlight web colors in your editor to visualize them as you code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight"
+},
+{
+    "id": 563,
+    "title": "Color Picker",
+    "creator": "Sergii Naumov",
+    "image": "https://github.com/sergiirocks/vscode-ext-color-picker/raw/master/images/logo.png",
+    "description": "Helper to select colors from a visual picker and insert them into your code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color"
+},
+{
+    "id": 564,
+    "title": "CSS Peek",
+    "creator": "Pranay Prakash",
+    "image": "https://github.com/pranaygp/vscode-css-peek/raw/master/images/logo.png",
+    "description": "Allow peeking to CSS ID and class strings as definitions from HTML files.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek"
+},
+{
+    "id": 565,
+    "title": "HTML CSS Support",
+    "creator": "ecmel",
+    "image": "https://github.com/ecmel/vscode-html-css/raw/master/images/logo.png",
+    "description": "CSS Intellisense for HTML documents that suggests classes and IDs from your workspace.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css"
+},
+{
+    "id": 566,
+    "title": "IntelliSense for CSS class names",
+    "creator": "Zignd",
+    "image": "https://github.com/Zignd/HTML-CSS-Class-Completion/raw/master/images/logo.png",
+    "description": "Provides CSS class name completion based on the definitions found in your workspace.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion"
+},
+{
+    "id": 567,
+    "title": "Sass",
+    "creator": "Syler",
+    "image": "https://github.com/Syler/vscode-sass-indented/raw/master/images/logo.png",
+    "description": "Indented Sass syntax highlighting, autocomplete and formatter with .sass support.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented"
+},
+{
+    "id": 568,
+    "title": "stylelint",
+    "creator": "stylelint",
+    "image": "https://github.com/stylelint/vscode-stylelint/raw/master/images/logo.png",
+    "description": "Modern CSS/SCSS/Less linter that helps enforce consistent conventions and avoid errors.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint"
+},
+{
+    "id": 569,
+    "title": "Tailwind CSS IntelliSense",
+    "creator": "Tailwind Labs",
+    "image": "https://github.com/tailwindlabs/tailwindcss-intellisense/raw/master/packages/vscode-tailwindcss/logo.png",
+    "description": "Smart autocomplete, syntax highlighting, and linting for Tailwind CSS projects.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
+},
+{
+    "id": 570,
+    "title": "Auto Close Tag",
+    "creator": "Jun Han",
+    "image": "https://github.com/formulahendry/vscode-auto-close-tag/raw/master/images/logo.png",
+    "description": "Automatically add HTML/XML close tag when you type the opening tag.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag"
+},
+{
+    "id": 571,
+    "title": "Auto Complete Tag",
+    "creator": "Jun Han",
+    "image": "https://github.com/formulahendry/vscode-auto-complete-tag/raw/master/images/logo.png",
+    "description": "Extension to auto complete paired HTML/XML tags similar to Visual Studio IDE.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag"
+},
+{
+    "id": 572,
+    "title": "HTML Snippets",
+    "creator": "Mohamed Abusaid",
+    "image": "https://github.com/abusaidm/html-snippets/raw/master/images/logo.png",
+    "description": "Full HTML tags including HTML5 snippets for faster development.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets"
+},
+{
+    "id": 573,
+    "title": "HTMLHint",
+    "creator": "HTMLHint",
+    "image": "https://github.com/HTMLHint/HTMLHint/raw/master/images/logo.png",
+    "description": "Static code analysis tool for HTML that helps detect potential issues.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint"
+},
+{
+    "id": 574,
+    "title": "IntelliJ IDEA Keybindings",
+    "creator": "Keisuke Kato",
+    "image": "https://github.com/k--kato/vscode-intellij-idea-keybindings/raw/master/images/logo.png",
+    "description": "Port of IntelliJ IDEA key bindings for VS Code users transitioning from JetBrains IDEs.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings"
+},
+{
+    "id": 575,
+    "title": "Dart",
+    "creator": "Dart Code",
+    "image": "https://github.com/Dart-Code/Dart-Code/raw/master/images/logo.png",
+    "description": "Dart language support with syntax highlighting, debugging, and Flutter integration.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
+},
+{
+    "id": 576,
+    "title": "Flutter",
+    "creator": "Dart Code",
+    "image": "https://github.com/Dart-Code/Flutter/raw/master/images/logo.png",
+    "description": "Flutter support with widget editing assists, debugging, and Dart language integration.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
+},
+{
+    "id": 577,
+    "title": "Kotlin Language",
+    "creator": "fwcd",
+    "image": "https://github.com/fwcd/kotlin/raw/master/icons/logo.png",
+    "description": "Kotlin language support with syntax highlighting and basic completions.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin"
+},
+{
+    "id": 578,
+    "title": "Scala (Metals)",
+    "creator": "Scalameta",
+    "image": "https://github.com/scalameta/metals-vscode/raw/master/images/logo.png",
+    "description": "Scala support through Metals language server with rich IDE features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=scalameta.metals"
+},
+{
+    "id": 579,
+    "title": "Haskell",
+    "creator": "Haskell",
+    "image": "https://github.com/haskell/vscode-haskell/raw/master/images/logo.png",
+    "description": "Syntax highlighting and hie (Haskell IDE Engine) integration for Haskell development.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell"
+},
+{
+    "id": 580,
+    "title": "ElixirLS",
+    "creator": "Jake Becker",
+    "image": "https://github.com/elixir-lsp/elixir-ls/raw/master/images/logo.png",
+    "description": "Elixir language support with debugger, autocomplete, and other IDE features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls"
+},
+{
+    "id": 581,
+    "title": "Clojure",
+    "creator": "BetterThanTomorrow",
+    "image": "https://github.com/BetterThanTomorrow/calva/raw/master/assets/icon.png",
+    "description": "Clojure and ClojureScript support with REPL integration and structural editing.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva"
+},
+{
+    "id": 582,
+    "title": "Erlang",
+    "creator": "Pierrick Gourlain",
+    "image": "https://github.com/pgourlain/vscode_erlang/raw/master/images/logo.png",
+    "description": "Erlang language support with syntax highlighting and basic features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang"
+},
+{
+    "id": 583,
+    "title": "F#",
+    "creator": "Ionide",
+    "image": "https://github.com/ionide/ionide-vscode-fsharp/raw/master/images/logo.png",
+    "description": "F# support with Ionide providing rich language features and tooling.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp"
+},
+{
+    "id": 584,
+    "title": "OCaml Platform",
+    "creator": "OCaml Labs",
+    "image": "https://github.com/ocamllabs/vscode-ocaml-platform/raw/master/images/logo.png",
+    "description": "OCaml language support with Merlin integration for IDE features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform"
+},
+{
+    "id": 585,
+    "title": "Perl",
+    "creator": "Henning",
+    "image": "https://github.com/handyorg/handyorg-vscode-perl/raw/master/images/logo.png",
+    "description": "Perl language support with syntax highlighting and basic features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=henning.perl"
+},
+{
+    "id": 586,
+    "title": "Puppet",
+    "creator": "Puppet",
+    "image": "https://github.com/puppetlabs/puppet-vscode/raw/master/images/logo.png",
+    "description": "Puppet language support with syntax highlighting, linting, and other features.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode"
+},
+{
+    "id": 587,
+    "title": "R",
+    "creator": "Ikuyadeu",
+    "image": "https://github.com/Ikuyadeu/vscode-R/raw/master/images/logo.png",
+    "description": "R language support with syntax highlighting, snippets, and R terminal integration.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r"
+},
+{
+    "id": 588,
+    "title": "Ruby",
+    "creator": "Peng Lv",
+    "image": "https://github.com/rubyide/vscode-ruby/raw/master/images/logo.png",
+    "description": "Ruby language support with debugging, IntelliSense, and formatting.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby"
+},
+{
+    "id": 589,
+    "title": "Rust Analyzer",
+    "creator": "Rust Analyzer Team",
+    "image": "https://github.com/rust-lang/rust-analyzer/raw/master/assets/logo.png",
+    "description": "Experimental Rust compiler front-end for IDEs with rich code analysis.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer"
+},
+{
+    "id": 590,
+    "title": "ShellCheck",
+    "creator": "Timon Wong",
+    "image": "https://github.com/vscode-shellcheck/vscode-shellcheck/raw/master/images/logo.png",
+    "description": "Integrates ShellCheck linter for bash/sh shell scripts with diagnostics.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
+},
+{
+    "id": 591,
+    "title": "Terraform",
+    "creator": "HashiCorp",
+    "image": "https://github.com/hashicorp/vscode-terraform/raw/master/images/logo.png",
+    "description": "Terraform HCL language support with syntax highlighting and formatting.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform"
+},
+{
+    "id": 592,
+    "title": "Vim",
+    "creator": "VSCodeVim",
+    "image": "https://github.com/VSCodeVim/Vim/raw/master/images/logo.png",
+    "description": "Vim emulation for Visual Studio Code with keybindings and modes.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
+},
+{
+    "id": 593,
+    "title": "Docker Explorer",
+    "creator": "formulahendry",
+    "image": "https://github.com/formulahendry/vscode-docker-explorer/raw/master/images/logo.png",
+    "description": "Manage Docker containers, images, volumes and networks directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer"
+},
+{
+    "id": 594,
+    "title": "Kubernetes",
+    "creator": "Microsoft",
+    "image": "https://github.com/Azure/vscode-kubernetes-tools/raw/master/images/logo.png",
+    "description": "Develop, deploy and debug Kubernetes applications from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools"
+},
+{
+    "id": 595,
+    "title": "Azure Tools",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-azuretools/raw/main/images/logo.png",
+    "description": "Extensions for working with Azure resources directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack"
+},
+{
+    "id": 596,
+    "title": "AWS Toolkit",
+    "creator": "Amazon",
+    "image": "https://github.com/aws/aws-toolkit-vscode/raw/master/media/aws-toolkit.png",
+    "description": "Official AWS toolkit for VS Code with Lambda, CloudFormation and other services support.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode"
+},
+{
+    "id": 597,
+    "title": "Google Cloud Code",
+    "creator": "Google",
+    "image": "https://github.com/GoogleCloudPlatform/cloud-code-vscode/raw/master/images/logo.png",
+    "description": "Develop, deploy and debug Kubernetes applications on Google Cloud from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
+},
+{
+    "id": 598,
+    "title": "Serverless IDE",
+    "creator": "Threadheap",
+    "image": "https://github.com/threadheap/serverless-ide-vscode/raw/master/images/logo.png",
+    "description": "YAML validation, autocompletion and navigation for serverless framework files.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ThreadHeap.serverless-ide-vscode"
+},
+{
+    "id": 599,
+    "title": "Azure Functions",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-azurefunctions/raw/main/images/logo.png",
+    "description": "Create, debug, manage, and deploy serverless apps directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
+},
+{
+    "id": 600,
+    "title": "Azure App Service",
+    "creator": "Microsoft",
+    "image": "https://github.com/microsoft/vscode-azureappservice/raw/main/images/logo.png",
+    "description": "Deploy and manage Azure Web Apps directly from VS Code.",
+    "downloadUrl": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice"
+},
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
