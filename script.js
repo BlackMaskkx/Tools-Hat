@@ -2929,6 +2929,470 @@ const toolsData = [
     "downloadUrl": "apt install sniffair"
 },
     {
+    "id": 367,
+    "title": "Hollow Knight",
+    "creator": "Team Cherry",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+    "description": "An epic action adventure through a vast ruined kingdom of insects and heroes",
+    "downloadUrl": "https://store.steampowered.com/app/367520/Hollow_Knight/"
+},
+{
+    "id": 368,
+    "title": "Stardew Valley",
+    "creator": "ConcernedApe",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "description": "A charming farming simulation game where you restore your grandfather's old farm",
+    "downloadUrl": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+},
+{
+    "id": 369,
+    "title": "Celeste",
+    "creator": "Maddy Makes Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg",
+    "description": "A platformer about climbing a mountain and overcoming personal struggles",
+    "downloadUrl": "https://store.steampowered.com/app/504230/Celeste/"
+},
+{
+    "id": 370,
+    "title": "Terraria",
+    "creator": "Re-Logic",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "description": "A 2D sandbox adventure with exploration, building, crafting and combat",
+    "downloadUrl": "https://store.steampowered.com/app/105600/Terraria/"
+},
+{
+    "id": 371,
+    "title": "Undertale",
+    "creator": "Toby Fox",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391540/header.jpg",
+    "description": "An RPG game where you don't have to destroy anyone",
+    "downloadUrl": "https://store.steampowered.com/app/391540/Undertale/"
+},
+{
+    "id": 372,
+    "title": "The Binding of Isaac: Rebirth",
+    "creator": "Nicalis, Inc.",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
+    "description": "A randomly generated action RPG shooter with heavy Rogue-like elements",
+    "downloadUrl": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/"
+},
+{
+    "id": 373,
+    "title": "Dead Cells",
+    "creator": "Motion Twin",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+    "description": "A roguevania action-platformer with permadeath and nonlinear progression",
+    "downloadUrl": "https://store.steampowered.com/app/588650/Dead_Cells/"
+},
+{
+    "id": 374,
+    "title": "Cuphead",
+    "creator": "Studio MDHR",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg",
+    "description": "A classic run and gun action game heavily focused on boss battles",
+    "downloadUrl": "https://store.steampowered.com/app/268910/Cuphead/"
+},
+{
+    "id": 375,
+    "title": "Hades",
+    "creator": "Supergiant Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+    "description": "A rogue-like dungeon crawler where you defy the god of the dead",
+    "downloadUrl": "https://store.steampowered.com/app/1145360/Hades/"
+},
+{
+    "id": 376,
+    "title": "Ori and the Blind Forest",
+    "creator": "Moon Studios",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/261570/header.jpg",
+    "description": "A beautifully crafted platform adventure with a touching story",
+    "downloadUrl": "https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/"
+},
+{
+    "id": 377,
+    "title": "Slay the Spire",
+    "creator": "Mega Crit Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg",
+    "description": "A roguelike deck-building game where you build a unique deck to climb the spire",
+    "downloadUrl": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+},
+{
+    "id": 378,
+    "title": "Among Us",
+    "creator": "InnerSloth",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
+    "description": "A multiplayer game of teamwork and betrayal set in space",
+    "downloadUrl": "https://store.steampowered.com/app/945360/Among_Us/"
+},
+{
+    "id": 379,
+    "title": "Risk of Rain 2",
+    "creator": "Hopoo Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/632360/header.jpg",
+    "description": "A 3D roguelike shooter with a focus on replayability and loot",
+    "downloadUrl": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/"
+},
+{
+    "id": 380,
+    "title": "Valheim",
+    "creator": "Iron Gate AB",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg",
+    "description": "A brutal exploration and survival game for 1-10 players in a procedurally-generated world",
+    "downloadUrl": "https://store.steampowered.com/app/892970/Valheim/"
+},
+{
+    "id": 381,
+    "title": "Deep Rock Galactic",
+    "creator": "Ghost Ship Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/548430/header.jpg",
+    "description": "A 1-4 player co-op FPS featuring badass space Dwarves, destructible environments, and procedurally-generated caves",
+    "downloadUrl": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/"
+},
+{
+    "id": 382,
+    "title": "Factorio",
+    "creator": "Wube Software",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg",
+    "description": "A game about building and creating automated factories to produce increasingly complex items",
+    "downloadUrl": "https://store.steampowered.com/app/427520/Factorio/"
+},
+{
+    "id": 383,
+    "title": "RimWorld",
+    "creator": "Ludeon Studios",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg",
+    "description": "A sci-fi colony sim driven by an intelligent AI storyteller",
+    "downloadUrl": "https://store.steampowered.com/app/294100/RimWorld/"
+},
+{
+    "id": 384,
+    "title": "Subnautica",
+    "creator": "Unknown Worlds Entertainment",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg",
+    "description": "An underwater adventure game set on an alien ocean planet",
+    "downloadUrl": "https://store.steampowered.com/app/264710/Subnautica/"
+},
+{
+    "id": 385,
+    "title": "Outer Wilds",
+    "creator": "Mobius Digital",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg",
+    "description": "An open world mystery about a solar system trapped in an endless time loop",
+    "downloadUrl": "https://store.steampowered.com/app/753640/Outer_Wilds/"
+},
+{
+    "id": 386,
+    "title": "Disco Elysium",
+    "creator": "ZA/UM",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
+    "description": "A groundbreaking role playing game where you play a detective with a unique skill system",
+    "downloadUrl": "https://store.steampowered.com/app/632470/Disco_Elysium/"
+},
+{
+    "id": 387,
+    "title": "Return of the Obra Dinn",
+    "creator": "Lucas Pope",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/653530/header.jpg",
+    "description": "A first-person mystery adventure based on exploration and logical deduction",
+    "downloadUrl": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/"
+},
+{
+    "id": 388,
+    "title": "Into the Breach",
+    "creator": "Subset Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/590380/header.jpg",
+    "description": "A turn-based strategy game where you control powerful mechs to defend cities from giant monsters",
+    "downloadUrl": "https://store.steampowered.com/app/590380/Into_the_Breach/"
+},
+{
+    "id": 389,
+    "title": "FTL: Faster Than Light",
+    "creator": "Subset Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/212680/header.jpg",
+    "description": "A spaceship simulation roguelike-like where you control the crew of a single spacecraft",
+    "downloadUrl": "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/"
+},
+{
+    "id": 390,
+    "title": "Darkest Dungeon",
+    "creator": "Red Hook Studios",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/262060/header.jpg",
+    "description": "A challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring",
+    "downloadUrl": "https://store.steampowered.com/app/262060/Darkest_Dungeon/"
+},
+{
+    "id": 391,
+    "title": "Bastion",
+    "creator": "Supergiant Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/107100/header.jpg",
+    "description": "An action RPG with a reactive narrator, hand-painted artwork, and responsive gameplay",
+    "downloadUrl": "https://store.steampowered.com/app/107100/Bastion/"
+},
+{
+    "id": 392,
+    "title": "Transistor",
+    "creator": "Supergiant Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/237930/header.jpg",
+    "description": "A sci-fi action RPG that combines responsive gameplay with a strong narrative",
+    "downloadUrl": "https://store.steampowered.com/app/237930/Transistor/"
+},
+{
+    "id": 393,
+    "title": "Pyre",
+    "creator": "Supergiant Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/462770/header.jpg",
+    "description": "A party-based RPG in which you lead a band of exiles through a series of mystical competitions",
+    "downloadUrl": "https://store.steampowered.com/app/462770/Pyre/"
+},
+{
+    "id": 394,
+    "title": "Mark of the Ninja",
+    "creator": "Klei Entertainment",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/214560/header.jpg",
+    "description": "A 2D stealth game where you must be silent, agile and clever to outwit your opponents",
+    "downloadUrl": "https://store.steampowered.com/app/214560/Mark_of_the_Ninja/"
+},
+{
+    "id": 395,
+    "title": "Don't Starve",
+    "creator": "Klei Entertainment",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219740/header.jpg",
+    "description": "An uncompromising wilderness survival game full of science and magic",
+    "downloadUrl": "https://store.steampowered.com/app/219740/Dont_Starve/"
+},
+{
+    "id": 396,
+    "title": "Oxygen Not Included",
+    "creator": "Klei Entertainment",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/457140/header.jpg",
+    "description": "A space-colony simulation game where you manage your colonists and help them dig, build and maintain a subterranean asteroid base",
+    "downloadUrl": "https://store.steampowered.com/app/457140/Oxygen_Not_Included/"
+},
+{
+    "id": 397,
+    "title": "Inscryption",
+    "creator": "Daniel Mullins Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092790/header.jpg",
+    "description": "A dark narrative-driven card game with escape room elements and psychological horror",
+    "downloadUrl": "https://store.steampowered.com/app/1092790/Inscryption/"
+},
+{
+    "id": 398,
+    "title": "The Witness",
+    "creator": "Thekla, Inc.",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg",
+    "description": "A single-player puzzle game in an open world with dozens of locations to explore",
+    "downloadUrl": "https://store.steampowered.com/app/210970/The_Witness/"
+},
+{
+    "id": 399,
+    "title": "Superhot",
+    "creator": "SUPERHOT Team",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/322500/header.jpg",
+    "description": "A first-person shooter where time moves only when you move",
+    "downloadUrl": "https://store.steampowered.com/app/322500/SUPERHOT/"
+},
+{
+    "id": 400,
+    "title": "Hotline Miami",
+    "creator": "Dennaton Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219150/header.jpg",
+    "description": "A high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat",
+    "downloadUrl": "https://store.steampowered.com/app/219150/Hotline_Miami/"
+},
+{
+    "id": 401,
+    "title": "Katana ZERO",
+    "creator": "Askiisoft",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/460950/header.jpg",
+    "description": "A stylish neo-noir action platformer featuring breakneck action and instant-death combat",
+    "downloadUrl": "https://store.steampowered.com/app/460950/Katana_ZERO/"
+},
+{
+    "id": 402,
+    "title": "A Short Hike",
+    "creator": "adamgryu",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055540/header.jpg",
+    "description": "A lovely little exploration game about climbing a mountain at your own pace",
+    "downloadUrl": "https://store.steampowered.com/app/1055540/A_Short_Hike/"
+},
+{
+    "id": 403,
+    "title": "Papers, Please",
+    "creator": "Lucas Pope",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/239030/header.jpg",
+    "description": "A dystopian document thriller where you play as an immigration inspector",
+    "downloadUrl": "https://store.steampowered.com/app/239030/Papers_Please/"
+},
+{
+    "id": 404,
+    "title": "The Stanley Parable",
+    "creator": "Galactic Cafe",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/221910/header.jpg",
+    "description": "A first person exploration game that plays with narrative, choice and consequence",
+    "downloadUrl": "https://store.steampowered.com/app/221910/The_Stanley_Parable/"
+},
+{
+    "id": 405,
+    "title": "Firewatch",
+    "creator": "Campo Santo",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/383870/header.jpg",
+    "description": "A first-person mystery set in the Wyoming wilderness where your only emotional lifeline is the person on the other end of a handheld radio",
+    "downloadUrl": "https://store.steampowered.com/app/383870/Firewatch/"
+},
+{
+    "id": 406,
+    "title": "What Remains of Edith Finch",
+    "creator": "Giant Sparrow",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg",
+    "description": "A collection of strange tales about a family in Washington state",
+    "downloadUrl": "https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/"
+},
+{
+    "id": 407,
+    "title": "Gris",
+    "creator": "Nomada Studio",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/683320/header.jpg",
+    "description": "A serene and evocative experience free of danger, frustration or death",
+    "downloadUrl": "https://store.steampowered.com/app/683320/GRIS/"
+},
+{
+    "id": 408,
+    "title": "Journey",
+    "creator": "thatgamecompany",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/638230/header.jpg",
+    "description": "An exotic adventure with a more serious tone, presenting a unique vision of an online adventure experience",
+    "downloadUrl": "https://store.steampowered.com/app/638230/Journey/"
+},
+{
+    "id": 409,
+    "title": "ABZÛ",
+    "creator": "Giant Squid",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/384190/header.jpg",
+    "description": "From the art director of Journey, a beautiful underwater adventure that evokes the dream of diving",
+    "downloadUrl": "https://store.steampowered.com/app/384190/ABZ/"
+},
+{
+    "id": 410,
+    "title": "The Talos Principle",
+    "creator": "Croteam",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/257510/header.jpg",
+    "description": "A philosophical first-person puzzle game from the creators of Serious Sam",
+    "downloadUrl": "https://store.steampowered.com/app/257510/The_Talos_Principle/"
+},
+{
+    "id": 411,
+    "title": "The Swapper",
+    "creator": "Facepalm Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/231160/header.jpg",
+    "description": "A thoughtful, atmospheric puzzle platformer set in the furthest reaches of space",
+    "downloadUrl": "https://store.steampowered.com/app/231160/The_Swapper/"
+},
+{
+    "id": 412,
+    "title": "Braid",
+    "creator": "Number None",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/26800/header.jpg",
+    "description": "A puzzle-platformer where you manipulate the flow of time in strange and unusual ways",
+    "downloadUrl": "https://store.steampowered.com/app/26800/Braid/"
+},
+{
+    "id": 413,
+    "title": "Limbo",
+    "creator": "Playdead",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/48000/header.jpg",
+    "description": "A black and white puzzle-platformer about a boy searching for his sister",
+    "downloadUrl": "https://store.steampowered.com/app/48000/Limbo/"
+},
+{
+    "id": 414,
+    "title": "Inside",
+    "creator": "Playdead",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/304430/header.jpg",
+    "description": "A dark, narrative-driven platformer combining intense action with challenging puzzles",
+    "downloadUrl": "https://store.steampowered.com/app/304430/INSIDE/"
+},
+{
+    "id": 415,
+    "title": "Little Nightmares",
+    "creator": "Tarsier Studios",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/424840/header.jpg",
+    "description": "A dark whimsical tale about Six, a little girl trapped in a mysterious world called The Maw",
+    "downloadUrl": "https://store.steampowered.com/app/424840/Little_Nightmares/"
+},
+{
+    "id": 416,
+    "title": "SOMA",
+    "creator": "Frictional Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/282140/header.jpg",
+    "description": "A sci-fi horror game from the creators of Amnesia: The Dark Descent",
+    "downloadUrl": "https://store.steampowered.com/app/282140/SOMA/"
+},
+{
+    "id": 417,
+    "title": "Amnesia: The Dark Descent",
+    "creator": "Frictional Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/57300/header.jpg",
+    "description": "A first person survival horror where you must escape the shadows hunting you",
+    "downloadUrl": "https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
+},
+{
+    "id": 418,
+    "title": "Outlast",
+    "creator": "Red Barrels",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/238320/header.jpg",
+    "description": "A first-person survival horror game where you investigate a remote psychiatric hospital",
+    "downloadUrl": "https://store.steampowered.com/app/238320/Outlast/"
+},
+{
+    "id": 419,
+    "title": "Alien: Isolation",
+    "creator": "Creative Assembly",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/214490/header.jpg",
+    "description": "A survival horror game capturing the fear and tension evoked by Ridley Scott's 1979 classic film",
+    "downloadUrl": "https://store.steampowered.com/app/214490/Alien_Isolation/"
+},
+{
+    "id": 420,
+    "title": "Resident Evil 2 Remake",
+    "creator": "CAPCOM Co., Ltd.",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/883710/header.jpg",
+    "description": "A complete remake of the classic survival horror game Resident Evil 2",
+    "downloadUrl": "https://store.steampowered.com/app/883710/Resident_Evil_2/"
+},
+{
+    "id": 421,
+    "title": "Dead Space",
+    "creator": "EA Redwood Shores",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/17470/header.jpg",
+    "description": "A sci-fi survival horror game set aboard a stricken mining spacecraft",
+    "downloadUrl": "https://store.steampowered.com/app/17470/Dead_Space/"
+},
+{
+    "id": 422,
+    "title": "Doki Doki Literature Club!",
+    "creator": "Team Salvato",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/698780/header.jpg",
+    "description": "A psychological horror story disguised as a cute dating sim",
+    "downloadUrl": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"
+},
+{
+    "id": 423,
+    "title": "Five Nights at Freddy's",
+    "creator": "Scott Cawthon",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/319510/header.jpg",
+    "description": "A point-and-click survival horror where you must survive against animatronic characters",
+    "downloadUrl": "https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/"
+},
+{
+    "id": 424,
+    "title": "Phasmophobia",
+    "creator": "Kinetic Games",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/739630/header.jpg",
+    "description": "A 4-player online co-op psychological horror where you investigate paranormal activity",
+    "downloadUrl": "https://store.steampowered.com/app/739630/Phasmophobia/"
+},
+    {
         id: 16,
         title: "Blender",
         creator: "Blender Foundation",
