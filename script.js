@@ -34,6 +34,86 @@ const toolsData = [
     },
     {
         id: 5,
+        title: "VLC Media Player",
+        creator: "VideoLAN",
+        image: "https://www.videolan.org/images/vlc-256.png",
+        description: "A free and open-source multimedia player that plays most multimedia files and streaming protocols.",
+        downloadUrl: "https://www.videolan.org/vlc/"
+    },
+    {
+        id: 6,
+        title: "VS Code",
+        creator: "Microsoft",
+        image: "https://code.visualstudio.com/assets/images/code-stable.png",
+        description: "A lightweight but powerful source code editor with built-in Git support and extensions.",
+        downloadUrl: "https://code.visualstudio.com/download"
+    },
+    {
+        id: 7,
+        title: "DaVinci Resolve",
+        creator: "Blackmagic Design",
+        image: "https://www.blackmagicdesign.com/products/davinciresolve/resources/img/logo.png",
+        description: "Professional video editing and color correction software with a free version available.",
+        downloadUrl: "https://www.blackmagicdesign.com/products/davinciresolve/"
+    },
+    {
+        id: 8,
+        title: "Krita",
+        creator: "Krita Foundation",
+        image: "https://krita.org/wp-content/uploads/2022/10/krita_logo_2022.png",
+        description: "A free and open-source digital painting software for concept art and illustration.",
+        downloadUrl: "https://krita.org/en/download/krita-desktop/"
+    },
+    {
+        id: 9,
+        title: "Notion",
+        creator: "Notion Labs",
+        image: "https://www.notion.so/cdn/assets/favicon.ico",
+        description: "An all-in-one workspace for notes, tasks, wikis, and databases.",
+        downloadUrl: "https://www.notion.so/desktop"
+    },
+    {
+        id: 10,
+        title: "GIMP",
+        creator: "The GIMP Development Team",
+        image: "https://www.gimp.org/images/frontpage/wilber-logo.png",
+        description: "A free and open-source raster graphics editor for image manipulation and retouching.",
+        downloadUrl: "https://www.gimp.org/downloads/"
+    },
+    {
+        id: 11,
+        title: "Audacity",
+        creator: "Audacity Team",
+        image: "https://www.audacityteam.org/wp-content/uploads/2021/07/audacity-logo-250x250-1.png",
+        description: "A free, open-source audio editor and recorder with multi-track support.",
+        downloadUrl: "https://www.audacityteam.org/download/"
+    },
+    {
+        id: 12,
+        title: "Shotcut",
+        creator: "Meltytech, LLC",
+        image: "https://shotcut.org/img/logo.png",
+        description: "A free, open-source, cross-platform video editor with a wide range of features.",
+        downloadUrl: "https://shotcut.org/download/"
+    },
+    {
+        id: 13,
+        title: "Thunderbird",
+        creator: "Mozilla Foundation",
+        image: "https://www.thunderbird.net/media/img/thunderbird/thunderbird-256.png",
+        description: "A free email client with advanced filtering, encryption, and customization options.",
+        downloadUrl: "https://www.thunderbird.net/en-US/"
+    },
+    {
+        id: 14,
+        title: "Bitwarden",
+        creator: "Bitwarden Inc.",
+        image: "https://bitwarden.com/images/logo/icon.png",
+        description: "A free and secure password manager for storing and managing credentials.",
+        downloadUrl: "https://bitwarden.com/download/"
+    },
+    {
+        id: 15,
         title: "LibreOffice",
         creator: "The Document Foundation",
         image: "https://es.libreoffice.org/themes/libreofficenew/img/logo.png",
@@ -41,7 +121,7 @@ const toolsData = [
         downloadUrl: "https://www.libreoffice.org/download/"
     },
     {
-        id: 6,
+        id: 16,
         title: "Blender",
         creator: "Blender Foundation",
         image: "https://sdmntprwestus2.oaiusercontent.com/files/00000000-cb9c-61f8-bfaf-580b2521b090/raw?se=2025-04-21T00%3A46%3A24Z&sp=r&sv=2024-08-04&sr=b&scid=97baeabc-ca6c-5dc5-92de-df466aaff899&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-20T17%3A27%3A03Z&ske=2025-04-21T17%3A27%3A03Z&sks=b&skv=2024-08-04&sig=d13xsQvaPfF16FH8zwEj8Vlf/aMBpg%2Bb3dV/dDRxAzc%3D",
